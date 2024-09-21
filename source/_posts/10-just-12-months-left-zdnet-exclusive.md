@@ -1,7 +1,7 @@
 ---
 title: 10 - Just 12 Months Left! [ZDNet Exclusive
-date: 2024-09-17 22:15:56
-updated: 2024-09-20 12:52:26
+date: 2024-09-19T08:58:06.991Z
+updated: 2024-09-21T00:53:07.416Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elite-selection-of-must-see-vr-films/"><u>[New] In 2024, Elite Selection of Must-See VR Films</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-camera-glitches-ended-by-obs-fix/"><u>[Updated] In 2024, Camera Glitches Ended by OBS Fix</u></a></li>
+<li><a href="https://win-great.techidaily.com/1-converting-flac-audio-a-step-by-step-guide-to-playing-lossless-tracks-on-itunes/"><u>1. Converting FLAC Audio: A Step-by-Step Guide to Playing Lossless Tracks on iTunes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-void-pro-drivers-for-windows-installed-with-ease-a-simple-tutorial/"><u>Corsair Void Pro Drivers For Windows Installed with Ease – A Simple Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-anthem-performance-boost/"><u>Effortless Anthem Performance Boost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-effortless-access-to-youtube-comments-for-2024/"><u>Expert Tips for Effortless Access to YouTube Comments for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-msi-z370-a-pro-updated-drivers-here/"><u>Get Your MSI Z370-A Pro Updated Drivers Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-baldurs-gate-iii-startup-issues/"><u>Resolved: Troubleshooting Baldur's Gate III Startup Issues</u></a></li>
+<li><a href="https://win-great.techidaily.com/resolving-unspecified-error-during-recording-in-obs-a-comprehensive-guide/"><u>Resolving 'Unspecified Error During Recording' In OBS - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/wonderfox-unveils-new-feature-the-ultimate-guide-for-locating-elusive-content/"><u>WonderFox Unveils New Feature: The Ultimate Guide for Locating Elusive Content</u></a></li>
+</ul></div>
+

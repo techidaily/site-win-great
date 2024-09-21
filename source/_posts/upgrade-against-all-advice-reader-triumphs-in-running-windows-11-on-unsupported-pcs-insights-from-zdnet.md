@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Against All Advice: Reader Triumphs in Running Windows 11 on Unsupported PCs | Insights From ZDNet"
-date: 2024-09-19 12:34:30
-updated: 2024-09-20 10:38:53
+date: 2024-09-15T17:29:18.401Z
+updated: 2024-09-20T19:25:03.824Z
 tags:
   - windows
 categories:
@@ -38,6 +38,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -83,11 +90,25 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -119,11 +140,29 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>[New] Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-engagement-in-online-collaboration-with-snap-camera-for-2024/"><u>[Updated] Maximizing Engagement in Online Collaboration with Snap Camera for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-igtv-potential-tips-and-strategies/"><u>[Updated] Unlocking IGTV Potential Tips & Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-m1-processor-a-leap-forward-in-video-production-technology/"><u>2024 Approved M1 Processor A Leap Forward in Video Production Technology?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>2024 Approved Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
+<li><a href="https://win-great.techidaily.com/jpgjpegmp44/"><u>画像ファイル形式の変換: JPGからJPEGをMP4へ、効果的な4方法</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-showdown-analyzing-wonderfox-dvd-converter-and-winx-dvd-ripper-effectiveness/"><u>Comprehensive Showdown: Analyzing WonderFox DVD Converter and WinX DVD Ripper Effectiveness</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-dvd-files-to-avi-quickly-and-effortlessly-for-free-with-zero-watermarks/"><u>Convert DVD Files to AVI Quickly and Effortlessly for Free with Zero Watermarks</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-to-use-flashtastic-video-converter-effortless-conversion-from-swf-flv-to-f4v-streaming-files/"><u>Easy-to-Use Flashtastic Video Converter - Effortless Conversion From SWF, FLV to F4V Streaming Files</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-swf-format-conversion-transform-your-videos-into-flash-and-back/"><u>Effortless SWF Format Conversion - Transform Your Videos Into Flash and Back</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-convert-mp4-videos-into-personalized-iphone-ringtones-easily/"><u>How to Convert MP4 Videos Into Personalized iPhone Ringtones Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-review-capturing-extreme-sports/"><u>In 2024, Hero5 Review Capturing Extreme Sports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-impact-of-using-the-cooler-master-ion-360-liquid-cpu-cooling-system/"><u>In-Depth Review: The Impact of Using the Cooler Master ION 360 Liquid CPU Cooling System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-pairing-of-podcast-apps-and-android-top-6-recommendations/"><u>Perfect Pairing of Podcast Apps & Android Top 6 Recommendations</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-s23-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy S23</u></a></li>
+</ul></div>
+

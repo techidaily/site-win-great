@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your Experience with the New Windows 11 Taskbar - A Guide From ZDNet
-date: 2024-09-17 22:46:16
-updated: 2024-09-20 12:11:45
+date: 2024-09-14T19:13:34.904Z
+updated: 2024-09-20T20:18:51.532Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +173,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-maximizing-video-memories-3-itunes-saving-methods/"><u>[New] Maximizing Video Memories 3 iTunes Saving Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-microsoftdirectxdirectinputdll-errors-on-your-pc-effective-solutions/"><u>Fixing Microsoft.DirectX.DirectInput.DLL Errors on Your PC – Effective Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-15-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A05?</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-video-editing-with-windows-10-techniques-and-tips-for-the-modern-user/"><u>Mastering Video Editing with Windows 10 - Techniques and Tips for the Modern User</u></a></li>
+<li><a href="https://win-great.techidaily.com/quick-guide-free-downloads-of-high-quality-4k-music-videos/"><u>Quick Guide: Free Downloads of High-Quality 4K Music Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/rotating-avi-content-made-easy-cost-free-conversion-tips/"><u>Rotating AVI Content Made Easy: Cost-Free Conversion Tips</u></a></li>
+<li><a href="https://win-great.techidaily.com/seamless-avi-media-insertion-and-execution-strategies-for-microsoft-powerpoint-on-windows-systems/"><u>Seamless AVI Media Insertion & Execution Strategies for Microsoft PowerPoint on Windows Systems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-6s-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 6s and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-iberian-code-deciphering-the-sounds-of-spanish-and-portuguese/"><u>The Iberian Code: Deciphering the Sounds of Spanish and Portuguese</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
+<li><a href="https://win-great.techidaily.com/no1/"><u>トレントとマグネットリンクを活用した最強のダウンロードツールが解禁!: ユーザー評価No.1ソフトへの旅路</u></a></li>
+</ul></div>
+

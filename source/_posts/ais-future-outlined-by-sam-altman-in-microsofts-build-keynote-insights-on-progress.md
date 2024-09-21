@@ -1,7 +1,7 @@
 ---
 title: AI's Future Outlined by Sam Altman in Microsoft's Build Keynote - Insights on Progress
-date: 2024-09-19 19:34:20
-updated: 2024-09-20 10:10:51
+date: 2024-09-16T04:15:36.801Z
+updated: 2024-09-21T07:30:41.836Z
 tags:
   - microsoft
 categories:
@@ -121,9 +121,29 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +179,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-grading-inshot-does-it-reign-supreme-in-2024/"><u>[Updated] Grading InShot Does It Reign Supreme, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users-for-2024/"><u>[Updated] Unlocking Fullscreen Footage Screen Recording Made Simple for Mac Users for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/jpgjpegmp44/"><u>画像ファイル形式の変換: JPGからJPEGをMP4へ、効果的な4方法</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-swf-format-conversion-transform-your-videos-into-flash-and-back/"><u>Effortless SWF Format Conversion - Transform Your Videos Into Flash and Back</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-convert-mp4-videos-into-personalized-iphone-ringtones-easily/"><u>How to Convert MP4 Videos Into Personalized iPhone Ringtones Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-itel-a60-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Itel A60.</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/1716362903998-how-to-see-your-subscribers-on-youtube/"><u>How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-innovative-thumbnail-tips-for-mac-users-youtube/"><u>In 2024, Innovative Thumbnail Tips for Mac Users - YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/1719336618337-quick-fix-guide-overcome-incompatibility-in-windows-xp/"><u>Quick-Fix Guide: Overcome Incompatibility in Windows XP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-ai-optimieren-sie-ihre-mobile-erfahrung-auf-android-und-ios-geraten/"><u>WinxVideo AI - Optimieren Sie Ihre Mobile Erfahrung Auf Android Und iOS Geräten</u></a></li>
+</ul></div>
+

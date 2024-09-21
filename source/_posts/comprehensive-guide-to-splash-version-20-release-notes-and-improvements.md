@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Splash Version 2.0 Release Notes and Improvements
-date: 2024-09-17 23:35:22
-updated: 2024-09-20 12:25:13
+date: 2024-09-17T11:16:50.716Z
+updated: 2024-09-20T23:02:54.712Z
 tags:
   - product
 categories:
@@ -94,6 +94,13 @@ Windows Vista, 7, 8, 8.1, 10, 11
 
 06/02/2019 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Splash 2.3.0 is now available! (FREE for everyone!)
 
 **What's new in Splash 2.3.0?**
@@ -121,6 +128,19 @@ Windows Vista, 7, 8, 8.1, 10, 11
 [Read more and download the latest Splash version](https://tools.techidaily.com/mirillis/products/) 
 
 24/05/2017 
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Splash 2.1.0 is now available!
 
@@ -152,6 +172,13 @@ Rediscover High Definition quality with state-of-the-art Picture2 technology!
 
 ![Splash HD video player](https://mirillis.com/res/old/media/images/product/splash/clip.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [learn more](https://tools.techidaily.com/mirillis/products/) 
 
 Features
@@ -179,11 +206,27 @@ Export and upload your recordings to YouTube™
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-efficiently-change-your-facebook-videos-into-mp3-songs/"><u>[New] In 2024, Efficiently Change Your Facebook Videos Into MP3 Songs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-crafting-a-captivated-audience-in-3-steps/"><u>[Updated] In 2024, Crafting a Captivated Audience in 3 Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>[Updated] Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-yuneecs-typhoon-h-uav-a-detailed-performance-breakdown/"><u>2024 Approved Yuneec's Typhoon H UAV A Detailed Performance Breakdown</u></a></li>
+<li><a href="https://win-great.techidaily.com/jpgjpegmp44/"><u>画像ファイル形式の変換: JPGからJPEGをMP4へ、効果的な4方法</u></a></li>
+<li><a href="https://facebook.techidaily.com/cultivating-goodwill-during-your-group-disassociation-journey/"><u>Cultivating Goodwill During Your Group Disassociation Journey</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-swf-format-conversion-transform-your-videos-into-flash-and-back/"><u>Effortless SWF Format Conversion - Transform Your Videos Into Flash and Back</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-convert-mp4-videos-into-personalized-iphone-ringtones-easily/"><u>How to Convert MP4 Videos Into Personalized iPhone Ringtones Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/is-inshot-the-peak-of-video-editing-software/"><u>Is InShot the Peak of Video Editing Software?</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-video-editing-with-windows-10-techniques-and-tips-for-the-modern-user/"><u>Mastering Video Editing with Windows 10 - Techniques and Tips for the Modern User</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-moguls-tips-for-seamless-gaming-on-trips/"><u>Mobile Mogul's Tips for Seamless Gaming on Trips</u></a></li>
+</ul></div>
+

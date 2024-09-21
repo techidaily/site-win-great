@@ -1,7 +1,7 @@
 ---
 title: "Urgent Challenge Ahead: Microsoft Must Fix Major Flaws in Windows 11 Within Just One Year - Insights From ZDNet"
-date: 2024-09-17 15:28:26
-updated: 2024-09-20 10:31:27
+date: 2024-09-18T19:28:58.974Z
+updated: 2024-09-21T03:06:31.853Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premier-low-carbon-screen-recording-solutions/"><u>[Updated] In 2024, Premier Low-Carbon Screen Recording Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rise-of-the-alternative-top-3-video-sharing-websites/"><u>[Updated] In 2024, Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-30-best-freefire-tagshashtags-for-youtube/"><u>2024 Approved 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
+<li><a href="https://win-great.techidaily.com/wmamp38/"><u>最新WMAファイルを効率的にMP3に変換する自由ソフト8選のリスト</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-download-and-use-kinemaster-on-your-mac/"><u>How to Download and Use KineMaster on Your Mac</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-leading-lineup-best-no-charges-music-transformation-apps-for-iphoneandroid-enthusiasts/"><u>New In 2024, The Leading Lineup Best No-Charges Music Transformation Apps for iPhone/Android Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/reign-supreme-on-twitch-with-these-7-streamer-assistants/"><u>Reign Supreme on Twitch With These 7 Streamer Assistants</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-zte-blade-a73-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace ZTE Blade A73 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/watermark-free-video-cropping-techniques-a-step-by-step-guide/"><u>Watermark-Free Video Cropping Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-pc4/"><u>Windows PC向けトップ4画面キャプチャツール - オススメリスト</u></a></li>
+</ul></div>
+

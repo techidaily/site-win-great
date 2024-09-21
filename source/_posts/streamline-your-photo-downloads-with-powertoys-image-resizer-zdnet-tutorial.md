@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Photo Downloads with PowerToys Image Resizer - ZDNet Tutorial
-date: 2024-09-18 21:29:23
-updated: 2024-09-20 12:26:22
+date: 2024-09-15T00:45:47.490Z
+updated: 2024-09-20T17:19:06.125Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>[Updated] In 2024, Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-master-the-game-with-aliez-expert-guide-on-live-streaming-strategies-and-techniques/"><u>1. Master the Game with Aliez: Expert Guide on Live-Streaming Strategies & Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-catch-up-effective-methods-for-skipping-edgenuity-courses/"><u>2024 Approved Quick Catch-Up Effective Methods for Skipping Edgenuity Courses</u></a></li>
+<li><a href="https://win-great.techidaily.com/wmamp38/"><u>最新WMAファイルを効率的にMP3に変換する自由ソフト8選のリスト</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-journey-into-french-culture-phrases-to-use-abroad/"><u>A Journey Into French Culture: Phrases to Use Abroad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-dcp-l254press-release-free-download-and-install-software-on-windows/"><u>Brother DCP-L254press Release - Free Download & Install Software on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-meizu-21-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Meizu 21 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-incorporating-audio-into-new-and-enhanced-mkv-files/"><u>New 2024 Approved Incorporating Audio Into New and Enhanced MKV Files</u></a></li>
+<li><a href="https://win-great.techidaily.com/resolving-unspecified-error-during-recording-in-obs-a-comprehensive-guide/"><u>Resolving 'Unspecified Error During Recording' In OBS - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-adventures-how-to-fix-dauntless-stuttering-lag-and-freezing-on-pc/"><u>Seamless Adventures: How to Fix Dauntless Stuttering, Lag, & Freezing on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-conundrum-of-tech-empathy-can-ai-mirror-our-feelings/"><u>The Conundrum of Tech Empathy: Can AI Mirror Our Feelings?</u></a></li>
+<li><a href="https://win-great.techidaily.com/watermark-free-video-cropping-techniques-a-step-by-step-guide/"><u>Watermark-Free Video Cropping Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-pc4/"><u>Windows PC向けトップ4画面キャプチャツール - オススメリスト</u></a></li>
+<li><a href="https://win-great.techidaily.com/wonderfox-unveils-new-feature-the-ultimate-guide-for-locating-elusive-content/"><u>WonderFox Unveils New Feature: The Ultimate Guide for Locating Elusive Content</u></a></li>
+</ul></div>
+
