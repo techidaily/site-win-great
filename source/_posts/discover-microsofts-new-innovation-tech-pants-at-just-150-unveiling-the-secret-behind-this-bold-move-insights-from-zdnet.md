@@ -1,7 +1,7 @@
 ---
 title: "Discover Microsoft's New Innovation: Tech Pants at Just $150! Unveiling the Secret Behind This Bold Move - Insights From ZDNet"
-date: 2024-09-21T18:51:41.547Z
-updated: 2024-09-25T16:56:36.315Z
+date: 2024-09-27T23:14:02.119Z
+updated: 2024-09-29T17:33:19.422Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -95,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-keep-your-spotify-experience-recommendation-free/"><u>[New] Keep Your Spotify Experience Recommendation-Free</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-spotlight-on-facebook-discover-the-most-watched-vids-for-2024/"><u>[Updated] Spotlight on Facebook Discover the Most Watched Vids for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-detailed-walkthrough-to-address-ftd2xxdll-errors-effectively/"><u>A Detailed Walkthrough to Address ftd2xx.dll Errors Effectively</u></a></li>
-<li><a href="https://win-great.techidaily.com/chilloutzone-downloads-available-in-various-video-codecs-for-high-quality-playback/"><u>ChilloutZone Downloads Available in Various Video Codecs for High-Quality Playback</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
-<li><a href="https://win-great.techidaily.com/converting-npr-broadcasts-into-multiple-audio-types-for-offline-listening/"><u>Converting NPR Broadcasts Into Multiple Audio Types for Offline Listening</u></a></li>
-<li><a href="https://win-great.techidaily.com/converting-your-alienthink-videos-guide-to-downloading-in-mp4-or-avi-formats/"><u>Converting Your AlienThink Videos: Guide to Downloading in MP4 or AVI Formats</u></a></li>
-<li><a href="https://win-great.techidaily.com/download-and-convert-transforming-your-lectures-and-courses-with-tele-task-to-high-quality-videos-mp4-mov/"><u>Download & Convert: Transforming Your Lectures and Courses with Tele-TASK to High-Quality Videos (MP4, MOV)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensure-smooth-gaming-with-these-5-proven-techniques-to-accelerate-battlenet-speeds-2024-edition/"><u>Ensure Smooth Gaming with These 5 Proven Techniques to Accelerate Battle.net Speeds - 2024 Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-microphone-quick-fix-solutions/"><u>Revive Your Corsair Virtuoso Microphone - Quick Fix Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-gt-neo-5-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme GT Neo 5 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-xsplit-evaluation-direct-access-to-game-splits-for-2024/"><u>[Updated] XSplit Evaluation Direct Access to Game Splits for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-edge-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Edge 2023 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/5yplusk44ge5yuv55s744gm6kgo56s644gn44gn44gq44gp44gq44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go5aplusplus562w44ks5a2m44kt44gg5pa544cf44g4/"><u>古い動画が表示できなくなった場合、その原因と対策を学んだ方々へ</u></a></li>
+<li><a href="https://win-great.techidaily.com/avi-2024/"><u>新規AVIフォーマットへ挑戦! 2024年最先端のビデオ再生ソリューションとその対策</u></a></li>
+<li><a href="https://win-great.techidaily.com/a-comprehensive-walkthrough-mastering-the-art-of-uploading-content-to-twitch/"><u>A Comprehensive Walkthrough: Mastering the Art of Uploading Content to Twitch</u></a></li>
+<li><a href="https://win-great.techidaily.com/can-you-secretly-capture-your-google-meet-discussions-without-consent-heres-the-guide/"><u>Can You Secretly Capture Your Google Meet Discussions Without Consent? Here's the Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-showdown-analyzing-wonderfox-dvd-converter-and-winx-dvd-ripper-effectiveness/"><u>Comprehensive Showdown: Analyzing WonderFox DVD Converter and WinX DVD Ripper Effectiveness</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discover-fresh-windows-10-gaming-and-application-delights-for-2024/"><u>Discover Fresh Windows 10 Gaming & Application Delights for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-hidden-treasure-securely-download-igtv-videos-on-pcmacos/"><u>In 2024, Instagram's Hidden Treasure Securely Download IGTV Videos on PC/MacOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-disconnect-problems-on-iphone-here-are-your-5-go-to-remedies/"><u>Wi-Fi Disconnect Problems on iPhone? Here Are Your 5 Go-To Remedies</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726027469896-youtubemp3/"><u>YouTube上でMP3音楽ファイルをダウンロードできない理由と解決手順</u></a></li>
 </ul></div>
 

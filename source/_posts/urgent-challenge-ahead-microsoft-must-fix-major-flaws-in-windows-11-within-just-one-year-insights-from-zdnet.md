@@ -1,7 +1,7 @@
 ---
 title: "Urgent Challenge Ahead: Microsoft Must Fix Major Flaws in Windows 11 Within Just One Year - Insights From ZDNet"
-date: 2024-09-21T20:14:25.525Z
-updated: 2024-09-25T18:46:58.437Z
+date: 2024-09-25T09:58:13.256Z
+updated: 2024-09-30T15:08:24.377Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-extended-appraisal-hero4-black-performance/"><u>[Updated] Extended Appraisal Hero4 Black Performance</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-rogue-adventures-10-game-compilation-for-2024/"><u>[Updated] Leading Rogue Adventures #10 Game Compilation for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/6-completely-different-places-to-get-youtube-icons-and-logos-for-2024/"><u>6 Completely Different Places to Get YouTube Icons and Logos for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/choose-the-ideal-work-seat-the-ultimate-guide-to-2022s-best-ergonomic-office-chairs-zdnet-rated/"><u>Choose the Ideal Work Seat: The Ultimate Guide to 2022'S Best Ergonomic Office Chairs (ZDNET Rated)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-remedies-for-starting-problems-in-baldurs-gate-3-adventure/"><u>Effective Remedies for Starting Problems in Baldur's Gate 3 Adventure</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pro-free-ending-makers-ranked-1-6/"><u>In 2024, Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
-<li><a href="https://win-great.techidaily.com/microsoft-unveils-educational-focus-with-windows-11-se-and-budget-friendly-surface-laptop-se-a-revolution-in-schools-tech-zdnet/"><u>Microsoft Unveils Educational Focus with Windows 11 SE and Budget-Friendly Surface Laptop SE: A Revolution in Schools' Tech | ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/save-big-on-your-sit-to-stand-desk-transformation-the-affordable-solution-now-offered-by-zdnet/"><u>Save Big on Your Sit-to-Stand Desk Transformation: The Affordable Solution Now Offered by ZDNet!</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-ranking-gaming-seats-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Gaming Seats : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-game-crashes-in-minecraft-dungeons-on-desktop/"><u>Troubleshooting Tips for Fixing Game-Crashes in Minecraft Dungeons on Desktop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>[Updated] 2024 Approved Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-pathway-to-profitability-with-the-new-youtube-premium-program/"><u>[Updated] 2024 Approved Pathway to Profitability with the New YouTube Premium Program</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-superior-earners-on-social-media-platform/"><u>2024 Approved Superior Earners on Social Media Platform</u></a></li>
+<li><a href="https://win-great.techidaily.com/converting-npr-broadcasts-into-multiple-audio-types-for-offline-listening/"><u>Converting NPR Broadcasts Into Multiple Audio Types for Offline Listening</u></a></li>
+<li><a href="https://win-great.techidaily.com/converting-your-alienthink-videos-guide-to-downloading-in-mp4-or-avi-formats/"><u>Converting Your AlienThink Videos: Guide to Downloading in MP4 or AVI Formats</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-and-convert-transforming-your-lectures-and-courses-with-tele-task-to-high-quality-videos-mp4-mov/"><u>Download & Convert: Transforming Your Lectures and Courses with Tele-TASK to High-Quality Videos (MP4, MOV)</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-content-from-munchner-fernsehen-easy-video-retrieval-guide-for-local-german-programming/"><u>Download Content From Münchner Fernsehen: Easy Video Retrieval Guide for Local German Programming</u></a></li>
+<li><a href="https://win-great.techidaily.com/downloading-imdb-titles-safely-and-legally-comprehensive-tutorial/"><u>Downloading IMDB Titles Safely and Legally: Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-year-in-review-exploring-vivacuts-evolution-and-its-video-editors-guide/"><u>In 2024, A Year in Review Exploring VivaCut’s Evolution and Its Video Editor’s Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-v29e-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo V29e</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts/"><u>Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts</u></a></li>
 </ul></div>
 

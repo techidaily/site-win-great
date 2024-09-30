@@ -1,7 +1,7 @@
 ---
 title: "Impending Crisis for Microsoft: Just 12 Months Left to Resolve Significant Windows 10 Challenges | Exclusive ZDNET Report"
-date: 2024-09-18T17:45:17.085Z
-updated: 2024-09-25T16:38:03.613Z
+date: 2024-09-27T23:15:06.750Z
+updated: 2024-09-30T11:55:30.969Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-an-easy-to-follow-guide-to-applying-cc-license-types/"><u>[New] 2024 Approved An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-3-unconventional-tactics-for-subscriber-growth/"><u>[New] 3 Unconventional Tactics for Subscriber Growth</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-anime-inspired-filters-and-overlays-for-trendy-tiktok-videos-for-2024/"><u>[New] Anime-Inspired Filters & Overlays for Trendy TikTok Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-achieving-persistent-video-playback-on-your-social-media-page/"><u>[New] In 2024, Achieving Persistent Video Playback on Your Social Media Page</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1725289180442-mp4/"><u>「無料MP4コンプレッション：高い圧縮比で最小化し、ストレージ容量を節約！」</u></a></li>
-<li><a href="https://win-great.techidaily.com/20-microsoft-project-and-visio-professional-licenses-available-immediately-offer-on-zdnet/"><u>$20 Microsoft Project & Visio Professional Licenses Available Immediately – Offer on ZDNet!</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-unveiling-microsofts-newest-innovation-copilot-for-finance-your-guide-to-experience-the-future-of-ai-powered-assistance/"><u>1. Unveiling Microsoft's Newest Innovation: Copilot for Finance – Your Guide to Experience the Future of AI-Powered Assistance</u></a></li>
-<li><a href="https://win-great.techidaily.com/affordable-microsoft-project-and-visio-professional-licenses-on-sale-just-20-at-zdnet/"><u>Affordable Microsoft Project & Visio Professional Licenses on Sale - Just $20 at ZDNet!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/breathing-life-into-dormant-data-with-totans-stellar-know-how/"><u>Breathing Life Into Dormant Data with Totan’s Stellar Know-How</u></a></li>
-<li><a href="https://win-great.techidaily.com/critical-timeline-for-microsoft-addressing-the-impending-crisis-of-windows-nv-in-just-one-year-analysis-by-zdnet/"><u>Critical Timeline for Microsoft: Addressing the Impending Crisis of Windows Nv in Just One Year - Analysis by ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/expert-picks-premium-noise-canceling-window-treatments-pcmag/"><u>Expert Picks: Premium Noise-Canceling Window Treatments | PCMag</u></a></li>
-<li><a href="https://win-great.techidaily.com/exploring-new-windows-11-feature-hidden-auto-backup-to-onedrive-revealed-cnet-news/"><u>Exploring New Windows 11 Feature: Hidden Auto-Backup to OneDrive Revealed | CNET News</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-thumbnail-crafting-simplified-macos-edition/"><u>In 2024, YouTube Thumbnail Crafting Simplified (macOS Edition)</u></a></li>
-<li><a href="https://win-great.techidaily.com/introducing-the-new-copilotplus-pc-microsofts-answer-to-apples-powerful-m3-macbooks-insights-from-zdnet/"><u>Introducing the New Copilot+ PC: Microsoft's Answer to Apple's Powerful M3 MacBooks - Insights From ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/microsoft-surface-laptop-5-reviewed-a-familiar-improvement-in-latest-gen-techradar/"><u>Microsoft Surface Laptop 5 Reviewed: A Familiar Improvement in Latest Gen | TechRadar</u></a></li>
-<li><a href="https://win-great.techidaily.com/microsofts-new-strategy-a-sign-of-growing-anxiety-reactions-from-the-tech-community-zdnet/"><u>Microsoft's New Strategy: A Sign of Growing Anxiety? Reactions From the Tech Community [ZDNet]</u></a></li>
-<li><a href="https://win-great.techidaily.com/next-level-tech-showdown-predicting-apples-move-to-surpass-competitors-at-wwdc-2024/"><u>Next-Level Tech Showdown: Predicting Apple's Move to Surpass Competitors at WWDC 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/us-debut-of-new-nickelodeon-kid-favorite-at-the-annual-kids-choice-ceremony/"><u>U.S. Debut of New Nickelodeon Kid Favorite at the Annual Kids' Choice Ceremony</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sonys-x1000v-detailed-recording-experience-review/"><u>[New] In 2024, Sony's X1000V Detailed Recording Experience Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-your-content-leading-android-video-editors/"><u>[New] In 2024, Streamline Your Content Leading Android Video Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization/"><u>[Updated] The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amo/"><u>/Amo</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/hidden-tricks-preserving-your-flipbooks-effortlessly-with-no-visible-save-options-discover-how-on-flipbuilder/"><u>Hidden Tricks: Preserving Your FlipBooks Effortlessly with No Visible Save Options - Discover How on FlipBuilder</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-compatible-is-flipbuilder-with-command-line-usage-explore-options-on-flipbuildercom/"><u>How Compatible Is FlipBuilder with Command-Line Usage? Explore Options on FlipBuilder.com</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-generate-downloadable-pdfs-featuring-images-using-flipbuilder-a-comprehensive-guide/"><u>How to Generate Downloadable PDFs Featuring Images Using FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-incorporate-ambient-audio-into-your-flippable-ebook-on-flipbuilder/"><u>How to Incorporate Ambient Audio Into Your Flippable eBook on FlipBuilder</u></a></li>
+<li><a href="https://win-great.techidaily.com/improve-your-web-pages-display-with-flipbuilder-top-tips-for-enhanced-user-experience/"><u>Improve Your Web Pages' Display with FlipBuilder: Top Tips for Enhanced User Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-7-ultimate-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Asus ROG Phone 7 Ultimate Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/master-your-workflow-with-flipoffice-seamless-integration-of-all-office-file-formats-into-one-virtual-desk-space/"><u>Master Your Workflow with FlipOffice: Seamless Integration of All Office File Formats Into One Virtual Desk Space</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-interactive-flip-books-with-ios-devices-a-comprehensive-tutorial/"><u>Mastering Interactive Flip Books with iOS Devices: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-hottest-apps-for-personalizing-your-speaking-ai-experience-this-year/"><u>New In 2024, The Hottest Apps for Personalizing Your Speaking AI Experience This Year</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y100-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y100 5G Phone Now with These Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your PC's Performance with This Windows 11 Shortcut to Instantly Terminate Slow Apps | Tips by ZDNET
-date: 2024-09-25T00:59:48.020Z
-updated: 2024-09-25T20:21:47.678Z
+date: 2024-09-29T15:20:09.141Z
+updated: 2024-09-30T00:41:04.036Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-harness-10-tools-to-grab-youtube-images-online/"><u>[New] 2024 Approved Harness 10 Tools to Grab YouTube Images Online</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-quicktime-screen-recording-with-audio-guide-for-2024/"><u>[New] QuickTime Screen Recording with Audio Guide for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-roundabout-viewpoint-versus-threefold-imaging/"><u>[Updated] In 2024, Roundabout Viewpoint Versus Threefold Imaging</u></a></li>
-<li><a href="https://win-great.techidaily.com/10-tips-from-tech-experts-at-zdnet/"><u>10 - Tips From Tech Experts at ZDNet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-vision-in-focus-analyzing-best-8k-screen-performers/"><u>2024 Approved Vision in Focus Analyzing Best 8K Screen Performers</u></a></li>
-<li><a href="https://win-great.techidaily.com/ais-future-outlined-by-sam-altman-in-microsofts-build-keynote-insights-on-progress/"><u>AI's Future Outlined by Sam Altman in Microsoft's Build Keynote - Insights on Progress</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/easy-steps-to-screen-recording-across-oses-and-devices-for-2024/"><u>Easy Steps to Screen Recording Across OSes & Devices for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-aeeusy-portable-inverter-generator-perfect-choice-for-medical-gear-requiring-pure-sine-waves/"><u>Expert Analysis of AEEUSY Portable Inverter Generator - Perfect Choice for Medical Gear Requiring Pure Sine Waves</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-ultimate-strategy-for-securing-your-digital-life-windows-10-and-11-backup-with-file-history-insights-by-zdnet/"><u>The Ultimate Strategy for Securing Your Digital Life: Windows 10 and 11 Backup with File History | Insights by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-find-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Find X6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/why-you-shouldnt-rush-to-install-windows-11-just-yet-expert-advice-on-what-to-do-first-digital-innovations-blog/"><u>Why You Shouldn't Rush to Install Windows 11 Just Yet: Expert Advice on What to Do First | Digital Innovations Blog</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-echo-your-personality-setting-unique-ringtones-and-sounds-in-androids-settings-menu/"><u>[New] Echo Your Personality Setting Unique Ringtones & Sounds in Android's Settings Menu</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-xbox-recorders-handbook-for-gamers/"><u>[Updated] In 2024, The Xbox Recorder’s Handbook for Gamers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-definitive-guide-to-affordable-video-calls-online-for-2024/"><u>[Updated] The Definitive Guide to Affordable Video Calls Online for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-tech-in-everyday-life/"><u>2024 Approved Immersive Tech in Everyday Life</u></a></li>
+<li><a href="https://win-great.techidaily.com/404-error-page-unavailable-overcoming-redirects-with-allavsoft-solutions/"><u>404 Error: Page Unavailable – Overcoming Redirects with Allavsoft Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-and-save-your-favorite-leadercast-sessions-in-high-quality-mp4-format/"><u>Convert and Save Your Favorite Leadercast Sessions in High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-great.techidaily.com/discover-the-convenience-of-reading-with-flip-ebooks-master-your-digital-library-experience-flipbuildercom/"><u>Discover the Convenience of Reading with Flip eBooks - Master Your Digital Library Experience | flipBuilder.com</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-periscope-videos-in-mp4-wmv-or-avi-format-easy-steps-and-tools/"><u>Download Periscope Videos in MP4, WMV, or AVI Format: Easy Steps & Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-mac-users-setting-up-and-using-whatsapp-on-your-computer/"><u>Essential Tips for Mac Users: Setting Up and Using WhatsApp on Your Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-razr-40withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Razr 40with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-gt-5-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/integrating-your-own-flipbook-projects-into-facebook-pages-seamlessly-with-ease/"><u>Integrating Your Own FlipBook Projects Into Facebook Pages Seamlessly with Ease</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-double-sheet-displays-with-flipbook-using-flipbuilder-techniques/"><u>Mastering Double-Sheet Displays with FlipBook Using FlipBuilder Techniques</u></a></li>
+<li><a href="https://win-great.techidaily.com/maximize-learning-efficiency-discover-how-to-view-tech-manuals-at-full-screen-and-with-stunning-flash-enhancements-on-flipbuildercom/"><u>Maximize Learning Efficiency: Discover How to View Tech Manuals at Full Screen & With Stunning Flash Enhancements on FlipBuilder.com</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-enhancing-your-images-using-clipart-in-flipbuilder/"><u>Step-by-Step Guide: Enhancing Your Images Using Clipart in FlipBuilder</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-low-frame-rates-expert-tips-to-enhance-your-gaming-experience-in-new-world/"><u>Troubleshooting Low Frame Rates: Expert Tips to Enhance Your Gaming Experience in New World</u></a></li>
 </ul></div>
 

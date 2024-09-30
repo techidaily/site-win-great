@@ -1,7 +1,7 @@
 ---
 title: "Unlock Microsoft 365 Perks: Access Your Complimentary VPN and Get Started Today – A Step-by-Step Guide From ZDNet"
-date: 2024-09-20T18:13:26.019Z
-updated: 2024-09-25T22:10:30.132Z
+date: 2024-09-26T12:17:02.630Z
+updated: 2024-09-30T14:24:16.730Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,21 +136,34 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-diverse-video-editing-apps-for-pc-users/"><u>[New] In 2024, Diverse Video Editing Apps for PC Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-speech-reader-feedback-summary/"><u>[Updated] 2024 Approved Speech Reader Feedback Summary</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-best-start-streamlined-tools-for-novice-game-editors/"><u>[Updated] The Best Start Streamlined Tools for Novice Game Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hidden-dangers-in-conversing-with-chatgpt/"><u>Hidden Dangers in Conversing With ChatGPT</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-x7b-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X7b Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-generate-downloadable-pdfs-featuring-images-using-flipbuilder-a-comprehensive-guide/"><u>How to Generate Downloadable PDFs Featuring Images Using FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-incorporate-ambient-audio-into-your-flippable-ebook-on-flipbuilder/"><u>How to Incorporate Ambient Audio Into Your Flippable eBook on FlipBuilder</u></a></li>
-<li><a href="https://win-great.techidaily.com/improve-your-web-pages-display-with-flipbuilder-top-tips-for-enhanced-user-experience/"><u>Improve Your Web Pages' Display with FlipBuilder: Top Tips for Enhanced User Experience</u></a></li>
-<li><a href="https://win-great.techidaily.com/master-your-workflow-with-flipoffice-seamless-integration-of-all-office-file-formats-into-one-virtual-desk-space/"><u>Master Your Workflow with FlipOffice: Seamless Integration of All Office File Formats Into One Virtual Desk Space</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-interactive-flip-books-with-ios-devices-a-comprehensive-tutorial/"><u>Mastering Interactive Flip Books with iOS Devices: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-large-scale-flipbooks-with-ease-discover-how-using-flipbuilder/"><u>Mastering Large-Scale Flipbooks with Ease: Discover How Using FlipBuilder</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/quick-guide-smooth-conversion-of-your-dvds-into-avi-files/"><u>Quick Guide: Smooth Conversion of Your DVDs Into AVI Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/uploading-videos-larger-than-25mb-on-gmail-a-comprehensive-guide/"><u>Uploading Videos Larger Than 25MB on Gmail - A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-best-free-video-meeting-software-roundup-for-professional-and-educational-purposes/"><u>[New] In 2024, The Best Free Video Meeting Software Roundup for Professional and Educational Purposes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-cover-video-widthheight-guide/"><u>[Updated] 2024 Approved Facebook Cover Video Width/Height Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-mobile-vertical-panoramas-in-action/"><u>[Updated] Mastering Mobile Vertical Panoramas in Action</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-mp4-playback-speeding-up-presentations/"><u>Accelerating MP4 Playback Speeding Up Presentations</u></a></li>
+<li><a href="https://win-great.techidaily.com/boost-your-notebooks-lifespan-on-windows-11-with-these-9-power-saving-setup-tips-zdnet/"><u>Boost Your Notebook's Lifespan on Windows 11 with These 9 Power-Saving Setup Tips | ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/canvas-audio-guide-adding-tweaking-and-refining-sounds-for-2024/"><u>Canva's Audio Guide Adding, Tweaking, & Refining Sounds for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/enhance-your-pcs-performance-by-quickly-closing-stuck-programs-using-a-clandestine-setting-in-windows-11-as-revealed-by-zdnet/"><u>Enhance Your PC's Performance by Quickly Closing Stuck Programs Using a Clandestine Setting in Windows 11, as Revealed by ZDNET</u></a></li>
+<li><a href="https://win-great.techidaily.com/expert-guide-crafting-professional-tables-with-excel-insights-from-zdnet/"><u>Expert Guide: Crafting Professional Tables with Excel - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/faster-stability-how-a-secret-windows-11-feature-swiftly-terminates-frozen-programs-discover-the-trick/"><u>Faster Stability: How a Secret Windows 11 Feature Swiftly Terminates Frozen Programs - Discover the Trick!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 12 Pro 4G FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-reverse-footage-in-final-cut-pro-a-step-by-step-guide/"><u>In 2024, Reverse Footage in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y78-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y78 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-screen-recording-on-windows-11-unlock-the-power-of-inbuilt-features-for-easy-capture-and-share/"><u>Mastering Screen Recording on Windows 11: Unlock the Power of Inbuilt Features for Easy Capture and Share</u></a></li>
+<li><a href="https://win-great.techidaily.com/moving-your-windows-upgrade-is-it-possible-to-use-the-license-from-an-outdated-computer-on-a-new-system/"><u>Moving Your Windows Upgrade: Is It Possible to Use the License From an Outdated Computer on a New System?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-for-basic-or-advanced-chatgpt-functionality/"><u>Opt for Basic or Advanced ChatGPT Functionality</u></a></li>
+<li><a href="https://win-great.techidaily.com/streamline-your-photo-downloads-with-powertoys-image-resizer-zdnet-tutorial/"><u>Streamline Your Photo Downloads with PowerToys Image Resizer - ZDNet Tutorial</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-ranking-windows-vpn-services-comprehensive-analysis-and-recommendations-zdnet/"><u>Top-Ranking Windows VPN Services: Comprehensive Analysis & Recommendations - ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/unlock-vmwares-power-access-your-free-copy-of-fusion-pro-and-workstation-pro-today-detailed-steps-revealed-zdnet/"><u>Unlock VMware's Power: Access Your Free Copy of Fusion Pro & Workstation Pro Today! Detailed Steps Revealed | ZDNet</u></a></li>
 </ul></div>
 

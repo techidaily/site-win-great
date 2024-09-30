@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Windows 11 Feature: Hidden Auto-Backup to OneDrive Revealed | CNET News"
-date: 2024-09-19T21:06:05.580Z
-updated: 2024-09-26T00:52:41.159Z
+date: 2024-09-28T02:01:51.896Z
+updated: 2024-09-30T14:12:59.879Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +95,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-learn-the-insider-tricks-of-screening-instagram-stories-for-2024/"><u>[New] Learn the Insider Tricks of Screening Instagram Stories for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/correcting-driver-complications-a-user-friendly-tutorial-for-hp-envy-4520-printers-in-windows-environment/"><u>Correcting Driver Complications: A User-Friendly Tutorial for HP Envy 4520 Printers in Windows Environment</u></a></li>
-<li><a href="https://win-great.techidaily.com/direct-cd-burning-from-flipbooks-made-easy-flipbuilder-solutions/"><u>Direct CD Burning From FlipBooks Made Easy - FlipBuilder Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/discover-the-convenience-of-reading-with-flip-ebooks-master-your-digital-library-experience-flipbuildercom/"><u>Discover the Convenience of Reading with Flip eBooks - Master Your Digital Library Experience | flipBuilder.com</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-package-unopenable-error-on-win11-10-oses/"><u>Eliminating the 'Package Unopenable' Error on Win11, 10 OSes</u></a></li>
-<li><a href="https://win-great.techidaily.com/integrating-your-own-flipbook-projects-into-facebook-pages-seamlessly-with-ease/"><u>Integrating Your Own FlipBook Projects Into Facebook Pages Seamlessly with Ease</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-double-sheet-displays-with-flipbook-using-flipbuilder-techniques/"><u>Mastering Double-Sheet Displays with FlipBook Using FlipBuilder Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/open-source-chill-beats/"><u>Open Source Chill Beats</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sifting-through-social-media-stars-targeting-your-specific-interests/"><u>[New] 2024 Approved Sifting Through Social Media Stars Targeting Your Specific Interests</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-your-creations-uploading-imovie-videos-to-youtube/"><u>[New] In 2024, Maximizing Your Creations Uploading IMovie Videos to YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-secrets-to-mass-downloading-videos-from-tiktok-for-2024/"><u>[New] Secrets to Mass Downloading Videos From TikTok for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-startup-to-stardom-with-youtube-seo-basics-for-2024/"><u>[Updated] From Startup to Stardom with YouTube SEO Basics for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-tutorial-implementing-gamers-channel-banners/"><u>[Updated] Ultimate Tutorial Implementing Gamers' Channel Banners</u></a></li>
+<li><a href="https://win-great.techidaily.com/accelerate-your-pc-how-this-secret-windows-11-feature-rapidly-terminates-frozen-programs-revealed-by-zdnet/"><u>Accelerate Your PC: How This Secret Windows 11 Feature Rapidly Terminates Frozen Programs, Revealed by ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/accelerate-your-pcs-performance-with-this-windows-11-shortcut-to-instantly-terminate-slow-apps-tips-by-zdnet/"><u>Accelerate Your PC's Performance with This Windows 11 Shortcut to Instantly Terminate Slow Apps | Tips by ZDNET</u></a></li>
+<li><a href="https://win-great.techidaily.com/boost-your-notebooks-lifespan-on-windows-11-with-these-9-power-saving-setup-tips-zdnet/"><u>Boost Your Notebook's Lifespan on Windows 11 with These 9 Power-Saving Setup Tips | ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/enhance-your-pcs-performance-by-quickly-closing-stuck-programs-using-a-clandestine-setting-in-windows-11-as-revealed-by-zdnet/"><u>Enhance Your PC's Performance by Quickly Closing Stuck Programs Using a Clandestine Setting in Windows 11, as Revealed by ZDNET</u></a></li>
+<li><a href="https://win-great.techidaily.com/expert-guide-crafting-professional-tables-with-excel-insights-from-zdnet/"><u>Expert Guide: Crafting Professional Tables with Excel - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/faster-stability-how-a-secret-windows-11-feature-swiftly-terminates-frozen-programs-discover-the-trick/"><u>Faster Stability: How a Secret Windows 11 Feature Swiftly Terminates Frozen Programs - Discover the Trick!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-methods-for-scavenging-free-frame-videos/"><u>In 2024, Quick Methods for Scavenging Free Frame Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-mobile-desktop-sync-utilize-google-quick-share-for-smooth-file-transfers-between-windows-and-android-insights-by-zdnet/"><u>Mastering Mobile-Desktop Sync: Utilize Google Quick Share for Smooth File Transfers Between Windows and Android - Insights by ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-screen-recording-on-windows-11-unlock-the-power-of-inbuilt-features-for-easy-capture-and-share/"><u>Mastering Screen Recording on Windows 11: Unlock the Power of Inbuilt Features for Easy Capture and Share</u></a></li>
+<li><a href="https://win-great.techidaily.com/moving-your-windows-upgrade-is-it-possible-to-use-the-license-from-an-outdated-computer-on-a-new-system/"><u>Moving Your Windows Upgrade: Is It Possible to Use the License From an Outdated Computer on a New System?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/multiply-your-channels-subscribers-quickly-for-2024/"><u>Multiply Your Channel's Subscribers Quickly for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/subtle-approaches-to-interaction-on-social-networks/"><u>Subtle Approaches to Interaction on Social Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-covers-materials-and-protection-benefits/"><u>Xbox Covers: Materials & Protection Benefits</u></a></li>
 </ul></div>
 

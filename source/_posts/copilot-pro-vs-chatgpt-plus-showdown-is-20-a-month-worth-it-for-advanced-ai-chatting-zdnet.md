@@ -1,7 +1,7 @@
 ---
 title: "Copilot Pro Vs. ChatGPT Plus Showdown: Is $20 a Month Worth It for Advanced AI Chatting? | ZDNET"
-date: 2024-09-19T17:06:43.290Z
-updated: 2024-09-25T21:41:15.208Z
+date: 2024-09-26T16:29:37.214Z
+updated: 2024-09-30T13:19:33.071Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-discover-the-best-10-mac-screenshot-and-recording-apps/"><u>[Updated] In 2024, Discover the Best 10 Mac Screenshot and Recording Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>[Updated] In 2024, Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-by-step-utilization-of-polarr-for-professional-results/"><u>[Updated] In 2024, Step-By-Step Utilization of Polarr for Professional Results</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-peak-playtime-youtubes-most-gigantic-video-hours-count/"><u>[Updated] In 2024, The Peak Playtime YouTube's Most Gigantic Video Hours Count</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-packaging-to-prowess-marketings-unboxed-secrets/"><u>[Updated] Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows202/"><u>【おすすめ】Windowsで使える最新動画制作ツール202</u></a></li>
-<li><a href="https://win-great.techidaily.com/3gp/"><u>3GP形式について学ぶ：ヘッダー情報の理解と再生問題発見後の対策手引き</u></a></li>
-<li><a href="https://win-great.techidaily.com/5yplusk44ge5yuv55s744gm6kgo56s644gn44gn44gq44gp44gq44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go5aplusplus562w44ks5a2m44kt44gg5pa544cf44g4/"><u>古い動画が表示できなくなった場合、その原因と対策を学んだ方々へ</u></a></li>
-<li><a href="https://win-great.techidaily.com/1726030082324-windows-10/"><u>新規ユーザーのためのWindows 10動画圧縮手引き - シンプルな方法</u></a></li>
-<li><a href="https://win-great.techidaily.com/a-comprehensive-walkthrough-mastering-the-art-of-uploading-content-to-twitch/"><u>A Comprehensive Walkthrough: Mastering the Art of Uploading Content to Twitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-2021-graphics-renderer-start-up-issue-steps-and-tips/"><u>Fixing the 2021 Graphics Renderer Start-Up Issue: Steps and Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-choice-of-tools-for-image-to-video-transformation-for-2024/"><u>Prime Choice of Tools for Image-to-Video Transformation for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-cloning-securely-locked-dvd-content/"><u>Step-by-Step Tutorial on Cloning Securely Locked DVD Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-tutorial-mov-file-modification-techniques-for-windows-11-users/"><u>Ultimate Tutorial: MOV File Modification Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cutting-edge-platform-for-12-video-live-feeds-for-2024/"><u>[Updated] Cutting-Edge Platform for 12 Video Live Feeds for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/10-tips-from-tech-experts-at-zdnet/"><u>10 - Tips From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-from-phones-to-cameras-a-guide-to-diy-video-capturing/"><u>2024 Approved From Phones to Cameras A Guide to DIY Video Capturing</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-130-music-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia 130 Music Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-m6-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco M6 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-v29e-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo V29e to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-14-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 14 Pro From Your Apple ID</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/introducing-the-new-copilotplus-pc-microsofts-answer-to-apples-powerful-m3-macbooks-insights-from-zdnet/"><u>Introducing the New Copilot+ PC: Microsoft's Answer to Apple's Powerful M3 MacBooks - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-surface-laptop-5-reviewed-a-familiar-improvement-in-latest-gen-techradar/"><u>Microsoft Surface Laptop 5 Reviewed: A Familiar Improvement in Latest Gen | TechRadar</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsofts-new-strategy-a-sign-of-growing-anxiety-reactions-from-the-tech-community-zdnet/"><u>Microsoft's New Strategy: A Sign of Growing Anxiety? Reactions From the Tech Community [ZDNet]</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-latest-on-microsofts-artificial-intelligence-conference-exploring-5-key-updates-missed-by-many-zdnet-highlights/"><u>The Latest on Microsoft's Artificial Intelligence Conference: Exploring 5 Key Updates Missed by Many | ZDNet Highlights</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-ultimate-strategy-for-securing-your-digital-life-windows-10-and-11-backup-with-file-history-insights-by-zdnet/"><u>The Ultimate Strategy for Securing Your Digital Life: Windows 10 and 11 Backup with File History | Insights by ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/why-you-shouldnt-rush-to-install-windows-11-just-yet-expert-advice-on-what-to-do-first-digital-innovations-blog/"><u>Why You Shouldn't Rush to Install Windows 11 Just Yet: Expert Advice on What to Do First | Digital Innovations Blog</u></a></li>
 </ul></div>
 

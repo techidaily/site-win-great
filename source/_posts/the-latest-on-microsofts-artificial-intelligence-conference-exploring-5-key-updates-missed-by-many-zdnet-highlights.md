@@ -1,7 +1,7 @@
 ---
 title: "The Latest on Microsoft's Artificial Intelligence Conference: Exploring 5 Key Updates Missed by Many | ZDNet Highlights"
-date: 2024-09-21T18:13:24.104Z
-updated: 2024-09-25T18:58:16.311Z
+date: 2024-09-27T18:21:09.663Z
+updated: 2024-09-30T04:54:24.944Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-voice-capture-device-analysis/"><u>[Updated] In 2024, Voice Capture Device Analysis</u></a></li>
-<li><a href="https://win-great.techidaily.com/wmamp38/"><u>最新WMAファイルを効率的にMP3に変換する自由ソフト8選のリスト</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-high-quality-pdf-and-docx-files-to-stunning-hd-photos-the-flipbuildercom-easy-converter-solution/"><u>Convert High-Quality PDF and DOCX Files to Stunning HD Photos: The FlipBuilder.com Easy Converter Solution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-7a-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Google Pixel 7a Phone Without Password?</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/introducing-macx-video-converter-pro-v6-enhanced-user-interface-and-cutting-edge-compatibility-with-macos-sierra/"><u>Introducing MacX Video Converter Pro v6: Enhanced User Interface & Cutting-Edge Compatibility with macOS Sierra</u></a></li>
-<li><a href="https://win-great.techidaily.com/resolving-unspecified-error-during-recording-in-obs-a-comprehensive-guide/"><u>Resolving 'Unspecified Error During Recording' In OBS - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808136522-the-complete-guide-to-speeding-up-your-windows-update-time-discover-why-it-takes-so-long/"><u>The Complete Guide to Speeding Up Your Windows Update Time - Discover Why It Takes So Long!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726029503605-wav/"><u>WAVファイルへの変換：新入社員が知っておくべき基本手順</u></a></li>
-<li><a href="https://win-great.techidaily.com/wonderfox-unveils-new-feature-the-ultimate-guide-for-locating-elusive-content/"><u>WonderFox Unveils New Feature: The Ultimate Guide for Locating Elusive Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-5-best-3d-intro-makers-for-youtube/"><u>[Updated] 2024 Approved Top 5 Best 3D Intro Makers for YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-seamless-tiktok-content-for-twitter-audience/"><u>[Updated] Seamless TikTok Content for Twitter Audience</u></a></li>
+<li><a href="https://win-great.techidaily.com/10-tips-from-tech-experts-at-zdnet/"><u>10 - Tips From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/12-effektive-methoden-zur-umwandlung-von-vob-dateien-ins-mp4-format-update-fur-2023/"><u>12 Effektive Methoden Zur Umwandlung Von VOB-Dateien Ins MP4 Format - Update Für 2023</u></a></li>
+<li><a href="https://win-great.techidaily.com/ais-future-outlined-by-sam-altman-in-microsofts-build-keynote-insights-on-progress/"><u>AI's Future Outlined by Sam Altman in Microsoft's Build Keynote - Insights on Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-gif-maker-tools-the-ultimate-selection-of-5-funniest-applications/"><u>Best Android GIF Maker Tools: The Ultimate Selection of 5 Funniest Applications</u></a></li>
+<li><a href="https://win-great.techidaily.com/discover-microsofts-new-innovation-tech-pants-at-just-150-unveiling-the-secret-behind-this-bold-move-insights-from-zdnet/"><u>Discover Microsoft's New Innovation: Tech Pants at Just $150! Unveiling the Secret Behind This Bold Move - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-exploits-unveiled-by-ethical-hackers-in-microsofts-recalled-ai-system-insights-from-zdnet/"><u>Easy Exploits Unveiled by Ethical Hackers in Microsoft's Recalled AI System - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-hue-harvesting-a-guide-to-powertoys-color-picker-tutorial-by-zdnet-experts/"><u>Effortless Hue Harvesting: A Guide to PowerToys Color Picker Tutorial by ZDNet Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721827238894-explore-the-top-9-chatgpt-extensions-boost-your-interaction-today/"><u>Explore the Top 9 ChatGPT Extensions: Boost Your Interaction Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>In 2024, Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlusFRP Lock</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisens-tiktok-a-creative-journey-for-2024/"><u>Jujutsu Kaisen's TikTok A Creative Journey for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsofts-new-strategy-a-sign-of-growing-anxiety-reactions-from-the-tech-community-zdnet/"><u>Microsoft's New Strategy: A Sign of Growing Anxiety? Reactions From the Tech Community [ZDNet]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030153126-mp42024/"><u>MP4ビデオファイルリサイズ手法：2024年版</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-ultimate-strategy-for-securing-your-digital-life-windows-10-and-11-backup-with-file-history-insights-by-zdnet/"><u>The Ultimate Strategy for Securing Your Digital Life: Windows 10 and 11 Backup with File History | Insights by ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/why-you-shouldnt-rush-to-install-windows-11-just-yet-expert-advice-on-what-to-do-first-digital-innovations-blog/"><u>Why You Shouldn't Rush to Install Windows 11 Just Yet: Expert Advice on What to Do First | Digital Innovations Blog</u></a></li>
 </ul></div>
 

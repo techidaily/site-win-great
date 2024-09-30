@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Appeal of Windows 11 Among Professionals: Insights From Microsoft | Digital Engineering Review"
-date: 2024-09-18T21:33:16.037Z
-updated: 2024-09-26T00:29:11.565Z
+date: 2024-09-23T21:26:58.476Z
+updated: 2024-09-30T01:31:50.898Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ringtone-vox-transcription-device-iphone/"><u>2024 Approved Ringtone VOX Transcription Device (iPhone)</u></a></li>
-<li><a href="https://win-great.techidaily.com/jpgjpegmp44/"><u>画像ファイル形式の変換: JPGからJPEGをMP4へ、効果的な4方法</u></a></li>
-<li><a href="https://win-great.techidaily.com/avi-2024/"><u>新規AVIフォーマットへ挑戦! 2024年最先端のビデオ再生ソリューションとその対策</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-smart-8-hd-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Smart 8 HD?</u></a></li>
-<li><a href="https://win-great.techidaily.com/can-you-secretly-capture-your-google-meet-discussions-without-consent-heres-the-guide/"><u>Can You Secretly Capture Your Google Meet Discussions Without Consent? Here's the Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-the-moment-iphone-xs-revolutionary-camera/"><u>Capture the Moment IPhone X's Revolutionary Camera</u></a></li>
-<li><a href="https://win-great.techidaily.com/comprehensive-showdown-analyzing-wonderfox-dvd-converter-and-winx-dvd-ripper-effectiveness/"><u>Comprehensive Showdown: Analyzing WonderFox DVD Converter and WinX DVD Ripper Effectiveness</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-dvd-files-to-avi-quickly-and-effortlessly-for-free-with-zero-watermarks/"><u>Convert DVD Files to AVI Quickly and Effortlessly for Free with Zero Watermarks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-your-videos-flawlessly-with-the-top-free-avi-to-mkv-converter-for-macos-and-windows-10/"><u>Convert Your Videos Flawlessly with the Top Free AVI to MKV Converter for macOS & Windows 10</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-to-use-flashtastic-video-converter-effortless-conversion-from-swf-flv-to-f4v-streaming-files/"><u>Easy-to-Use Flashtastic Video Converter - Effortless Conversion From SWF, FLV to F4V Streaming Files</u></a></li>
-<li><a href="https://win-great.techidaily.com/effortless-swf-format-conversion-transform-your-videos-into-flash-and-back/"><u>Effortless SWF Format Conversion - Transform Your Videos Into Flash and Back</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-conversion-transforming-epub-files-into-pdfs-online-instantly/"><u>Free Conversion: Transforming EPUB Files Into PDFs Online Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-installing-imessage-app-on-your-android-device/"><u>Guide: Installing iMessage App on Your Android Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/hevc-enhanced-video-encoder-toolkit-installation-package-free-complete-and-easy-to-use/"><u>Hevc Enhanced Video Encoder Toolkit Installation Package: Free, Complete, and Easy-to-Use</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-convert-mp4-videos-into-personalized-iphone-ringtones-easily/"><u>How to Convert MP4 Videos Into Personalized iPhone Ringtones Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-securing-youtube-srt-files-a-threefold-procedure/"><u>In 2024, Securing YouTube SRT Files A Threefold Procedure</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-iphone-photo-blurring-4-techniques-explored/"><u>[New] 2024 Approved Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-10-ways-to-convert-youtube-to-mpeg/"><u>[Updated] Best 10 Ways to Convert YouTube to MPEG</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-free-youtube-comment-finder-you-should-try/"><u>2024 Approved Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://win-great.techidaily.com/ais-future-outlined-by-sam-altman-in-microsofts-build-keynote-insights-on-progress/"><u>AI's Future Outlined by Sam Altman in Microsoft's Build Keynote - Insights on Progress</u></a></li>
+<li><a href="https://techtrends.techidaily.com/common-solutions-for-a-non-functional-macbook-pro-keyboard/"><u>Common Solutions for a Non-Functional MacBook Pro Keyboard</u></a></li>
+<li><a href="https://win-great.techidaily.com/discover-microsofts-new-innovation-tech-pants-at-just-150-unveiling-the-secret-behind-this-bold-move-insights-from-zdnet/"><u>Discover Microsoft's New Innovation: Tech Pants at Just $150! Unveiling the Secret Behind This Bold Move - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-exploits-unveiled-by-ethical-hackers-in-microsofts-recalled-ai-system-insights-from-zdnet/"><u>Easy Exploits Unveiled by Ethical Hackers in Microsoft's Recalled AI System - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-hue-harvesting-a-guide-to-powertoys-color-picker-tutorial-by-zdnet-experts/"><u>Effortless Hue Harvesting: A Guide to PowerToys Color Picker Tutorial by ZDNet Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/enhanced-viewing-experience-with-microsoft-edges-new-feature-ai-translation-for-live-youtube-video-streams/"><u>Enhanced Viewing Experience with Microsoft Edge's New Feature: AI Translation for Live YouTube Video Streams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969806578-ercp-with-stent-placement-provides-symptomatic-relief-from-obstructive-jaundice-and-is-often-part-of-palliative-care/"><u>ERCP with Stent Placement Provides Symptomatic Relief From Obstructive Jaundice and Is Often Part of Palliative Care</u></a></li>
+<li><a href="https://win-great.techidaily.com/impending-crisis-for-microsoft-just-12-months-left-to-resolve-significant-windows-10-challenges-exclusive-zdnet-report/"><u>Impending Crisis for Microsoft: Just 12 Months Left to Resolve Significant Windows 10 Challenges | Exclusive ZDNET Report</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c22-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C22 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-upload-tweets-no-retweets-on-mobile/"><u>In 2024, How to Upload Tweets - No Retweets on Mobile?</u></a></li>
+<li><a href="https://win-great.techidaily.com/maximizing-efficiency-optimizing-your-windows-11-taskbar-experience-tips-and-tricks/"><u>Maximizing Efficiency: Optimizing Your Windows 11 Taskbar Experience - Tips & Tricks</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-copilot-innovative-assistance-with-built-in-promotions-insights-from-zdnet/"><u>Microsoft Copilot: Innovative Assistance with Built-In Promotions? Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/optimizing-your-experience-with-the-new-windows-11-taskbar-a-guide-from-zdnet/"><u>Optimizing Your Experience with the New Windows 11 Taskbar - A Guide From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-warcraft-e3-reforged-pc-issues-ultimate-fixes/"><u>Troubleshooting Warcraft E3 Reforged PC Issues – Ultimate Fixes !</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-virtuosity-adding-fonts-to-adobe-workflows/"><u>Visual Virtuosity Adding Fonts to Adobe Workflows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-does-408-request-timed-out-mean-fixing-this-common-web-issue/"><u>What Does '408 Request Timed Out' Mean? Fixing This Common Web Issue</u></a></li>
 </ul></div>
 

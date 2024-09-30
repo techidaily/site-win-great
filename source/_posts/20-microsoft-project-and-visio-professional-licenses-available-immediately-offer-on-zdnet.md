@@ -1,7 +1,7 @@
 ---
 title: $20 Microsoft Project & Visio Professional Licenses Available Immediately – Offer on ZDNet!
-date: 2024-09-22T22:36:50.962Z
-updated: 2024-09-25T18:40:45.824Z
+date: 2024-09-27T10:33:10.272Z
+updated: 2024-09-30T08:35:18.506Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -97,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -141,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-real-time-recording-prowess-without-any-delays/"><u>[New] In 2024, Real-Time Recording Prowess Without Any Delays</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-10-gratis-video-chat-solutions-for-corporate-and-schools-for-2024/"><u>[New] Top 10 Gratis Video Chat Solutions for Corporate & Schools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-attention-hack-building-an-alluring-puzzle-feed/"><u>[Updated] Instagram Attention Hack Building an Alluring Puzzle Feed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-conveying-content-mastering-onestream-livestreams/"><u>2024 Approved The Art of Conveying Content Mastering OneStream Livestreams</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficient-trail-termination-with-stellar-file-purging-suite-v5-for-windows-default-settings-and-scheduler-included/"><u>Efficient Trail Termination with Stellar File Purging Suite v5 for Windows - Default Settings & Scheduler Included</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-google-pixel-8-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Google Pixel 8 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-large-scale-flipbooks-with-ease-discover-how-using-flipbuilder/"><u>Mastering Large-Scale Flipbooks with Ease: Discover How Using FlipBuilder</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-integrating-your-flipbooks-into-web-pages-using-flipbuilder/"><u>Step-by-Step Guide: Integrating Your Flipbooks Into Web Pages Using FlipBuilder</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-for-adding-functional-links-to-text-and-imagery-within-flipbuilders-digital-books/"><u>Step-by-Step Tutorial for Adding Functional Links to Text & Imagery Within FlipBuilder's Digital Books</u></a></li>
-<li><a href="https://win-great.techidaily.com/techniques-for-enhancing-text-clarity-on-book-spines-using-flipbuilder-software/"><u>Techniques for Enhancing Text Clarity on Book Spines Using FlipBuilder Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-resource-hub-exploring-flipchm-insights-on-flipbuildercom/"><u>Ultimate Resource Hub - Exploring FlipCHM Insights on FlipBuilder.com</u></a></li>
-<li><a href="https://win-great.techidaily.com/understanding-the-distinctions-classical-vs-spread-vs-float-templates-on-flipbuildercom/"><u>Understanding the Distinctions: Classical Vs. Spread Vs. Float Templates on FlipBuilder.com</u></a></li>
+<li><a href="https://win-great.techidaily.com/10-just-12-months-left-zdnet-exclusive/"><u>10 - Just 12 Months Left! [ZDNet Exclusive</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-step-into-tomorrow-with-2023s-lg-bp550/"><u>2024 Approved Step Into Tomorrow with 2023'S LG BP550</u></a></li>
+<li><a href="https://win-great.techidaily.com/choose-the-ideal-work-seat-the-ultimate-guide-to-2022s-best-ergonomic-office-chairs-zdnet-rated/"><u>Choose the Ideal Work Seat: The Ultimate Guide to 2022'S Best Ergonomic Office Chairs (ZDNET Rated)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-download-the-hp-officejet-pro-9015-printing-software/"><u>Get the Latest Version: Download the HP OfficeJet Pro 9015 Printing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-remove-image-background-in-photopea-for-2024/"><u>How to Remove Image Background In Photopea for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi Redmi Note 12 Pro+ 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-unveils-educational-focus-with-windows-11-se-and-budget-friendly-surface-laptop-se-a-revolution-in-schools-tech-zdnet/"><u>Microsoft Unveils Educational Focus with Windows 11 SE and Budget-Friendly Surface Laptop SE: A Revolution in Schools' Tech | ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/save-big-on-your-sit-to-stand-desk-transformation-the-affordable-solution-now-offered-by-zdnet/"><u>Save Big on Your Sit-to-Stand Desk Transformation: The Affordable Solution Now Offered by ZDNet!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-user-profile-service-failed-errors-in-windows-1011/"><u>Step-by-Step Guide: Overcoming 'User Profile Service Failed' Errors in Windows 10/11</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-ranking-gaming-seats-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Gaming Seats : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-free-and-best-text-to-speech-generators/"><u>Updated In 2024, Top 10 Free and Best Text-to-Speech Generators</u></a></li>
 </ul></div>
 

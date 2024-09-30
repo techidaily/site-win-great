@@ -1,7 +1,7 @@
 ---
 title: AI's Future Outlined by Sam Altman in Microsoft's Build Keynote - Insights on Progress
-date: 2024-09-25T00:37:04.360Z
-updated: 2024-09-25T22:11:14.621Z
+date: 2024-09-29T13:10:28.698Z
+updated: 2024-09-30T09:18:56.015Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-condense-cinematography-to-instagrams-max-on-macos-for-2024/"><u>[New] Condense Cinematography to Instagram's Max on macOS for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premium-pc-gpus-for-high-res-editing/"><u>[New] In 2024, Premium PC GPUs for High-Res Editing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-mastering-music-integration-in-canva-video-projects-for-2024/"><u>[Updated] Mastering Music Integration in Canva Video Projects for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-revolutionize-your-vlog-with-these-elite-12-cameras/"><u>[Updated] Revolutionize Your Vlog with These Elite 12 Cameras</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-download-ndtv-news-footage-as-mp4movavi-easy-video-extraction/"><u>1. 'Download NDTV News Footage as MP4/MOV/AVI - Easy Video Extraction'</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726027748113-windows-113/"><u>高性能ビデオ抽出ソフトウェア：Windows 11でおすすめの上位3品種とその利点</u></a></li>
-<li><a href="https://win-great.techidaily.com/accessing-aclands-top-notch-anatomy-visuals-download-procedures-for-apple-macintosh-and-microsoft-windows-systems/"><u>Accessing Acland's Top-Notch Anatomy Visuals: Download Procedures for Apple Macintosh and Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-great.techidaily.com/best-substitutes-for-kissanime-top-5-anime-streaming-sites/"><u>Best Substitutes for KissAnime: Top 5 Anime Streaming Sites</u></a></li>
-<li><a href="https://extra-information.techidaily.com/configuring-zoom-step-by-step-video-conference-guide-for-2024/"><u>Configuring Zoom Step-by-Step Video Conference Guide for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-guide-to-save-rihanna-tunes-in-multiple-audio-formats-on-mac-os-and-windows-computers/"><u>Easy Guide to Save Rihanna Tunes in Multiple Audio Formats on Mac OS and Windows Computers</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-access-bambusers-live-broadcast-tools-free-download-and-setup-instructions/"><u>How to Access Bambuser's Live Broadcast Tools – Free Download & Setup Instructions</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-save-and-convert-your-favorite-makertv-content-into-common-video-file-types/"><u>How to Save and Convert Your Favorite Maker.tv Content Into Common Video File Types</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-save-your-favorite-udemy-courses-as-video-downloads-in-various-formats-mp4-mp3-mov-avi/"><u>How to Save Your Favorite Udemy Courses as Video Downloads in Various Formats (MP4, MP3, MOV, AVI)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/limiting-video-size-the-mac-way-to-insta-cutting-for-2024/"><u>Limiting Video Size The Mac Way to Insta-Cutting for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-video-extraction-how-to-save-4k-spherical-footage-from-youtube-for-both-mac-and-windows-users/"><u>Mastering Video Extraction: How to Save 4K Spherical Footage From YouTube for Both Mac and Windows Users</u></a></li>
-<li><a href="https://win-great.techidaily.com/seamlessly-watch-high-definition-youtube-videos-on-your-smart-tv-with-our-hd-download-app/"><u>Seamlessly Watch High-Definition YouTube Videos on Your Smart TV with Our HD Download App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-a-closer-look-at-sharex-judgments-and-alternates/"><u>[New] In 2024, A Closer Look at ShareX Judgments & Alternates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-recorders-handbook-for-film-lovers/"><u>[New] In 2024, The Ultimate Recorder's Handbook for Film Lovers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-video-dimensions-a-focused-look-at-aspect-ratios-for-2024/"><u>[New] Navigating Video Dimensions A Focused Look at ASPECT RATIOS for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-explore-free-virtual-music-pulse-analyzers/"><u>[Updated] In 2024, Explore Free, Virtual Music Pulse Analyzers</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows202/"><u>【おすすめ】Windowsで使える最新動画制作ツール202</u></a></li>
+<li><a href="https://win-great.techidaily.com/3gp/"><u>3GP形式について学ぶ：ヘッダー情報の理解と再生問題発見後の対策手引き</u></a></li>
+<li><a href="https://win-great.techidaily.com/1726030082324-windows-10/"><u>新規ユーザーのためのWindows 10動画圧縮手引き - シンプルな方法</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pro-video-gear-the-ultimate-stabilizers-selection-for-2024/"><u>Pro Video Gear – The Ultimate Stabilizers Selection for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-cloning-securely-locked-dvd-content/"><u>Step-by-Step Tutorial on Cloning Securely Locked DVD Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-keyboard-fails-to-register-inputs/"><u>Troubleshooting Steps - When Keyboard Fails to Register Inputs</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-tutorial-mov-file-modification-techniques-for-windows-11-users/"><u>Ultimate Tutorial: MOV File Modification Techniques for Windows 11 Users</u></a></li>
 </ul></div>
 
