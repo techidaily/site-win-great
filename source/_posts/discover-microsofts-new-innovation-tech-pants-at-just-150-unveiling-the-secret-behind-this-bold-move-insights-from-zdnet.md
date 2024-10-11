@@ -1,7 +1,7 @@
 ---
 title: "Discover Microsoft's New Innovation: Tech Pants at Just $150! Unveiling the Secret Behind This Bold Move - Insights From ZDNet"
-date: 2024-10-04T20:51:20.687Z
-updated: 2024-10-05T18:23:04.810Z
+date: 2024-10-07T12:16:45.398Z
+updated: 2024-10-11T00:42:51.776Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,19 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -155,9 +135,29 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-determining-facebook-video-orientation-choices-ahead-for-2024/"><u>[New] Determining Facebook Video Orientation Choices Ahead for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-final-word-on-powerdirector-a-complete-review/"><u>[New] In 2024, The Final Word on PowerDirector A Complete Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advanced-audio-editing-apps-ranked-by-users-for-2024/"><u>[Updated] Advanced Audio Editing Apps Ranked by Users for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/chilloutzone-downloads-available-in-various-video-codecs-for-high-quality-playback/"><u>ChilloutZone Downloads Available in Various Video Codecs for High-Quality Playback</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
-<li><a href="https://win-great.techidaily.com/converting-npr-broadcasts-into-multiple-audio-types-for-offline-listening/"><u>Converting NPR Broadcasts Into Multiple Audio Types for Offline Listening</u></a></li>
-<li><a href="https://win-great.techidaily.com/converting-your-alienthink-videos-guide-to-downloading-in-mp4-or-avi-formats/"><u>Converting Your AlienThink Videos: Guide to Downloading in MP4 or AVI Formats</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/die-besten-freien-programme-zum-konvertieren-von-videos-in-4k-hochqualifiziert-auf-pcsmacs-inklusive-umwandlung-von-hd-formaten/"><u>Die Besten Freien Programme Zum Konvertieren Von Videos in 4K Hochqualifiziert Auf PCs/Macs, Inklusive Umwandlung Von HD-Formaten</u></a></li>
-<li><a href="https://win-great.techidaily.com/download-and-convert-transforming-your-lectures-and-courses-with-tele-task-to-high-quality-videos-mp4-mov/"><u>Download & Convert: Transforming Your Lectures and Courses with Tele-TASK to High-Quality Videos (MP4, MOV)</u></a></li>
-<li><a href="https://win-great.techidaily.com/download-content-from-munchner-fernsehen-easy-video-retrieval-guide-for-local-german-programming/"><u>Download Content From Münchner Fernsehen: Easy Video Retrieval Guide for Local German Programming</u></a></li>
-<li><a href="https://win-great.techidaily.com/downloading-imdb-titles-safely-and-legally-comprehensive-tutorial/"><u>Downloading IMDB Titles Safely and Legally: Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/downloading-slutload-content-a-step-by-step-guide/"><u>Downloading SlutLoad Content: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-defy-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Defy 2 to Another | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-review-of-ispring-recording-tech/"><u>The Ultimate Review of iSpring Recording Tech</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[New] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-instant-tunes-live-streaming-on-bigolive-for-2024/"><u>[New] Instant Tunes Live Streaming on BigoLive for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-unboxing-logitechs-professional-4k-pro-webcam-for-2024/"><u>[Updated] Ultimate Unboxing Logitech's Professional 4K Pro Webcam for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/10-just-12-months-left-zdnet-exclusive/"><u>10 - Just 12 Months Left! [ZDNet Exclusive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-conquering-the-crash-solutions-for-windows-10-photos-issues/"><u>2024 Approved Conquering the Crash Solutions for Windows 10 Photos Issues</u></a></li>
+<li><a href="https://win-great.techidaily.com/choose-the-ideal-work-seat-the-ultimate-guide-to-2022s-best-ergonomic-office-chairs-zdnet-rated/"><u>Choose the Ideal Work Seat: The Ultimate Guide to 2022'S Best Ergonomic Office Chairs (ZDNET Rated)</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1725287275322-dvdmp4/"><u>DVDから高画質MP4へ簡単変換方法 - スピーディで正確</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a1x-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A1x 5G</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-unveils-educational-focus-with-windows-11-se-and-budget-friendly-surface-laptop-se-a-revolution-in-schools-tech-zdnet/"><u>Microsoft Unveils Educational Focus with Windows 11 SE and Budget-Friendly Surface Laptop SE: A Revolution in Schools' Tech | ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/save-big-on-your-sit-to-stand-desk-transformation-the-affordable-solution-now-offered-by-zdnet/"><u>Save Big on Your Sit-to-Stand Desk Transformation: The Affordable Solution Now Offered by ZDNet!</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-end-of-an-era-understanding-why-microsoft-discontinued-the-free-windows-11-upgrade-program-zdnet-coverage/"><u>The End of an Era: Understanding Why Microsoft Discontinued the Free Windows 11 Upgrade Program | ZDNet Coverage</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-ranking-gaming-seats-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Gaming Seats : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/unlock-microsoft-365-perks-access-your-complimentary-vpn-and-get-started-today-a-step-by-step-guide-from-zdnet/"><u>Unlock Microsoft 365 Perks: Access Your Complimentary VPN and Get Started Today – A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-harmonizing-acoustics-and-imagery-find-out-the-top-5-integrated-soundvisual-devices/"><u>Updated 2024 Approved Harmonizing Acoustics and Imagery Find Out the Top 5 Integrated Sound/Visual Devices</u></a></li>
+<li><a href="https://win-great.techidaily.com/why-pursuing-a-career-at-microsoft-might-not-appeal-insights-from-top-executives-discovered-by-zdnet/"><u>Why Pursuing a Career at Microsoft Might Not Appeal: Insights From Top Executives - Discovered by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/winning-over-brands-in-the-world-of-youtube-sponsorships/"><u>Winning Over Brands in the World of YouTube Sponsorships</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your PC's Performance with This Windows 11 Shortcut to Instantly Terminate Slow Apps | Tips by ZDNET
-date: 2024-09-29T23:42:34.430Z
-updated: 2024-10-05T16:04:56.724Z
+date: 2024-10-08T04:36:00.592Z
+updated: 2024-10-11T07:57:08.329Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +181,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-exploring-the-updated-windows-11-interface/"><u>[New] In 2024, Exploring the Updated Windows 11 Interface</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-get-top-quality-gifs-on-your-mac-instantly/"><u>2024 Approved Get Top-Quality GIFs on Your Mac Instantly</u></a></li>
-<li><a href="https://win-great.techidaily.com/best-blu-ray-media-playback-devices-for-windows-8-users-streamline-your-cinema-experience/"><u>Best Blu-Ray Media Playback Devices for Windows 8 Users: Streamline Your Cinema Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-person-identification-errors-in-apples-photo-library-a-step-by-step-guide/"><u>Correcting Person Identification Errors in Apple's Photo Library: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/effortless-ways-to-take-android-device-screenshots-using-your-laptop-or-desktop/"><u>Effortless Ways to Take Android Device Screenshots Using Your Laptop or Desktop</u></a></li>
-<li><a href="https://win-great.techidaily.com/leading-free-tools-for-optimizing-images-on-the-internet-and-desktop-computers/"><u>Leading Free Tools for Optimizing Images on the Internet & Desktop Computers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-close-up-mode-in-roblox-playground/"><u>Mastering Close-Up Mode in Roblox Playground</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-printing-out-mobile-text-chats-easily/"><u>The Ultimate Tutorial: Printing Out Mobile Text Chats Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-digital-workshop-in-depth-analysis-of-the-latest-technology/"><u>Tom's Digital Workshop: In-Depth Analysis of the Latest Technology</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-image-to-pdf-converter-effortless-photo-compilation-into-professional-documents/"><u>Ultimate Image-to-PDF Converter: Effortless Photo Compilation Into Professional Documents</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>[New] Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-your-video-content-making-square-format-footage-for-instagram-for-2024/"><u>[New] Transforming Your Video Content Making Square-Format Footage for Instagram for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-crashes-in-deathloop-effortless-tips-and-techniques-for-players/"><u>Avoid Crashes in Deathloop - Effortless Tips and Techniques for Players</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-high-quality-pdf-and-docx-files-to-stunning-hd-photos-the-flipbuildercom-easy-converter-solution/"><u>Convert High-Quality PDF and DOCX Files to Stunning HD Photos: The FlipBuilder.com Easy Converter Solution</u></a></li>
+<li><a href="https://win-great.techidaily.com/create-android-compatible-ebooks-from-various-image-formats-with-flipbuilder/"><u>Create Android-Compatible Ebooks From Various Image Formats with FlipBuilder</u></a></li>
+<li><a href="https://win-great.techidaily.com/ensuring-safety-in-your-digital-publishing-a-step-by-step-guide-to-securely-creating-an-interactive-ebook-with-flipbuilder/"><u>Ensuring Safety in Your Digital Publishing: A Step-by-Step Guide to Securely Creating an Interactive Ebook with FlipBuilder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-k70e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi K70E Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ipad-pro-vs-microsoft-surface-pro-a-comprehensive-showdown/"><u>IPad Pro Vs. Microsoft Surface Pro: A Comprehensive Showdown</u></a></li>
+<li><a href="https://win-great.techidaily.com/resolving-unspecified-error-during-recording-in-obs-a-comprehensive-guide/"><u>Resolving 'Unspecified Error During Recording' In OBS - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/wonderfox-unveils-new-feature-the-ultimate-guide-for-locating-elusive-content/"><u>WonderFox Unveils New Feature: The Ultimate Guide for Locating Elusive Content</u></a></li>
 </ul></div>
 

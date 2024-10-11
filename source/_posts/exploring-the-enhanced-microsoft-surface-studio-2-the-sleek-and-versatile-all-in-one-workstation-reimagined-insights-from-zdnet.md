@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Enhanced Microsoft Surface Studio 2: The Sleek and Versatile All-in-One Workstation Reimagined – Insights From ZDNet"
-date: 2024-09-29T19:32:40.607Z
-updated: 2024-10-05T20:02:44.583Z
+date: 2024-10-07T16:50:20.371Z
+updated: 2024-10-11T05:10:20.121Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-iosandroid-tips-attaching-audio-posters-on-facebook/"><u>2024 Approved IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/celebrated-selections-honorable-websites-for-securing-snapchat-alerts/"><u>Celebrated Selections Honorable Websites for Securing Snapchat Alerts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-elite-six-of-large-language-ai-models/"><u>Discover the Elite Six of Large Language AI Models</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-meizu-21-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Meizu 21 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-phone-free-perfection-recording-snapchat-videos/"><u>In 2024, Phone-Free Perfection Recording Snapchat Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/jumpstart-your-device-installing-3dconnexion-technology/"><u>Jumpstart Your Device: Installing 3Dconnexion Technology</u></a></li>
-<li><a href="https://win-great.techidaily.com/master-your-workflow-with-flipoffice-seamless-integration-of-all-office-file-formats-into-one-virtual-desk-space/"><u>Master Your Workflow with FlipOffice: Seamless Integration of All Office File Formats Into One Virtual Desk Space</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-interactive-flip-books-with-ios-devices-a-comprehensive-tutorial/"><u>Mastering Interactive Flip Books with iOS Devices: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-large-scale-flipbooks-with-ease-discover-how-using-flipbuilder/"><u>Mastering Large-Scale Flipbooks with Ease: Discover How Using FlipBuilder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-overcoming-game-lag-and-crashes-on-path-of-exile-free/"><u>Quick Guide: Overcoming Game Lag and Crashes on Path of Exile (Free)</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-integrating-your-flipbooks-into-web-pages-using-flipbuilder/"><u>Step-by-Step Guide: Integrating Your Flipbooks Into Web Pages Using FlipBuilder</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-for-adding-functional-links-to-text-and-imagery-within-flipbuilders-digital-books/"><u>Step-by-Step Tutorial for Adding Functional Links to Text & Imagery Within FlipBuilder's Digital Books</u></a></li>
-<li><a href="https://win-great.techidaily.com/techniques-for-enhancing-text-clarity-on-book-spines-using-flipbuilder-software/"><u>Techniques for Enhancing Text Clarity on Book Spines Using FlipBuilder Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/understanding-the-distinctions-classical-vs-spread-vs-float-templates-on-flipbuildercom/"><u>Understanding the Distinctions: Classical Vs. Spread Vs. Float Templates on FlipBuilder.com</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-fixing-dropped-frames-a-complete-guide-for-obs-studio-users/"><u>[Updated] 2024 Approved Fixing Dropped Frames A Complete Guide for OBS Studio Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevating-your-brand-key-tactics-for-testimonial-vids-for-2024/"><u>[Updated] Elevating Your Brand Key Tactics for Testimonial Vids for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-compile-of-premium-tiktok-backdrop-options/"><u>2024 Approved Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensively-understanding-manual-signal-recognition/"><u>2024 Approved Comprehensively Understanding Manual Signal Recognition</u></a></li>
+<li><a href="https://win-great.techidaily.com/affordable-microsoft-project-and-visio-professional-licenses-on-sale-just-20-at-zdnet/"><u>Affordable Microsoft Project & Visio Professional Licenses on Sale - Just $20 at ZDNet!</u></a></li>
+<li><a href="https://win-great.techidaily.com/critical-timeline-for-microsoft-addressing-the-impending-crisis-of-windows-nv-in-just-one-year-analysis-by-zdnet/"><u>Critical Timeline for Microsoft: Addressing the Impending Crisis of Windows Nv in Just One Year - Analysis by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-mini-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 mini to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>In 2024, A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
+<li><a href="https://win-great.techidaily.com/introducing-the-new-copilotplus-pc-microsofts-answer-to-apples-powerful-m3-macbooks-insights-from-zdnet/"><u>Introducing the New Copilot+ PC: Microsoft's Answer to Apple's Powerful M3 MacBooks - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-f34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy F34 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/los-mejores-programas-de-captura-de-pantalla-para-computadoras-con-windows-10-8-u-7-como-registrar-toda-la-pantalla/"><u>Los Mejores Programas De Captura De Pantalla Para Computadoras Con Windows 10, 8 U 7: Cómo Registrar Toda La Pantalla</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-surface-laptop-5-reviewed-a-familiar-improvement-in-latest-gen-techradar/"><u>Microsoft Surface Laptop 5 Reviewed: A Familiar Improvement in Latest Gen | TechRadar</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsofts-new-strategy-a-sign-of-growing-anxiety-reactions-from-the-tech-community-zdnet/"><u>Microsoft's New Strategy: A Sign of Growing Anxiety? Reactions From the Tech Community [ZDNet]</u></a></li>
+<li><a href="https://win-great.techidaily.com/next-level-tech-showdown-predicting-apples-move-to-surpass-competitors-at-wwdc-2024/"><u>Next-Level Tech Showdown: Predicting Apple's Move to Surpass Competitors at WWDC 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-tricks-for-disabling-text-overlays-in-your-amazon-prime-videos/"><u>Simple Tricks for Disabling Text Overlays in Your Amazon Prime Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-latest-on-microsofts-artificial-intelligence-conference-exploring-5-key-updates-missed-by-many-zdnet-highlights/"><u>The Latest on Microsoft's Artificial Intelligence Conference: Exploring 5 Key Updates Missed by Many | ZDNet Highlights</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-ultimate-strategy-for-securing-your-digital-life-windows-10-and-11-backup-with-file-history-insights-by-zdnet/"><u>The Ultimate Strategy for Securing Your Digital Life: Windows 10 and 11 Backup with File History | Insights by ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/why-you-shouldnt-rush-to-install-windows-11-just-yet-expert-advice-on-what-to-do-first-digital-innovations-blog/"><u>Why You Shouldn't Rush to Install Windows 11 Just Yet: Expert Advice on What to Do First | Digital Innovations Blog</u></a></li>
 </ul></div>
 

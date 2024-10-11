@@ -1,7 +1,7 @@
 ---
 title: Capturing Live Webcam Footage Directly in Windows Screen Recordings Tutorial
-date: 2024-09-28T22:15:08.946Z
-updated: 2024-10-05T16:18:45.696Z
+date: 2024-10-08T07:42:16.990Z
+updated: 2024-10-11T03:00:15.574Z
 tags:
   - product
 categories:
@@ -46,13 +46,6 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introduction 
 
  With this tutorial you will learn how to setup Action! Webcam Settings to add webcam video to your real-time Windows screen recording.
@@ -63,6 +56,20 @@ Action Tutorials
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings.jpg "Action! Webcam Settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Adjust webcam settings 
 
  Use Webcam Settings window to adjust your webcam settings. Make sure to switch Action! to Preview mode and check "Draggable mode" option. Now use your mouse to move and resize webcam on Preview area.
@@ -70,10 +77,10 @@ Action Tutorials
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_always_record.jpg "Adjust webcam settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make a Windows desktop recording and check the result 
@@ -83,10 +90,10 @@ Action Tutorials
 ![Mirillis Action! - Gameplay recording](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_desktop_recording_playback_webcam.jpg "Gameplay recording") 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to disable webcam recording 
@@ -94,13 +101,6 @@ Action Tutorials
  If you would like to disable webcam video in your gameplay recordings just disable Webcam option in main Video recording tab. 
 
 ![Mirillis Action! - Disable webcam recording](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_disable_webcam1.jpg "Webcam recording disabled")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,19 +117,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecoding-hashtags-role-in-elevating-your-youtube-gaming-experience-for-2024/"><u>[New] Decoding Hashtags' Role in Elevating Your YouTube Gaming Experience for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-immediate-insta-friendship-status-check/"><u>[New] Immediate Insta Friendship Status Check</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-picks-best-hd-cameras-for-professional-twitch-streamers/"><u>[New] In 2024, Top Picks Best HD Cameras for Professional Twitch Streamers</u></a></li>
-<li><a href="https://win-great.techidaily.com/direct-cd-burning-from-flipbooks-made-easy-flipbuilder-solutions/"><u>Direct CD Burning From FlipBooks Made Easy - FlipBuilder Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/discover-the-convenience-of-reading-with-flip-ebooks-master-your-digital-library-experience-flipbuildercom/"><u>Discover the Convenience of Reading with Flip eBooks - Master Your Digital Library Experience | flipBuilder.com</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-zero-30-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Zero 30 5G Phone Screen?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-reno-10-proplus-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Reno 10 Pro+ 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/integrating-your-own-flipbook-projects-into-facebook-pages-seamlessly-with-ease/"><u>Integrating Your Own FlipBook Projects Into Facebook Pages Seamlessly with Ease</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-double-sheet-displays-with-flipbook-using-flipbuilder-techniques/"><u>Mastering Double-Sheet Displays with FlipBook Using FlipBuilder Techniques</u></a></li>
-<li><a href="https://win-great.techidaily.com/maximize-learning-efficiency-discover-how-to-view-tech-manuals-at-full-screen-and-with-stunning-flash-enhancements-on-flipbuildercom/"><u>Maximize Learning Efficiency: Discover How to View Tech Manuals at Full Screen & With Stunning Flash Enhancements on FlipBuilder.com</u></a></li>
-<li><a href="https://extra-information.techidaily.com/meme-crafters-den/"><u>Meme Crafter's Den</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-errors-when-accessing-live-configuration-services/"><u>Step-by-Step Guide: Correcting Errors When Accessing Live Configuration Services</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortless-methods-to-eliminate-image-watermarks/"><u>Ultimate Guide: Effortless Methods to Eliminate Image Watermarks</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-resource-hub-exploring-flipchm-insights-on-flipbuildercom/"><u>Ultimate Resource Hub - Exploring FlipCHM Insights on FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-giggles-galore-curated-hits-of-hilarious-youtubers/"><u>[New] 2024 Approved Giggles Galore Curated Hits of Hilarious YouTubers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-approach-to-generating-income-with-trailers/"><u>[New] A Step-by-Step Approach to Generating Income with Trailers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-film-length-conversion-hours-to-storage-gb/"><u>[New] In 2024, Film Length Conversion Hours to Storage (GB)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>[New] Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-chuckles-in-single-photos/"><u>[New] The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-club-vibes-best-dj-template-video-selections/"><u>[Updated] 2024 Approved Club Vibes Best DJ Template Video Selections</u></a></li>
+<li><a href="https://win-great.techidaily.com/10-tips-from-tech-experts-at-zdnet/"><u>10 - Tips From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/ais-future-outlined-by-sam-altman-in-microsofts-build-keynote-insights-on-progress/"><u>AI's Future Outlined by Sam Altman in Microsoft's Build Keynote - Insights on Progress</u></a></li>
+<li><a href="https://win-great.techidaily.com/discover-microsofts-new-innovation-tech-pants-at-just-150-unveiling-the-secret-behind-this-bold-move-insights-from-zdnet/"><u>Discover Microsoft's New Innovation: Tech Pants at Just $150! Unveiling the Secret Behind This Bold Move - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-exploits-unveiled-by-ethical-hackers-in-microsofts-recalled-ai-system-insights-from-zdnet/"><u>Easy Exploits Unveiled by Ethical Hackers in Microsoft's Recalled AI System - Insights From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-hue-harvesting-a-guide-to-powertoys-color-picker-tutorial-by-zdnet-experts/"><u>Effortless Hue Harvesting: A Guide to PowerToys Color Picker Tutorial by ZDNet Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/enhanced-viewing-experience-with-microsoft-edges-new-feature-ai-translation-for-live-youtube-video-streams/"><u>Enhanced Viewing Experience with Microsoft Edge's New Feature: AI Translation for Live YouTube Video Streams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-shockwave-flash-problems-on-google-chrome-platform/"><u>How to Repair Shockwave Flash Problems on Google Chrome Platform</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-regular-to-revolutionary-how-to-convert-videos-for-vr-for-2024/"><u>New Regular to Revolutionary How to Convert Videos for VR for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-surveillance-on-a-budget-10-free-security-camera-tools/"><u>New Surveillance on a Budget 10 Free Security Camera Tools</u></a></li>
 </ul></div>
 

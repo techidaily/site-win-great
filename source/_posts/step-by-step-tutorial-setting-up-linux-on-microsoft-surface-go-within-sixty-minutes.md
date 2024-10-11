@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Setting Up Linux on Microsoft Surface Go Within Sixty Minutes!"
-date: 2024-10-02T22:51:58.461Z
-updated: 2024-10-05T18:16:12.903Z
+date: 2024-10-09T12:58:10.333Z
+updated: 2024-10-11T01:17:50.497Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-master-recorders-impact-on-efficient-screen-capturing/"><u>[New] 2024 Approved Master Recorder's Impact on Efficient Screen Capturing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fresh-aesthetics-prime-laptop-wallpapers-online/"><u>[New] Fresh Aesthetics Prime Laptop Wallpapers Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-tricks-to-optimize-live-streaming-of-your-snapchat-content-for-2024/"><u>[New] Tricks to Optimize Live Streaming of Your Snapchat Content for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-beyond-illusion-vr-timeline-explored/"><u>[Updated] Beyond Illusion VR Timeline Explored</u></a></li>
-<li><a href="https://win-great.techidaily.com/best-blu-ray-media-playback-devices-for-windows-8-users-streamline-your-cinema-experience/"><u>Best Blu-Ray Media Playback Devices for Windows 8 Users: Streamline Your Cinema Experience</u></a></li>
-<li><a href="https://win-great.techidaily.com/bypass-iphone-security-accessing-your-device-passcode-free-techniques/"><u>Bypass iPhone Security: Accessing Your Device Passcode-Free Techniques</u></a></li>
-<li><a href="https://win-great.techidaily.com/complete-guide-bypassing-the-lock-screen-with-a-password-free-restore-on-your-iphone/"><u>Complete Guide: Bypassing the Lock Screen with a Password-Free Restore on Your iPhone</u></a></li>
-<li><a href="https://win-great.techidaily.com/discover-the-best-10-android-applications-for-free-that-will-revolutionize-how-you-play-and-organize-your-songs/"><u>Discover the Best 10 Android Applications for Free That Will Revolutionize How You Play & Organize Your Songs!</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/diy-vhs/"><u>DIY 高解像度へのVHS変換方法：ビデオテープをデジタルメディアにするコツ</u></a></li>
-<li><a href="https://win-great.techidaily.com/effortless-ways-to-take-android-device-screenshots-using-your-laptop-or-desktop/"><u>Effortless Ways to Take Android Device Screenshots Using Your Laptop or Desktop</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-v30-pro-by-drfone-android/"><u>How to Bypass FRP on Vivo V30 Pro?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securing-gmail-with-dual-verification-enable-two-factor-authentication-today/"><u>Securing Gmail with Dual Verification – Enable Two-Factor Authentication Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/sidestepping-windows-update-error-code-0x80242016/"><u>Sidestepping Windows Update Error Code 0X80242016</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-transferring-mp3-files-onto-your-iphone-with-and-without-itunes/"><u>Step-by-Step Guide: Transferring MP3 Files Onto Your iPhone, With and Without iTunes</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-techniques-for-efficiently-shrinking-m4v-files-a-guide/"><u>Top Techniques for Efficiently Shrinking M4V Files: A Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-guide-to-effective-castingo-utilization-techniques/"><u>Ultimate Guide to Effective Castingo Utilization Techniques</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-troubleshooting-steps-for-restoring-information-on-nonfunctional-iphones/"><u>Ultimate Troubleshooting Steps for Restoring Information on Nonfunctional iPhones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/virtual-camcorders-mastering-live-streams-with-manycam-solutions/"><u>Virtual Camcorders: Mastering Live Streams with ManyCam Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-5-pro-snipers-on-macos/"><u>[Updated] 2024 Approved Top 5 Pro Snipers on macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhance-video-to-fit-instagrams-visual-taste/"><u>[Updated] Enhance Video to Fit Instagram's Visual Taste</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-windows-11-bluetooth-up-and-running-proven-fixes-inside/"><u>Getting Your Windows 11 Bluetooth Up and Running: Proven Fixes Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-magic-6-easily-by-drfone-android/"><u>How To Unlock a Honor Magic 6 Easily?</u></a></li>
+<li><a href="https://win-great.techidaily.com/mass-downloading-coursera-educational-videos-and-closed-captions-for-desktop-users/"><u>Mass-Downloading Coursera Educational Videos & Closed Captions for Desktop Users</u></a></li>
+<li><a href="https://win-great.techidaily.com/master-the-art-of-video-harvesting-on-56com-at-no-charge/"><u>Master the Art of Video Harvesting on 56.com at No Charge</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-frame-by-frame-mastering-video-freeze-frames-for-2024/"><u>New Frame by Frame Mastering Video Freeze Frames for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722869771090-revitalize-your-ipad-with-a-new-battery-a-step-by-step-tutorial/"><u>Revitalize Your iPad with a New Battery - A Step-by-Step Tutorial!</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-transforming-babytv-streams-to-popular-file-types-such-as-mp3-mp4-and-more/"><u>Step-by-Step Tutorial on Transforming BabyTV Streams to Popular File Types Such as MP3, MP4, and More</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-transforming-damasios-lecture-videos-to-compatible-mp4-and-mov-formats-across-windows-and-mac-systems/"><u>Step-by-Step Tutorial: Transforming Damasio's Lecture Videos to Compatible MP4 and MOV Formats Across Windows & Mac Systems</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-reliable-spotify-converters-for-pc-and-mac-a-comprehensive-guide-beyond-ondesoft/"><u>Top Reliable Spotify Converters for PC & MAC: A Comprehensive Guide Beyond Ondesoft</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-animetoons-hd-grabber-directly-download-episodes-and-movies-from-animetoonorg/"><u>Ultimate Animetoons HD Grabber - Directly Download Episodes and Movies From animetoon.org</u></a></li>
 </ul></div>
 

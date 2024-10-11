@@ -1,7 +1,7 @@
 ---
 title: "Why You Shouldn't Rush to Install Windows 11 Just Yet: Expert Advice on What to Do First | Digital Innovations Blog"
-date: 2024-09-28T16:07:04.679Z
-updated: 2024-10-05T20:48:45.152Z
+date: 2024-10-09T20:59:33.900Z
+updated: 2024-10-10T21:14:02.358Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,19 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-your-visual-language-how-to-turn-any-gif-into-a-social-sticker/"><u>[New] Unlock Your Visual Language How to Turn Any GIF Into a Social Sticker</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-demystifying-youtubes-seo-a-keyword-research-guide-for-2024/"><u>[Updated] Demystifying YouTube's SEO A Keyword Research Guide for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows202/"><u>【おすすめ】Windowsで使える最新動画制作ツール202</u></a></li>
-<li><a href="https://win-great.techidaily.com/3gp/"><u>3GP形式について学ぶ：ヘッダー情報の理解と再生問題発見後の対策手引き</u></a></li>
-<li><a href="https://win-great.techidaily.com/5yplusk44ge5yuv55s744gm6kgo56s644gn44gn44gq44gp44gq44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go5aplusplus562w44ks5a2m44kt44gg5pa544cf44g4/"><u>古い動画が表示できなくなった場合、その原因と対策を学んだ方々へ</u></a></li>
-<li><a href="https://win-great.techidaily.com/1726030082324-windows-10/"><u>新規ユーザーのためのWindows 10動画圧縮手引き - シンプルな方法</u></a></li>
-<li><a href="https://win-great.techidaily.com/a-comprehensive-walkthrough-mastering-the-art-of-uploading-content-to-twitch/"><u>A Comprehensive Walkthrough: Mastering the Art of Uploading Content to Twitch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-apple-watch-series-8-discover-its-forecasted-release-timeline-detailed-specifications-and-costs/"><u>Get Ready for Apple Watch Series 8 – Discover Its Forecasted Release Timeline, Detailed Specifications and Costs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>In 2024, Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>In 2024, Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-9-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 9 Pro+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-tutorial-mov-file-modification-techniques-for-windows-11-users/"><u>Ultimate Tutorial: MOV File Modification Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/whats-new-in-nokia-video-converter-factory-enhanced-features-of-version-n-30-available-now/"><u>What’s New in Nokia Video Converter Factory - Enhanced Features of Version N 3.0 Available Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-digital-landscapes-with-windows-10s-latest-features/"><u>[Updated] Sculpting Digital Landscapes with Windows 10'S Latest Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-vero-authors-spotlight-at-snapchat-for-2024/"><u>[Updated] Vero Authors Spotlight at Snapchat for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://win-great.techidaily.com/1-download-ndtv-news-footage-as-mp4movavi-easy-video-extraction/"><u>1. 'Download NDTV News Footage as MP4/MOV/AVI - Easy Video Extraction'</u></a></li>
+<li><a href="https://win-great.techidaily.com/accessing-aclands-top-notch-anatomy-visuals-download-procedures-for-apple-macintosh-and-microsoft-windows-systems/"><u>Accessing Acland's Top-Notch Anatomy Visuals: Download Procedures for Apple Macintosh and Microsoft Windows Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apple-ipad-air-4-review-like-a-more-affordable-ipad-pro/"><u>Apple iPad Air 4 Review: Like a More Affordable iPad Pro</u></a></li>
+<li><a href="https://win-great.techidaily.com/best-substitutes-for-kissanime-top-5-anime-streaming-sites/"><u>Best Substitutes for KissAnime: Top 5 Anime Streaming Sites</u></a></li>
+<li><a href="https://win-great.techidaily.com/chilloutzone-downloads-available-in-various-video-codecs-for-high-quality-playback/"><u>ChilloutZone Downloads Available in Various Video Codecs for High-Quality Playback</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
+<li><a href="https://win-great.techidaily.com/converting-npr-broadcasts-into-multiple-audio-types-for-offline-listening/"><u>Converting NPR Broadcasts Into Multiple Audio Types for Offline Listening</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-save-your-favorite-udemy-courses-as-video-downloads-in-various-formats-mp4-mp3-mov-avi/"><u>How to Save Your Favorite Udemy Courses as Video Downloads in Various Formats (MP4, MP3, MOV, AVI)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-14-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-htc-u23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to HTC U23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://win-superb.techidaily.com/innovative-team-solutions-how-microsofts-latest-updates-spark-entrepreneurial-spirit-among-staff-according-to-zdnet/"><u>Innovative Team Solutions: How Microsoft's Latest Updates Spark Entrepreneurial Spirit Among Staff, According to ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-video-extraction-how-to-save-4k-spherical-footage-from-youtube-for-both-mac-and-windows-users/"><u>Mastering Video Extraction: How to Save 4K Spherical Footage From YouTube for Both Mac and Windows Users</u></a></li>
+<li><a href="https://win-great.techidaily.com/seamlessly-watch-high-definition-youtube-videos-on-your-smart-tv-with-our-hd-download-app/"><u>Seamlessly Watch High-Definition YouTube Videos on Your Smart TV with Our HD Download App</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
 </ul></div>
 

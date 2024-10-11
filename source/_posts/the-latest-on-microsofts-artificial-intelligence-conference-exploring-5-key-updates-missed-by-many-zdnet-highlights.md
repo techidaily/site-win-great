@@ -1,7 +1,7 @@
 ---
 title: "The Latest on Microsoft's Artificial Intelligence Conference: Exploring 5 Key Updates Missed by Many | ZDNet Highlights"
-date: 2024-10-01T00:04:55.975Z
-updated: 2024-10-05T19:55:37.719Z
+date: 2024-10-10T08:27:48.095Z
+updated: 2024-10-10T20:12:09.360Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,16 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-social-sharing-during-facebook-lives-for-2024/"><u>[New] Mastering Social Sharing During Facebook Lives for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/amplify-playtime-8-ways-to-upgrade-your-ps4/"><u>Amplify Playtime: 8 Ways to Upgrade Your PS4</u></a></li>
-<li><a href="https://win-great.techidaily.com/compelling-substitutes-to-screenflow-on-macos-a-comprehensive-list/"><u>Compelling Substitutes to ScreenFlow on macOS: A Comprehensive List</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/disrupting-tradition-the-emerging-fb-ad-practices-for-2024/"><u>Disrupting Tradition The Emerging FB Ad Practices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-to-minimize-zooms-impact-on-your-computers-processor/"><u>Effective Techniques to Minimize Zoom's Impact on Your Computer’s Processor</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-recording-your-live-stream-with-hp-laptops-webcam/"><u>In 2024, Recording Your Live Stream with HP Laptop's Webcam</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/master-tweet-management-ultimate-list-of-unfollow-aids/"><u>Master Tweet Management Ultimate List of Unfollow Aids</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-facebook-video-auto-play/"><u>Mastering Facebook Video Auto-Play</u></a></li>
-<li><a href="https://win-great.techidaily.com/speedy-text-substitution-tips-discover-the-best-5-strategies-to-change-words-inside-a-pdf-document/"><u>Speedy Text Substitution Tips: Discover the Best 5 Strategies to Change Words Inside a PDF Document</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-moving-your-contact-list-from-one-samsung-device-to-another/"><u>Step-by-Step Guide: Moving Your Contact List From One Samsung Device to Another</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-list-of-leading-android-emulators-for-pcs-compatible-with-windows-and-macos/"><u>Ultimate List of Leading Android Emulators for PCs, Compatible with Windows & macOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>[New] Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-mobizen-users-handbook-for-screen-capturing/"><u>[New] The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pictureprecision-the-ultimate-guide-to-adjusting-post-dimensions-in-instagram/"><u>[Updated] 2024 Approved PicturePrecision The Ultimate Guide to Adjusting Post Dimensions in Instagram</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-eye-on-the-social-scene-top-tweets-of-2023/"><u>2024 Approved Eye on the Social Scene Top Tweets of 2023</u></a></li>
+<li><a href="https://win-great.techidaily.com/404-error-page-unavailable-overcoming-redirects-with-allavsoft-solutions/"><u>404 Error: Page Unavailable – Overcoming Redirects with Allavsoft Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-and-save-your-favorite-leadercast-sessions-in-high-quality-mp4-format/"><u>Convert and Save Your Favorite Leadercast Sessions in High-Quality MP4 Format</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-g2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo G2 FRP Without Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-android-visionaries-for-speedy-videos/"><u>In 2024, Top 8 Android Visionaries for Speedy Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-double-sheet-displays-with-flipbook-using-flipbuilder-techniques/"><u>Mastering Double-Sheet Displays with FlipBook Using FlipBuilder Techniques</u></a></li>
+<li><a href="https://win-great.techidaily.com/maximize-learning-efficiency-discover-how-to-view-tech-manuals-at-full-screen-and-with-stunning-flash-enhancements-on-flipbuildercom/"><u>Maximize Learning Efficiency: Discover How to View Tech Manuals at Full Screen & With Stunning Flash Enhancements on FlipBuilder.com</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-enhancing-your-images-using-clipart-in-flipbuilder/"><u>Step-by-Step Guide: Enhancing Your Images Using Clipart in FlipBuilder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-ringtone-collection-top-download-locales-for-2024/"><u>Ultimate Ringtone Collection Top Download Locales for 2024</u></a></li>
 </ul></div>
 

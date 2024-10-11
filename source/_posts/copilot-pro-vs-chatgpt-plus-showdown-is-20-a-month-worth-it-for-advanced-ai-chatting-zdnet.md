@@ -1,7 +1,7 @@
 ---
 title: "Copilot Pro Vs. ChatGPT Plus Showdown: Is $20 a Month Worth It for Advanced AI Chatting? | ZDNET"
-date: 2024-09-28T17:09:46.203Z
-updated: 2024-10-05T17:45:42.748Z
+date: 2024-10-08T20:07:29.729Z
+updated: 2024-10-10T17:55:14.301Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,35 +136,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-mirth-in-monotony-the-top-20-fb-detention-reprieve-humor-for-2024/"><u>[New] Mirth in Monotony The Top 20 Fb Detention Reprieve Humor for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-globally-acclaimed-video-sensations-on-youtube/"><u>[New] Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-tunefab-revolutionizing-the-art-of-video-capture-for-2024/"><u>[Updated] Tunefab Revolutionizing the Art of Video Capture for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beat-the-best-substitutes-for-samsungs-vr-camera-gear-360-for-2024/"><u>Beat the Best Substitutes for Samsung's VR Camera Gear 360 for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/best-blu-ray-media-playback-devices-for-windows-8-users-streamline-your-cinema-experience/"><u>Best Blu-Ray Media Playback Devices for Windows 8 Users: Streamline Your Cinema Experience</u></a></li>
-<li><a href="https://win-great.techidaily.com/complete-guide-bypassing-the-lock-screen-with-a-password-free-restore-on-your-iphone/"><u>Complete Guide: Bypassing the Lock Screen with a Password-Free Restore on Your iPhone</u></a></li>
-<li><a href="https://win-great.techidaily.com/discover-the-best-10-android-applications-for-free-that-will-revolutionize-how-you-play-and-organize-your-songs/"><u>Discover the Best 10 Android Applications for Free That Will Revolutionize How You Play & Organize Your Songs!</u></a></li>
-<li><a href="https://win-great.techidaily.com/effortless-ways-to-take-android-device-screenshots-using-your-laptop-or-desktop/"><u>Effortless Ways to Take Android Device Screenshots Using Your Laptop or Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-aifc-files-to-mp4-format-using-movavi/"><u>Free Online Converter - Convert AIFC Files to MP4 Format Using Movavi</u></a></li>
-<li><a href="https://solve-news.techidaily.com/guide-simple-pour-changer-un-fichier-flac-en-format-webm-sans-compte-services-de-movavi-gratuits-online/"><u>Guide Simple Pour Changer Un Fichier FLAC en Format WebM Sans Compte - Services De MovaVi Gratuits Online</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters-for-2024/"><u>Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-bypassing-drm-on-disney-movies-and-copying-dvds/"><u>Step-by-Step Guide: Bypassing DRM on Disney Movies & Copying DVDs</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-transferring-mp3-files-onto-your-iphone-with-and-without-itunes/"><u>Step-by-Step Guide: Transferring MP3 Files Onto Your iPhone, With and Without iTunes</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-guide-to-effective-castingo-utilization-techniques/"><u>Ultimate Guide to Effective Castingo Utilization Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-digital-personas-made-simple-a-guide-for-the-curious-vr-explorer/"><u>[New] Digital Personas Made Simple A Guide for the Curious VR Explorer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-channel-boosting-mastery-unveiling-the-best-5-video-marketing-strategies/"><u>[New] In 2024, Channel Boosting Mastery Unveiling the Best 5 Video Marketing Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-leading-cost-free-switch-gaming-apps-for-2024/"><u>[New] Leading Cost-Free Switch Gaming Apps for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-countering-harshness-maintaining-poise-online/"><u>[Updated] 2024 Approved Countering Harshness Maintaining Poise Online</u></a></li>
+<li><a href="https://win-great.techidaily.com/best-substitutes-for-kissanime-top-5-anime-streaming-sites/"><u>Best Substitutes for KissAnime: Top 5 Anime Streaming Sites</u></a></li>
+<li><a href="https://win-great.techidaily.com/chilloutzone-downloads-available-in-various-video-codecs-for-high-quality-playback/"><u>ChilloutZone Downloads Available in Various Video Codecs for High-Quality Playback</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
+<li><a href="https://win-great.techidaily.com/converting-npr-broadcasts-into-multiple-audio-types-for-offline-listening/"><u>Converting NPR Broadcasts Into Multiple Audio Types for Offline Listening</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-90-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 90 Pattern Lock Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlining-live-gaming-footage-with-apps-for-2024/"><u>Streamlining Live Gaming Footage with Apps for 2024</u></a></li>
 </ul></div>
 

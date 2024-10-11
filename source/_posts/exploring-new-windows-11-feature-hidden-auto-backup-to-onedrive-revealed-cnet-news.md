@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Windows 11 Feature: Hidden Auto-Backup to OneDrive Revealed | CNET News"
-date: 2024-10-02T22:24:33.194Z
-updated: 2024-10-05T21:04:20.896Z
+date: 2024-10-04T23:11:42.013Z
+updated: 2024-10-10T23:45:26.020Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -123,16 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-5-best-gba-emulators-you-can-find-on-pc/"><u>[New] 5 Best GBA Emulators You Can Find on PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-integrating-zoom-and-fb-live-events/"><u>[New] Unlock Full Potential Integrating ZOOM and FB Live Events</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-immerse-audiences-integrating-sound-effectively-in-canva-films/"><u>[Updated] 2024 Approved Immerse Audiences Integrating Sound Effectively in Canva Films</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[Updated] In 2024, Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226342238-m1vmp4-movavi/"><u>無料で簡単! M1VからMP4へのスムーズなオンライン変換 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-edge-leveraging-chatgpts-capabilities/"><u>Creative Edge: Leveraging ChatGPT's Capabilities</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-search-of-perfection-gopros-1-10-case-review-for-2024/"><u>In Search of Perfection - GoPro's #1-10 Case Review for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-se-2020-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone SE (2020) iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/quick-guide-free-downloads-of-high-quality-4k-music-videos/"><u>Quick Guide: Free Downloads of High-Quality 4K Music Videos</u></a></li>
-<li><a href="https://win-great.techidaily.com/rotating-avi-content-made-easy-cost-free-conversion-tips/"><u>Rotating AVI Content Made Easy: Cost-Free Conversion Tips</u></a></li>
-<li><a href="https://win-great.techidaily.com/seamless-avi-media-insertion-and-execution-strategies-for-microsoft-powerpoint-on-windows-systems/"><u>Seamless AVI Media Insertion & Execution Strategies for Microsoft PowerPoint on Windows Systems</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-ultimate-guide-simplifying-audio-editing-with-an-ogg-file-splitter/"><u>The Ultimate Guide: Simplifying Audio Editing with an OGG File Splitter</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-vob-video-editing-tools-a-step-by-step-guide-to-cutting-joining-and-more/"><u>Top VOB Video Editing Tools: A Step-by-Step Guide to Cutting, Joining & More</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-your-facebook-fanbase/"><u>Unveiling Your Facebook Fanbase</u></a></li>
-<li><a href="https://win-great.techidaily.com/vimeoand-pc/"><u>Vimeoビデオをスムーズにカット&切り取る方法 - PC編集者へ</u></a></li>
-<li><a href="https://win-great.techidaily.com/watermark-free-video-cropping-techniques-a-step-by-step-guide/"><u>Watermark-Free Video Cropping Techniques: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows-pc4/"><u>Windows PC向けトップ4画面キャプチャツール - オススメリスト</u></a></li>
-<li><a href="https://win-great.techidaily.com/no1/"><u>トレントとマグネットリンクを活用した最強のダウンロードツールが解禁!: ユーザー評価No.1ソフトへの旅路</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-boosting-engagement-techniques-for-snap-camera-on-teams/"><u>[New] 2024 Approved Boosting Engagement Techniques for Snap Camera on Teams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-nova-y71-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Nova Y71.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-software-for-windows-beyond-sony-vegas/"><u>Best Video Editing Software for Windows Beyond Sony Vegas</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-v30-lite-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo V30 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/get-your-streetvoice-tracks-as-high-quality-files-choose-from-mp3-to-flac/"><u>Get Your StreetVoice Tracks as High-Quality Files – Choose From MP3 to FLAC!</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-to-converting-and-saving-market-motive-tutorials-in-various-formats-like-mp4-mov-mp3-avi/"><u>Guide to Converting and Saving Market Motive Tutorials in Various Formats Like MP4, MOV, MP3, AVI</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-successfully-saving-your-favorite-nbc-series-and-episodes-for-offline-viewing/"><u>Guide: Successfully Saving Your Favorite NBC Series and Episodes for Offline Viewing</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-capture-and-download-videos-from-disclosetv-in-mp4-format-for-offline-viewing-a-step-by-step-guide/"><u>How to Capture and Download Videos From Disclose.tv in MP4 Format for Offline Viewing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-save-mylifetime-tv-series-in-high-quality-mp4-format-for-offline-viewing/"><u>How to Save MyLifetime TV Series in High-Quality MP4 Format for Offline Viewing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elite-4k-multi-touch-desktops-for-work/"><u>In 2024, Elite 4K Multi-Touch Desktops for Work</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/mass-downloading-coursera-educational-videos-and-closed-captions-for-desktop-users/"><u>Mass-Downloading Coursera Educational Videos & Closed Captions for Desktop Users</u></a></li>
+<li><a href="https://win-great.techidaily.com/master-the-art-of-video-harvesting-on-56com-at-no-charge/"><u>Master the Art of Video Harvesting on 56.com at No Charge</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unleash-your-creative-potential-the-best-pro-audio-editing-tools/"><u>New 2024 Approved Unleash Your Creative Potential The Best Pro Audio Editing Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-complete-playbook-to-propel-your-youtube-gaming-vids-with-hashes-for-2024/"><u>The Complete Playbook to Propel Your YouTube Gaming Vids with Hashes for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Critical Error 104' Issue in Your Favorite Apps
-date: 2024-10-03T21:00:05.716Z
-updated: 2024-10-05T21:22:11.460Z
+date: 2024-10-05T12:38:47.165Z
+updated: 2024-10-10T17:20:11.659Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction
@@ -60,23 +60,17 @@ Action Tutorials
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/errors/mirillis-action-critical-error-104.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution
@@ -107,22 +101,22 @@ After following guides above you should be able to use our software properly aga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revolutionize-your-social-media-top-downloader-plugins-and-addons-for-fb-on-firefox/"><u>[New] 2024 Approved Revolutionize Your Social Media Top Downloader Plugins and Addons for FB on Firefox</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outubes-economic-model-month-to-month-income/"><u>[New] YouTube's Economic Model Month-to-Month Income?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-synergy-of-sounds-crafting-seamless-integration-with-powerpoint-for-2024/"><u>[Updated] Synergy of Sounds Crafting Seamless Integration with PowerPoint for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-download-ndtv-news-footage-as-mp4movavi-easy-video-extraction/"><u>1. 'Download NDTV News Footage as MP4/MOV/AVI - Easy Video Extraction'</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>2024 Approved Crafting Real World Stories An Insight Into Documentary Screenplay Writing</u></a></li>
-<li><a href="https://win-great.techidaily.com/accessing-aclands-top-notch-anatomy-visuals-download-procedures-for-apple-macintosh-and-microsoft-windows-systems/"><u>Accessing Acland's Top-Notch Anatomy Visuals: Download Procedures for Apple Macintosh and Microsoft Windows Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/best-budget-friendly-streaming-tools-for-smooth-video-viewing-on-pc-and-mobile/"><u>Best Budget-Friendly Streaming Tools for Smooth Video Viewing on PC and Mobile</u></a></li>
-<li><a href="https://win-great.techidaily.com/best-substitutes-for-kissanime-top-5-anime-streaming-sites/"><u>Best Substitutes for KissAnime: Top 5 Anime Streaming Sites</u></a></li>
-<li><a href="https://win-great.techidaily.com/chilloutzone-downloads-available-in-various-video-codecs-for-high-quality-playback/"><u>ChilloutZone Downloads Available in Various Video Codecs for High-Quality Playback</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-redmi-12-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Xiaomi Redmi 12 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-save-your-favorite-udemy-courses-as-video-downloads-in-various-formats-mp4-mp3-mov-avi/"><u>How to Save Your Favorite Udemy Courses as Video Downloads in Various Formats (MP4, MP3, MOV, AVI)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oneplus-nord-ce-3-lite-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any OnePlus Nord CE 3 Lite 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>In 2024, Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-video-extraction-how-to-save-4k-spherical-footage-from-youtube-for-both-mac-and-windows-users/"><u>Mastering Video Extraction: How to Save 4K Spherical Footage From YouTube for Both Mac and Windows Users</u></a></li>
-<li><a href="https://win-great.techidaily.com/seamlessly-watch-high-definition-youtube-videos-on-your-smart-tv-with-our-hd-download-app/"><u>Seamlessly Watch High-Definition YouTube Videos on Your Smart TV with Our HD Download App</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamline-your-screen-captures-with-4-methods-for-2024/"><u>Streamline Your Screen Captures with 4 Methods for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-comprehensive-guide-to-creating-viral-youtube-shorts-videos/"><u>[New] 2024 Approved A Comprehensive Guide to Creating Viral YouTube Shorts Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ncovering-8-must-have-mirrorless-cams-for-video-creators/"><u>[New] Uncovering 8 Must-Have Mirrorless Cams for Video Creators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bellylaugh-blast-websites-with-the-best-comical-ringtones/"><u>[Updated] BellyLaugh Blast Websites with the Best Comical Ringtones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-banish-buffering-repair-facebook-videos-on-phonestablets/"><u>[Updated] In 2024, Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
+<li><a href="https://win-great.techidaily.com/choose-the-ideal-work-seat-the-ultimate-guide-to-2022s-best-ergonomic-office-chairs-zdnet-rated/"><u>Choose the Ideal Work Seat: The Ultimate Guide to 2022'S Best Ergonomic Office Chairs (ZDNET Rated)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-z-flip-5-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy Z Flip 5 has native HEVC support?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-podcast-prelude-selecting-in-sync-sonic-sources/"><u>In 2024, Podcast Prelude Selecting In-Sync Sonic Sources</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-unveils-educational-focus-with-windows-11-se-and-budget-friendly-surface-laptop-se-a-revolution-in-schools-tech-zdnet/"><u>Microsoft Unveils Educational Focus with Windows 11 SE and Budget-Friendly Surface Laptop SE: A Revolution in Schools' Tech | ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/save-big-on-your-sit-to-stand-desk-transformation-the-affordable-solution-now-offered-by-zdnet/"><u>Save Big on Your Sit-to-Stand Desk Transformation: The Affordable Solution Now Offered by ZDNet!</u></a></li>
+<li><a href="https://win-great.techidaily.com/save-big-with-professional-licenses-buy-microsoft-project-and-visio-pros-for-just-20-on-zdnet/"><u>Save Big with Professional Licenses: Buy Microsoft Project & Visio Pros for Just $20 on ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-viewing-how-to-mirror-apple-tvplus-content-on-a-chromecast-device/"><u>Seamless Viewing: How to Mirror Apple TV+ Content on a Chromecast Device</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-setting-up-linux-on-microsoft-surface-go-within-sixty-minutes/"><u>Step-by-Step Tutorial: Setting Up Linux on Microsoft Surface Go Within Sixty Minutes!</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-end-of-an-era-understanding-why-microsoft-discontinued-the-free-windows-11-upgrade-program-zdnet-coverage/"><u>The End of an Era: Understanding Why Microsoft Discontinued the Free Windows 11 Upgrade Program | ZDNet Coverage</u></a></li>
+<li><a href="https://win-great.techidaily.com/unlock-microsoft-365-perks-access-your-complimentary-vpn-and-get-started-today-a-step-by-step-guide-from-zdnet/"><u>Unlock Microsoft 365 Perks: Access Your Complimentary VPN and Get Started Today – A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/why-pursuing-a-career-at-microsoft-might-not-appeal-insights-from-top-executives-discovered-by-zdnet/"><u>Why Pursuing a Career at Microsoft Might Not Appeal: Insights From Top Executives - Discovered by ZDNet</u></a></li>
 </ul></div>
 

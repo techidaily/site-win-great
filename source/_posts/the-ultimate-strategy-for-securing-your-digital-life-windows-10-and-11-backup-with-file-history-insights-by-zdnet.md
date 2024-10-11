@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy for Securing Your Digital Life: Windows 10 and 11 Backup with File History | Insights by ZDNet"
-date: 2024-10-01T22:23:26.840Z
-updated: 2024-10-05T23:37:18.031Z
+date: 2024-10-05T00:33:11.897Z
+updated: 2024-10-11T06:03:04.852Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -158,6 +145,19 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-legal-secure-and-safe-tiktok-follower-recommendations/"><u>[New] Legal, Secure, and Safe TikTok Follower Recommendations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-microsoft-hololens-insight-step-into-the-future-now/"><u>[Updated] Microsoft HoloLens Insight – Step Into the Future Now</u></a></li>
-<li><a href="https://win-great.techidaily.com/1726030243301-google-meet/"><u>「非公開会話を守りつつも！無料・有料問わず、安全にGoogle Meetセッション録画ガイド」</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-converting-flac-audio-a-step-by-step-guide-to-playing-lossless-tracks-on-itunes/"><u>1. Converting FLAC Audio: A Step-by-Step Guide to Playing Lossless Tracks on iTunes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pros-cons-navigating-virtual-reality-worlds/"><u>2024 Approved Pros, Cons Navigating Virtual Reality Worlds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-techniques-for-changing-your-video-files-to-mov/"><u>Easy Techniques for Changing Your Video Files to MOV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hps-cost-friendly-notebook-with-amd-processor-reviewed-meeting-the-mark-or-missing-the-beat-in-affordable-computing/"><u>HP's Cost-Friendly Notebook with AMD Processor Reviewed: Meeting the Mark or Missing the Beat in Affordable Computing?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-your-titling-skills-with-our-best-practices/"><u>Perfect Your Titling Skills with Our Best Practices</u></a></li>
-<li><a href="https://win-great.techidaily.com/quick-and-simple-guide-convert-your-mov-files-into-high-quality-webm-videos-in-just-5-steps/"><u>Quick & Simple Guide: Convert Your MOV Files Into High-Quality WebM Videos in Just 5 Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-servers-unavailable-in-destiny-2-expert-troubleshooting-steps/"><u>Solving 'Servers Unavailable' In Destiny 2: Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-cloning-securely-locked-dvd-content/"><u>Step-by-Step Tutorial on Cloning Securely Locked DVD Content</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-leading-3-image-conversion-applications-from-webp-to-jpg/"><u>The Leading 3 Image Conversion Applications From WebP to JPG</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-ultimate-list-of-user-friendly-face-erasing-apps-in-pictures-discover-the-best-in-202e/"><u>The Ultimate List of User-Friendly Face Erasing Apps in Pictures - Discover the Best in 202E</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-professional-techniques-for-aps-hdr-creation-for-2024/"><u>Unveiling Professional Techniques for APS HDR Creation for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/44oi44oo44op44or6zplusz5aow6lui5oplusb5oml6acg44ks6zug57se44gx44gf44ks44kk44oj/"><u>モノラル音声転換手順を集約したガイド</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-short-form-spectacularity-compile-the-top-10-video-editing-tools/"><u>[New] 2024 Approved Short-Form Spectacularity Compile the Top 10 Video Editing Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-innovative-approaches-for-bigger-character-portrayals-on-tiktok/"><u>2024 Approved Innovative Approaches for Bigger Character Portrayals on TikTok</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-periscope-videos-in-mp4-wmv-or-avi-format-easy-steps-and-tools/"><u>Download Periscope Videos in MP4, WMV, or AVI Format: Easy Steps & Tools</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-guide-to-save-rihanna-tunes-in-multiple-audio-formats-on-mac-os-and-windows-computers/"><u>Easy Guide to Save Rihanna Tunes in Multiple Audio Formats on Mac OS and Windows Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-steps-to-move-your-tunes-from-a-windows-computer-to-an-iphone/"><u>Easy Steps to Move Your Tunes From a Windows Computer to an iPhone</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-access-bambusers-live-broadcast-tools-free-download-and-setup-instructions/"><u>How to Access Bambuser's Live Broadcast Tools – Free Download & Setup Instructions</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-save-and-convert-your-favorite-makertv-content-into-common-video-file-types/"><u>How to Save and Convert Your Favorite Maker.tv Content Into Common Video File Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles/"><u>In 2024, The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-potential-youtubes-techniques-for-stellar-videos/"><u>In 2024, Unleashing Potential YouTube's Techniques for Stellar Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-integration-mastering-vids-in-the-facebook-realm/"><u>Innovative Integration Mastering Vids in the Facebook Realm</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-1-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 1 V Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: $20 Microsoft Project & Visio Professional Licenses Available Immediately – Offer on ZDNet!
-date: 2024-10-01T22:42:21.914Z
-updated: 2024-10-05T23:05:20.325Z
+date: 2024-10-03T19:15:07.431Z
+updated: 2024-10-11T09:05:31.486Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/jpgjpegmp44/"><u>画像ファイル形式の変換: JPGからJPEGをMP4へ、効果的な4方法</u></a></li>
-<li><a href="https://win-great.techidaily.com/avi-2024/"><u>新規AVIフォーマットへ挑戦! 2024年最先端のビデオ再生ソリューションとその対策</u></a></li>
-<li><a href="https://win-great.techidaily.com/can-you-secretly-capture-your-google-meet-discussions-without-consent-heres-the-guide/"><u>Can You Secretly Capture Your Google Meet Discussions Without Consent? Here's the Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/comprehensive-showdown-analyzing-wonderfox-dvd-converter-and-winx-dvd-ripper-effectiveness/"><u>Comprehensive Showdown: Analyzing WonderFox DVD Converter and WinX DVD Ripper Effectiveness</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-dvd-files-to-avi-quickly-and-effortlessly-for-free-with-zero-watermarks/"><u>Convert DVD Files to AVI Quickly and Effortlessly for Free with Zero Watermarks</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-to-use-flashtastic-video-converter-effortless-conversion-from-swf-flv-to-f4v-streaming-files/"><u>Easy-to-Use Flashtastic Video Converter - Effortless Conversion From SWF, FLV to F4V Streaming Files</u></a></li>
-<li><a href="https://win-great.techidaily.com/effortless-swf-format-conversion-transform-your-videos-into-flash-and-back/"><u>Effortless SWF Format Conversion - Transform Your Videos Into Flash and Back</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-convert-mp4-videos-into-personalized-iphone-ringtones-easily/"><u>How to Convert MP4 Videos Into Personalized iPhone Ringtones Easily</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-excellent-video-conference-devices-for-professionals/"><u>In 2024, 5 Excellent Video Conference Devices for Professionals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia Lock Screen Password?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-social-media-potential-a-guide-to-video-marketing-on-fb/"><u>In 2024, Unlocking Social Media Potential A Guide to Video Marketing on FB</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-video-editing-with-windows-10-techniques-and-tips-for-the-modern-user/"><u>Mastering Video Editing with Windows 10 - Techniques and Tips for the Modern User</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979137316-realtek-rtl8188cu-wireless-card-driver-update-enhanced-performance-for-windows-710-download-now/"><u>Realtek RTL8188CU Wireless Card Driver Update: Enhanced Performance for Windows 7/10 – Download Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-gaming-disruptions-proven-fixes-for-random-pc-game-crashing/"><u>Stop Gaming Disruptions: Proven Fixes for Random PC Game Crashing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamline-your-inbox-faster-learn-the-top-30-gmail-keyboard-shortcut-tricks/"><u>Streamline Your Inbox Faster: Learn the Top 30 Gmail Keyboard Shortcut Tricks</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tv-ready-recycling-replay-youtube-videos-efficiently/"><u>TV-Ready Recycling Replay YouTube Videos Efficiently</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-f04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy F04 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723008288660-winning-against-lag-expert-fixes-for-dota-(-2)-update-your-game-now/"><u>Winning Against Lag: Expert Fixes for Dota < 2> - Update Your Game Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-speed-demos-like-video-duo-for-rapid-growth/"><u>[Updated] Instagram Speed Demos Like-Video Duo for Rapid Growth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-interactive-elements-crafting-effective-youtube-annotations/"><u>[Updated] Interactive Elements Crafting Effective YouTube Annotations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-seconds-timelapse-shooter-for-2024/"><u>[Updated] Top 5-Seconds Timelapse Shooter for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-branding-on-youtubes-iconography-and-images/"><u>2024 Approved Visual Branding on YouTubes Iconography and Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-elite-selection-of-apps-for-visual-voice-messaging-services/"><u>2024'S Elite Selection of Apps for Visual Voice Messaging Services</u></a></li>
+<li><a href="https://win-great.techidaily.com/converting-your-alienthink-videos-guide-to-downloading-in-mp4-or-avi-formats/"><u>Converting Your AlienThink Videos: Guide to Downloading in MP4 or AVI Formats</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-and-convert-transforming-your-lectures-and-courses-with-tele-task-to-high-quality-videos-mp4-mov/"><u>Download & Convert: Transforming Your Lectures and Courses with Tele-TASK to High-Quality Videos (MP4, MOV)</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-content-from-munchner-fernsehen-easy-video-retrieval-guide-for-local-german-programming/"><u>Download Content From Münchner Fernsehen: Easy Video Retrieval Guide for Local German Programming</u></a></li>
+<li><a href="https://win-great.techidaily.com/downloading-imdb-titles-safely-and-legally-comprehensive-tutorial/"><u>Downloading IMDB Titles Safely and Legally: Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-great.techidaily.com/downloading-slutload-content-a-step-by-step-guide/"><u>Downloading SlutLoad Content: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/efficient-methods-for-saving-your-favorite-8tracks-tunes-with-a-professional-downloading-tool/"><u>Efficient Methods for Saving Your Favorite 8Tracks Tunes with a Professional Downloading Tool</u></a></li>
+<li><a href="https://win-great.techidaily.com/get-free-episodes-and-full-seasons-with-tnaflix-downloads/"><u>Get Free Episodes and Full Seasons with TNAFlix Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-infinix-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y77t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y77t Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028628558-obs/"><u>OBSスタジオにおけるゲームキャプチャ問題:画面表示不可を解消する方法</u></a></li>
 </ul></div>
 

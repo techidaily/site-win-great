@@ -1,7 +1,7 @@
 ---
 title: "Urgent Challenge Ahead: Microsoft Must Fix Major Flaws in Windows 11 Within Just One Year - Insights From ZDNet"
-date: 2024-09-28T20:21:42.048Z
-updated: 2024-10-05T19:15:51.465Z
+date: 2024-10-10T10:16:16.943Z
+updated: 2024-10-10T21:04:00.742Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-logic-pros-way-to-softly-diminish-loud-passages/"><u>[New] 2024 Approved Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-journey-through-ipodverse-mastering-iphones-podcast-downloads/"><u>2024 Approved Journey Through iPodverse Mastering iPhone's Podcast Downloads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-proven-methods-for-high-quality-webinars/"><u>2024 Approved Proven Methods for High-Quality Webinars</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-understanding-legality-in-screenshots-from-youtube/"><u>2024 Approved Understanding Legality in Screenshots From YouTube</u></a></li>
-<li><a href="https://win-great.techidaily.com/choose-the-ideal-work-seat-the-ultimate-guide-to-2022s-best-ergonomic-office-chairs-zdnet-rated/"><u>Choose the Ideal Work Seat: The Ultimate Guide to 2022'S Best Ergonomic Office Chairs (ZDNET Rated)</u></a></li>
-<li><a href="https://win11.techidaily.com/dispel-limitations-escalating-internet-speed-past-100mbps-in-windows/"><u>Dispel Limitations: Escalating Internet Speed Past 100Mbps in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-counterfeit-a-fortnite-transaction-for-a-rebate/"><u>How to Counterfeit a Fortnite Transaction for a Rebate</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/live-and-record-flawlessly-find-the-best-conference-tech-today-for-2024/"><u>Live and Record Flawlessly - Find the Best Conference Tech Today for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/microsoft-unveils-educational-focus-with-windows-11-se-and-budget-friendly-surface-laptop-se-a-revolution-in-schools-tech-zdnet/"><u>Microsoft Unveils Educational Focus with Windows 11 SE and Budget-Friendly Surface Laptop SE: A Revolution in Schools' Tech | ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-skip-the-hunt-exclusive-filmora-coupon-codes-inside/"><u>New 2024 Approved Skip the Hunt Exclusive Filmora Coupon Codes Inside</u></a></li>
-<li><a href="https://win-great.techidaily.com/save-big-on-your-sit-to-stand-desk-transformation-the-affordable-solution-now-offered-by-zdnet/"><u>Save Big on Your Sit-to-Stand Desk Transformation: The Affordable Solution Now Offered by ZDNet!</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-setting-up-linux-on-microsoft-surface-go-within-sixty-minutes/"><u>Step-by-Step Tutorial: Setting Up Linux on Microsoft Surface Go Within Sixty Minutes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/taking-control-of-your-digital-chatgpt-exchange/"><u>Taking Control of Your Digital ChatGPT Exchange</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-end-of-an-era-understanding-why-microsoft-discontinued-the-free-windows-11-upgrade-program-zdnet-coverage/"><u>The End of an Era: Understanding Why Microsoft Discontinued the Free Windows 11 Upgrade Program | ZDNet Coverage</u></a></li>
-<li><a href="https://win-great.techidaily.com/unlock-microsoft-365-perks-access-your-complimentary-vpn-and-get-started-today-a-step-by-step-guide-from-zdnet/"><u>Unlock Microsoft 365 Perks: Access Your Complimentary VPN and Get Started Today – A Step-by-Step Guide From ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/unveiling-the-irony-microsofts-teasing-reality-of-teams-exposed-by-zdnet/"><u>Unveiling the Irony: Microsoft's Teasing Reality of Teams Exposed by ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/why-pursuing-a-career-at-microsoft-might-not-appeal-insights-from-top-executives-discovered-by-zdnet/"><u>Why Pursuing a Career at Microsoft Might Not Appeal: Insights From Top Executives - Discovered by ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dribbble-artwork-aspect-ratio-guide/"><u>[New] 2024 Approved Dribbble Artwork Aspect Ratio Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram-for-2024/"><u>[New] Bring Charisma to Your Stories Mastery of Custom Emoji Use on Instagram for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-media-experience-with-top-phone-videos/"><u>[New] Elevate Your Media Experience with Top Phone Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/3gp/"><u>3GP形式について学ぶ：ヘッダー情報の理解と再生問題発見後の対策手引き</u></a></li>
+<li><a href="https://win-great.techidaily.com/5yplusk44ge5yuv55s744gm6kgo56s644gn44gn44gq44gp44gq44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go5aplusplus562w44ks5a2m44kt44gg5pa544cf44g4/"><u>古い動画が表示できなくなった場合、その原因と対策を学んだ方々へ</u></a></li>
+<li><a href="https://win-great.techidaily.com/avi-2024/"><u>新規AVIフォーマットへ挑戦! 2024年最先端のビデオ再生ソリューションとその対策</u></a></li>
+<li><a href="https://win-great.techidaily.com/1726030082324-windows-10/"><u>新規ユーザーのためのWindows 10動画圧縮手引き - シンプルな方法</u></a></li>
+<li><a href="https://win-great.techidaily.com/a-comprehensive-walkthrough-mastering-the-art-of-uploading-content-to-twitch/"><u>A Comprehensive Walkthrough: Mastering the Art of Uploading Content to Twitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/animatedapp-full-guide-and-review-24-overview-for-2024/"><u>AnimatedApp Full Guide & Review '24 Overview for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/can-you-secretly-capture-your-google-meet-discussions-without-consent-heres-the-guide/"><u>Can You Secretly Capture Your Google Meet Discussions Without Consent? Here's the Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-showdown-analyzing-wonderfox-dvd-converter-and-winx-dvd-ripper-effectiveness/"><u>Comprehensive Showdown: Analyzing WonderFox DVD Converter and WinX DVD Ripper Effectiveness</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-dvd-files-to-avi-quickly-and-effortlessly-for-free-with-zero-watermarks/"><u>Convert DVD Files to AVI Quickly and Effortlessly for Free with Zero Watermarks</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-to-use-flashtastic-video-converter-effortless-conversion-from-swf-flv-to-f4v-streaming-files/"><u>Easy-to-Use Flashtastic Video Converter - Effortless Conversion From SWF, FLV to F4V Streaming Files</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery/"><u>In 2024, Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-guide-to-iphone-screen-adjustment/"><u>In 2024, Simplified Guide to iPhone Screen Adjustment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-for-ergonomic-mice-exceptional-gliding-and-led-beautification/"><u>The Ultimate Selection for Ergonomic Mice - Exceptional Gliding & LED Beautification</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-affordable-high-quality-4k-home-theatres-for-2024/"><u>Top Picks Affordable, High Quality 4K Home Theatres for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-performance-boost-aoc-update-1659fwv/"><u>Windows Performance Boost: AOC Update 1659FWV</u></a></li>
 </ul></div>
 
