@@ -1,7 +1,7 @@
 ---
 title: Understanding Input Events Like onKeyPress and onClick Within EmEditor
-date: 2024-10-16T16:03:46.457Z
-updated: 2024-10-17T16:36:13.212Z
+date: 2024-10-19T22:29:42.658Z
+updated: 2024-10-22T22:26:34.088Z
 tags:
   - product
 categories:
@@ -57,27 +57,24 @@ I don’t know if there is a way to trigger a macro with a mouse click, but you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-posting-vimeo-video-masterclass-for-instagramers-for-2024/"><u>[New] Posting Vimeo Video Masterclass for Instagramers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences/"><u>[Updated] 2024 Approved Techniques to Enhance Your Slow Motion Photos for Instagram Audiences</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-your-course-through-youtube-compliance-for-2024/"><u>[Updated] Charting Your Course Through YouTube Compliance for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-efficient-ad-elimination-select-7-android-adblockers/"><u>[Updated] Efficient Ad Elimination Select 7 Android AdBlockers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-refining-your-tiktok-profile-age-with-ease/"><u>[Updated] In 2024, Refining Your TikTok Profile Age with Ease</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unearthing-your-favorites-facebook-watch-list-access-for-2024/"><u>[Updated] Unearthing Your Favorites Facebook Watch List Access for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/comment-reussir-une-copie-dynamique-dun-disque-dur-avec-le-meilleur-logiciel-de-clonage/"><u>Comment Réussir Une Copie Dynamique D'un Disque Dur Avec Le Meilleur Logiciel De Clonage ?</u></a></li>
-<li><a href="https://win-great.techidaily.com/como-recuperar-archivos-de-un-disco-flash-ya-formateado-con-eficiencia/"><u>Cómo Recuperar Archivos De Un Disco Flash Ya Formateado Con Eficiencia</u></a></li>
-<li><a href="https://win-great.techidaily.com/fixing-the-problem-of-non-authenticated-clients-in-vmware-management-services/"><u>Fixing the Problem of Non-Authenticated Clients in VMware Management Services</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y100-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y100 Data? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-clonezilla-backup-to-revive-a-specific-file-discover-the-top-3-techniques/"><u>Mastering Clonezilla Backup to Revive a Specific File: Discover the Top 3 Techniques</u></a></li>
-<li><a href="https://win-great.techidaily.com/programmwiederherstellung-im-ordner-windowsold-auf-deinem-windows-11-pc-einfache-tipps-und-tricks/"><u>Programmwiederherstellung Im Ordner 'Windows.old' Auf Deinem Windows 11 PC: Einfache Tipps Und Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-easily-keep-your-lenovo-pc-drivers-current/"><u>Step-by-Step: How to Easily Keep Your Lenovo PC Drivers Current</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-successful-age-of-empires-iv-installation-on-ms-store/"><u>Troubleshooting Steps for Successful Age of Empires IV Installation on MS Store</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows0x81000203/"><u>トラブルシューティング成功： Windowsの復元エラー0x81000203を解決する方法</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture-for-2024/"><u>[New] Helmet Hats A Comprehensive Look at Best Cams in Bike Culture for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-commandments-of-eye-catching-podcast-album-imagery/"><u>2024 Approved 10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-motorola-edgeplus-a-bargain-compromise-on-luxury-standards/"><u>Analyzing the Motorola Edge+: A Bargain Compromise on Luxury Standards</u></a></li>
+<li><a href="https://win-great.techidaily.com/como-habilitar-la-transferencia-automatica-de-archivos-entre-carpetas-locales-y-su-nas-synology-mediante-windows/"><u>Cómo Habilitar La Transferencia Automática De Archivos Entre Carpetas Locales Y Su NAS Synology Mediante Windows</u></a></li>
+<li><a href="https://win-great.techidaily.com/effizientes-wiederherstellen-von-bildern-aus-dem-papierkorb-3-kostenlose-methoden/"><u>Effizientes Wiederherstellen Von Bildern Aus Dem Papierkorb – 3 Kostenlose Methoden</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-iphone-tactics-for-capturing-glass-surfaces-for-2024/"><u>Innovative iPhone Tactics for Capturing Glass Surfaces for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/la-aplicacion-mas-eficaz-para-la-migracion-de-datos-en-samsung-compatible-con-windows-7-8-10-y-11/"><u>La Aplicación Más Eficaz Para La Migración De Datos en Samsung: Compatible Con Windows 7, 8, 10 Y 11</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/online-gratuit-konverteren-van-wma-naar-flv-movavi-streaming-solutions/"><u>Online Gratuit Konverteren Van WMA Naar FLV - Movavi Streaming Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/problemas-para-acceder-a-archivos-inactivos-durante-la-sincronizacion-en-sistemas-operativos-windows-11/"><u>Problemas Para Acceder a Archivos Inactivos Durante La Sincronización en Sistemas Operativos Windows 11</u></a></li>
+<li><a href="https://techidaily.com/sign-word-online-add-signature-to-word-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word Online - Add Signature to Word for Free</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-differences-what-sets-deleting-files-apart-from-uninstalling-programs/"><u>Understanding Differences: What Sets Deleting Files Apart From Uninstalling Programs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-journey-discovering-top-online-practitioners-for-2024/"><u>Yogic Journey Discovering Top Online Practitioners for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
