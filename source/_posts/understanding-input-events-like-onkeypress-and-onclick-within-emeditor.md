@@ -1,7 +1,7 @@
 ---
 title: Understanding Input Events Like onKeyPress and onClick Within EmEditor
-date: 2024-10-23T00:45:03.027Z
-updated: 2024-10-28T17:22:56.722Z
+date: 2024-11-02T19:42:35.114Z
+updated: 2024-11-03T22:40:08.546Z
 tags:
   - product
 categories:
@@ -57,27 +57,23 @@ I don’t know if there is a way to trigger a macro with a mouse click, but you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-and-developing-your-personalized-mukbang-style-for-2024/"><u>[New] Discovering and Developing Your Personalized Mukbang Style for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/abgesicherter-betriebsmodus-fur-ihre-lenovo-maschine-mit-windows-11-komplette-anleitung-und-tipps/"><u>Abgesicherter Betriebsmodus Für Ihre Lenovo-Maschine Mit Windows 11 - Komplette Anleitung Und Tipps</u></a></li>
-<li><a href="https://win-great.techidaily.com/comprehensive-step-by-step-tutorial-on-complete-iphone-data-backup-and-restoration/"><u>Comprehensive Step-by-Step Tutorial on Complete iPhone Data Backup & Restoration</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-edgeplus-2023-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Edge+ (2023) support AVCHD video?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-conversion-techniques-from-avi-video-to-vob-playback-compatibility/"><u>Easy Conversion Techniques From AVI Video to VOB Playback Compatibility</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-the-financial-giants-mr-beast/"><u>Evaluating the Financial Giants Mr. Beast</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-6-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 6 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/improving-your-spotify-experience-by-protecting-recommendations-from-playlist-influence/"><u>Improving Your Spotify Experience by Protecting Recommendations From Playlist Influence</u></a></li>
-<li><a href="https://win-great.techidaily.com/losungen-zur-wiederherstellung-von-defekten-transcend-sd-speicherkarten-ein-umfassender-leitfaden/"><u>Lösungen Zur Wiederherstellung Von Defekten Transcend SD-Speicherkarten: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-with-ease-advanced-menu-options-for-linkedin-facebook-and-youtube-integration/"><u>Navigate with Ease: Advanced Menu Options for LinkedIn, Facebook & YouTube Integration</u></a></li>
-<li><a href="https://win-great.techidaily.com/recuperacion-desde-una-restauracion-del-sistema-en-windows-11-explicada-tecnicas-efectivas-y-cuatro-soluciones-utiles/"><u>Recuperación Desde Una Restauración Del Sistema en Windows 11 Explicada: Técnicas Efectivas Y Cuatro Soluciones Útiles</u></a></li>
-<li><a href="https://win-great.techidaily.com/tout-ce-quil-vous-faut-savoir-pour-cloner-votre-disque-dur-sur-un-ssd-en-seulement-3-etapes-simples/"><u>Tout Ce Qu'il Vous Faut Savoir Pour Cloner Votre Disque Dur Sur Un SSD en Seulement 3 Étapes Simples</u></a></li>
-<li><a href="https://win-great.techidaily.com/transferieren-von-iphones-messaging-history-an-android-zwei-effektive-strategien-erklart/"><u>Transferieren Von iPhones Messaging History an Android - Zwei Effektive Strategien Erklärt!</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728490855390-windowsssd/"><u>Windowsで使いやすい完全無料のトップSSD移行ソフトウェア</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/x1000-video-world-comprehensive-sony-examination/"><u>X1000 Video World Comprehensive Sony Examination</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>[New] 2024 Approved Avoiding Unauthorized Use Mastering Photowatermarking on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spearheading-groundbre-folks-in-vr-space/"><u>2024 Approved Spearheading Groundbre Folks In VR Space</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-guide-to-deleting-shared-images-from-iphone-and-ipad-ios-18-and-17/"><u>Complete Guide to Deleting Shared Images From iPhone and iPad (iOS 18 & 17)</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-step-by-step-methods-for-retrieving-lost-documents-from-your-hard-drive-via-command-line-tools/"><u>Complete Step-by-Step Methods for Retrieving Lost Documents From Your Hard Drive via Command Line Tools</u></a></li>
+<li><a href="https://win-great.techidaily.com/fehlerbehebung-fur-die-windows-11-datentragerbereinigungsfunktion-entdeckt-sie-7-effektive-losungen/"><u>Fehlerbehebung Für Die Windows 11-Datenträgerbereinigungsfunktion: Entdeckt Sie 7 Effektive Lösungen!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 8 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Pro Device</u></a></li>
+<li><a href="https://win-great.techidaily.com/norton-ghost-aomei-backupper/"><u>Norton Ghost 無料 同等品質：AOMEI Backupperスタンダード版</u></a></li>
+<li><a href="https://win-great.techidaily.com/recover-deleted-photos-from-fujifilm-cameras-eine-schritt-fur-schritt-anleitung/"><u>Recover Deleted Photos From FujiFilm Cameras - Eine Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/swiftclick-retrorecall-video-for-2024/"><u>SwiftClick RetroRecall Video for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
