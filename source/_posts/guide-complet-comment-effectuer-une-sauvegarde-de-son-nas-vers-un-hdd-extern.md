@@ -1,7 +1,7 @@
 ---
 title: Guide Complet - Comment Effectuer Une Sauvegarde De Son NAS Vers Un HDD Extern
-date: 2024-10-27T19:12:00.453Z
-updated: 2024-11-03T22:19:51.458Z
+date: 2024-11-07T16:10:33.185Z
+updated: 2024-11-12T21:41:16.474Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf653453a52ec177581ebd538d.jpg
@@ -43,24 +43,18 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -82,13 +76,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -106,6 +93,13 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -142,6 +136,13 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -182,13 +183,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -233,10 +227,10 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -251,6 +245,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -261,13 +262,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -277,10 +271,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -300,19 +294,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-exclusive-access-8-top-fb-link-extractors-for-2024/"><u>[New] Exclusive Access 8 Top FB Link Extractors for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-snapchat-to-social-upload-videos-on-twit/"><u>[Updated] 2024 Approved From Snapchat to Social Upload Videos on Twit</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-financial-gains-the-youtube-money-flow-from-1m-views/"><u>[Updated] In 2024, Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-of-perception-transforming-thumbnails-with-captivating-bgs-and-fx/"><u>2024 Approved The Power of Perception Transforming Thumbnails with Captivating BGs & FX</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-your-seo-potential-explore-the-most-effective-7-free-video-tags-extractors/"><u>2024 Approved Unleash Your SEO Potential Explore the Most Effective 7 Free Video Tags Extractors</u></a></li>
-<li><a href="https://win-great.techidaily.com/3-effortless-methods-to-expand-disk-space-in-windows-11-a-step-by-step-guide/"><u>3 Effortless Methods to Expand Disk Space in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728506838847-ai/"><u>AI 數據復原術語指南 - 回答繞路電腦重啟或意外刪除時如何恢復</u></a></li>
-<li><a href="https://win-great.techidaily.com/como-hacer-una-copia-de-seguridad-facil-y-restaurar-el-sistema-windows-7-correctamente/"><u>Cómo Hacer Una Copia De Seguridad Fácil Y Restaurar El Sistema Windows 7 Correctamente</u></a></li>
-<li><a href="https://fox-info.techidaily.com/complete-scrutiny-of-cutmatic-editor/"><u>Complete Scrutiny of CutMatic Editor</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-k70-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi K70 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://win-great.techidaily.com/soluzione-passo-passo-per-correggere-lerrore-non-e-possibile-eseguire-il-ripristino-di-sistema-tramite-il-tasto-f11-in-windows-7810/"><u>Soluzione Passo-Passo per Correggere L'errore 'Non È Possibile Eseguire Il Ripristino Di Sistema Tramite Il Tasto F11 in Windows 7/8/10'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-5-best-auto-clicker-apps-for-android-non-rooted-phones/"><u>The 5 Best Auto-Clicker Apps for Android (Non-Rooted Phones)</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-10-warning-indicators-of-a-failing-hard-disk-essential-knowledge-and-restoration-strategies/"><u>Top 10 Warning Indicators of a Failing Hard Disk: Essential Knowledge & Restoration Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-supercharge-your-yi-4k-videos-with-pro-gear-for-2024/"><u>[New] Supercharge Your YI 4K Videos with Pro Gear for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5</u></a></li>
+<li><a href="https://win-great.techidaily.com/comment-changer-un-ssd-m2-sans-refiler-les-systemes-doperation-de-windows-une-guide-comprehensive/"><u>Comment Changer Un SSD M.2 SANS REFILER LES SYSTEMES D'OPÉRATION DE WINDOWS : UNE GUIDE COMPREHENSIVE</u></a></li>
+<li><a href="https://win-great.techidaily.com/fixing-the-issue-how-to-make-a-networked-computer-visible-in-windows-10/"><u>Fixing the Issue: How to Make a Networked Computer Visible in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fundamentals-for-newcomers-on-screen-quality-measures-for-2024/"><u>Fundamentals for Newcomers on Screen Quality Measures for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-nexiq-usb-link-2-drivers-step-by-step-installation-tutorial/"><u>Get the Latest Nexiq USB Link 2 Drivers - Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-remove-the-windowsold-directory-on-windows-11-a-guide-with-4-methods/"><u>How to Remove the Windows.old Directory on Windows 11: A Guide with 4 Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-create-shareable-memes-with-adobe-photoshop/"><u>In 2024, Create Shareable Memes with Adobe Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-sonys-x1000v-hd-recorder/"><u>In 2024, In-Depth Look at Sony's X1000V HD Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-broadcasting-with-manycam-top-notch-virtual-camera-solutions/"><u>Live Broadcasting with ManyCam: Top-Notch Virtual Camera Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/maximizing-your-it-infrastructure-the-advantages-of-hardware-server-virtualization/"><u>Maximizing Your IT Infrastructure: The Advantages of Hardware Server Virtualization</u></a></li>
+<li><a href="https://win-great.techidaily.com/resolve-windows-10-ssd-boot-lag-discover-8-proven-strategies/"><u>Resolve Windows 10 SSD Boot Lag: Discover 8 Proven Strategies</u></a></li>
+<li><a href="https://win-great.techidaily.com/roper-v-simmons-2005/"><u>Roper V. Simmons (2005)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-tricks-to-solve-steams-corrupted-disc-issue/"><u>Simple Tricks to Solve Steam's Corrupted Disc Issue</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-playing-and-transforming-rmvb-into-mp4-on-apple-computers/"><u>Step-by-Step Instructions for Playing and Transforming RMVB Into MP4 on Apple Computers</u></a></li>
+<li><a href="https://win-great.techidaily.com/tutorial-how-to-create-a-virtual-disk-image-in-windows-10-and-11-with-free-methods-top-3-easy-steps/"><u>Tutorial: How to Create a Virtual Disk Image in Windows 10 & 11 with Free Methods - Top 3 Easy Steps</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-input-events-like-onkeypress-and-onclick-within-emeditor/"><u>Understanding Input Events Like onKeyPress and onClick Within EmEditor</u></a></li>
 </ul></div>
 

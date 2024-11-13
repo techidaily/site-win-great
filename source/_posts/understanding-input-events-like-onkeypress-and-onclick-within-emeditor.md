@@ -1,7 +1,7 @@
 ---
 title: Understanding Input Events Like onKeyPress and onClick Within EmEditor
-date: 2024-11-02T19:42:35.114Z
-updated: 2024-11-03T22:40:08.546Z
+date: 2024-11-11T00:05:46.072Z
+updated: 2024-11-12T18:45:58.819Z
 tags:
   - product
 categories:
@@ -57,23 +57,27 @@ I don’t know if there is a way to trigger a macro with a mouse click, but you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>[New] 2024 Approved Avoiding Unauthorized Use Mastering Photowatermarking on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spearheading-groundbre-folks-in-vr-space/"><u>2024 Approved Spearheading Groundbre Folks In VR Space</u></a></li>
-<li><a href="https://win-great.techidaily.com/complete-guide-to-deleting-shared-images-from-iphone-and-ipad-ios-18-and-17/"><u>Complete Guide to Deleting Shared Images From iPhone and iPad (iOS 18 & 17)</u></a></li>
-<li><a href="https://win-great.techidaily.com/complete-step-by-step-methods-for-retrieving-lost-documents-from-your-hard-drive-via-command-line-tools/"><u>Complete Step-by-Step Methods for Retrieving Lost Documents From Your Hard Drive via Command Line Tools</u></a></li>
-<li><a href="https://win-great.techidaily.com/fehlerbehebung-fur-die-windows-11-datentragerbereinigungsfunktion-entdeckt-sie-7-effektive-losungen/"><u>Fehlerbehebung Für Die Windows 11-Datenträgerbereinigungsfunktion: Entdeckt Sie 7 Effektive Lösungen!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 8 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Pro Device</u></a></li>
-<li><a href="https://win-great.techidaily.com/norton-ghost-aomei-backupper/"><u>Norton Ghost 無料 同等品質：AOMEI Backupperスタンダード版</u></a></li>
-<li><a href="https://win-great.techidaily.com/recover-deleted-photos-from-fujifilm-cameras-eine-schritt-fur-schritt-anleitung/"><u>Recover Deleted Photos From FujiFilm Cameras - Eine Schritt-Für-Schritt Anleitung</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/swiftclick-retrorecall-video-for-2024/"><u>SwiftClick RetroRecall Video for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cracking-the-code-calculating-your-income-from-youtubes-cpm/"><u>[New] 2024 Approved Cracking the Code Calculating Your Income From YouTube's CPM</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-iphones-prime-camera-utilities-for-2024/"><u>[New] IPhone's Prime Camera Utilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-transforming-your-footages-hue/"><u>[New] The Complete Guide to Transforming Your Footage's Hue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-superior-methods-transforming-pinterest-visuals-into-audios/"><u>[Updated] In 2024, Superior Methods Transforming Pinterest Visuals Into Audios</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728493095708-usb/"><u>如何使用USB线从手机移动设备传送图片到个人电脑</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
+<li><a href="https://win-great.techidaily.com/comment-dejouez-les-plantages-reguliers-de-votre-systeme-dexploitation-windows-11-guide-pratique-en-6-etapes/"><u>Comment Déjouez Les Plantages Réguliers De Votre Système D'Exploitation Windows 11 : Guide Pratique en 6 Étapes</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-tutorial-updating-your-vcenter-single-sign-on-sso-domain-and-resolving-frequent-problems/"><u>Complete Tutorial: Updating Your vCenter Single Sign-On (SSO) Domain & Resolving Frequent Problems</u></a></li>
+<li><a href="https://win-great.techidaily.com/guida-passo-passo-allesecuzione-della-sincronizzazione-attiva-con-aomei-backupper/"><u>Guida Passo-Passo All'Esecuzione Della Sincronizzazione Attiva Con AOMEI Backupper</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-successfully-transfer-your-data-from-dell-hdd-to-ssd-in-windows-10-or-11-step-by-step-guide-for-a-functional-boot/"><u>How to Successfully Transfer Your Data From Dell HDD to SSD in Windows 10 or 11 - Step-by-Step Guide for a Functional Boot</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-action-cameras-for-thrill-seekers/"><u>In 2024, Leading Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://win-great.techidaily.com/strategie-ottimizzate-per-la-compressione-dei-dati-immagine-ed-efficiente-utilizzo-dello-spazio-del-disco-rigido/"><u>Strategie Ottimizzate per La Compressione Dei Dati Immagine Ed Efficiente Utilizzo Dello Spazio Del Disco Rigido</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/website-efficiency-boosted-by-cookiebot-technology/"><u>Website Efficiency Boosted by Cookiebot Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-11-10-8-or-7-how-to-transfer-files-between-computers/"><u>Windows 11, 10, 8, or 7 - How to Transfer Files Between Computers</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
