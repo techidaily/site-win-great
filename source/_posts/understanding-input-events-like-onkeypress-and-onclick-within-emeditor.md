@@ -1,7 +1,7 @@
 ---
 title: Understanding Input Events Like onKeyPress and onClick Within EmEditor
-date: 2024-11-17T16:51:34.640Z
-updated: 2024-11-22T18:52:16.873Z
+date: 2024-11-29T18:00:10.112Z
+updated: 2024-12-01T06:22:33.935Z
 tags:
   - product
 categories:
@@ -57,25 +57,24 @@ I don’t know if there is a way to trigger a macro with a mouse click, but you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-essentials-of-choosing-top-5-web-based-title-innovators/"><u>[New] Essentials of Choosing Top 5 Web-Based Title Innovators</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-radiant-hue-tuner-program-for-2024/"><u>[New] Radiant Hue Tuner Program for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-iphone-7-screen-recording/"><u>[Updated] In 2024, Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
-<li><a href="https://win-great.techidaily.com/effective-methods-for-retrieving-lost-inx-file-data/"><u>Effective Methods for Retrieving Lost INX File Data</u></a></li>
-<li><a href="https://article-files.techidaily.com/explore-the-premier-3d-blu-ray-systems-of-today/"><u>Explore The Premier 3D Blu-Ray Systems of Today</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-complet-comment-effectuer-une-sauvegarde-de-son-nas-vers-un-hdd-extern/"><u>Guide Complet - Comment Effectuer Une Sauvegarde De Son NAS Vers Un HDD Extern</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-de-copie-simple-dun-hdd-avec-windows-11-explications-claires-et-faciles/"><u>Guide De Copie Simple D'un HDD Avec Windows 11 - Explications Claires Et Faciles!</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-seamlessly-back-up-and-synchronize-your-external-hard-drives-using-google-drive/"><u>How to Seamlessly Back Up & Synchronize Your External Hard Drives Using Google Drive</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-in-depth-insight-into-final-cut-pro-editing/"><u>In 2024, In-Depth Insight Into Final Cut Pro Editing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Phone</u></a></li>
-<li><a href="https://win-great.techidaily.com/panduan-bantu-untuk-mengaweti-masalah-tabel-partisi-yang-putus-adaptive-memory-technology-windows/"><u>Panduan Bantu Untuk Mengaweti Masalah Tabel Partisi Yang Putus Adaptive Memory Technology (Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971856975-quick-and-simple-installation-of-ft232r-usb-uart-drivers-get-started-now/"><u>Quick and Simple Installation of FT232R USB UART Drivers - Get Started Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/reviving-disneyplus-success-top-6-essential-enhancements-for-growth/"><u>Reviving Disney+ Success: Top 6 Essential Enhancements for Growth</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unexpected-changes-in-emeditor-a-comprehensive-update-overview/"><u>Unexpected Changes in EmEditor: A Comprehensive Update Overview</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows-11-10-8-and-7-ultimate-guide-to-backing-up-hdd-before-formatting/"><u>Windows 11, 10, 8, and 7: Ultimate Guide to Backing Up HDD Before Formatting</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows-11-hdd/"><u>Windows 11用で人気のベスト HDD コピープログラム - 無料</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ajis-wealth-kid-star-earnings-surpass-major-celebrities/"><u>[New] Kaji’s Wealth Kid Star Earnings Surpass Major Celebrities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-integrating-facebook-video-into-home-screen-apps/"><u>[Updated] In 2024, Integrating Facebook Video Into Home Screen Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[Updated] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-empowered-by-numbers-decoding-youtube-analytics/"><u>2024 Approved Empowered by Numbers Decoding YouTube Analytics</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/como-recuperar-mundos-de-minecraft-borrados-en-windows-y-dispositivos-moviles/"><u>Cómo Recuperar Mundos De Minecraft Borrados en Windows Y Dispositivos Móviles</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-troubleshooting-guide-for-resolving-windows-8-error-code-0x8024000b/"><u>Complete Troubleshooting Guide for Resolving Windows 8 Error Code 0X8024000B</u></a></li>
+<li><a href="https://win-great.techidaily.com/grande-disco-guida-completa-alla-clonazione-disco-con-clonezilla-soluzioni-di-backup-e-ripristino/"><u>Grande Disco: Guida Completa Alla Clonazione Disco Con Clonezilla - Soluzioni Di Backup E Ripristino</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic-6-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic 6 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/macaomei-backupper/"><u>Mac电脑中通过AOMEI Backupper实现简单数据备份方法</u></a></li>
+<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-anleitung-wie-fugt-man-externe-videodateien-auf-ihr-iphone-importieren/"><u>Schritt-Für-Schritt-Anleitung: Wie Fügt Man Externe Videodateien Auf Ihr iPhone Importieren</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-powerful-pc-screencasters-for-2024/"><u>The Ultimate List of Powerful PC Screencasters for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/unlocking-seamless-two-way-communication-resolving-single-direction-issues-with-iphone-and-mac-airdrop/"><u>Unlocking Seamless Two-Way Communication: Resolving Single Direction Issues with iPhone & Mac AirDrop</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728508232125-windows-1011-hdd/"><u>Windows 10/11用ディスク容量解放: HDDの初期設定と完全な消去方法</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
