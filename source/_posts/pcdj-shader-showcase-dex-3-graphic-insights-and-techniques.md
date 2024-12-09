@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Shader Showcase: DEX 3 Graphic Insights & Techniques"
-date: 2024-11-25T20:12:14.217Z
-updated: 2024-11-30T22:28:33.013Z
+date: 2024-12-06T23:12:26.412Z
+updated: 2024-12-09T02:57:50.678Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for On-Screen Beat-Aware Visualizations (Copy/Paste link “Add Shader” Menu)
@@ -68,13 +68,13 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** for on-screen **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -96,17 +96,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/shaders-from-shadertoy.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/etapes-pour-sauvegarde-de-windows-server-201/"><u>Etapes Pour Sauvegarde De Windows Server 201</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-printer-communication-error/"><u>Fixed Printer Communication Error</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-de-sauvegarde-dun-disque-en-utilisant-gpt-a-un-ssd-pour-les-systemes-dexploitation-windows-x11-x10-et-plus-anciens/"><u>Guide De Sauvegarde D'un Disque en Utilisant GPT À Un SSD Pour Les Systèmes D’exploitation Windows : X11, X10 Et Plus Anciens.</u></a></li>
-<li><a href="https://win-great.techidaily.com/gute-vorsichtsmassnahmen-treffen-wie-man-ein-backup-fur-windows-10-vor-dem-upgrade-zu-windows-11-erstellt/"><u>Gute Vorsichtsmaßnahmen Treffen: Wie Man Ein Backup Für Windows 10 Vor Dem Upgrade Zu Windows 11 Erstellt</u></a></li>
-<li><a href="https://win-great.techidaily.com/herramientas-esenciales-para-reemplazar-windows-easy-transfer-y-pasar-archivos-mediante-el-sistema-de-linea-de-comandos/"><u>Herramientas Esenciales Para Reemplazar Windows Easy Transfer Y Pasar Archivos Mediante El Sistema De Línea De Comandos</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-huawei-nova-y91-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Huawei Nova Y91 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-a2plus-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi A2+ Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-in-this-article-you-will-find-8-best-animation-maker-they-are-suitable-for-various-users-check-it-out/"><u>New 2024 Approved In This Article, You Will Find 8 Best Animation Maker. They Are Suitable for Various Users. Check It Out</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-cabinet-lights-revamp-my-kitchen-space-with-unique-design-elements-expert-analysis-at-zdnet/"><u>Revolutionary Cabinet Lights Revamp My Kitchen Space with Unique Design Elements | Expert Analysis at ZDNET</u></a></li>
-<li><a href="https://win-great.techidaily.com/seamless-file-sharing-tips-how-to-connect-your-local-folders-to-dropbox-from-various-locations-3-proven-strategies/"><u>Seamless File Sharing Tips: How to Connect Your Local Folders to Dropbox From Various Locations (3 Proven Strategies)</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-warnings-identifying-critical-processes-for-malware-detection/"><u>Windows Warnings: Identifying Critical Processes for Malware Detection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>[New] Archiving Your Favorites The Complete List of 9 Podcast Recording Steps</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/backup-des-fichiers-changes-uniquement-sur-windows-cuillere-7-guide-detaille/"><u>Backup Des Fichiers Changés Uniquement Sur Windows Cuillère 7 : Guide Détaillé</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-videos-impact-with-top-ranking-software-solutions/"><u>Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/decoding-blue-screen-issues-expert-analysis-by-yl-computing-and-yl-software/"><u>Decoding Blue Screen Issues: Expert Analysis by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/detect-and-restore-corrupted-data-on-your-pc-with-simple-techniques-by-yl-software/"><u>Detect and Restore Corrupted Data on Your PC with Simple Techniques by YL Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/discovering-cost-distortion-expert-insights-from-yl-computings-analysis-of-pricing-manipulation/"><u>Discovering Cost Distortion: Expert Insights From YL Computing's Analysis of Pricing Manipulation</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-update-procedure-for-windows-systems-using-the-control-panel-explained-by-yl-software-experts/"><u>Easy Update Procedure for Windows Systems Using the Control Panel Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/elegant-catwoman-themed-screen-savers-and-digital-artwork-premium-image-collections-from-yl-software/"><u>Elegant Catwoman Themed Screen Savers and Digital Artwork - Premium Image Collections From YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-a-blank-league-of-legends-screen-solutions-for-gamers/"><u>Experiencing a Blank League of Legends Screen? Solutions for Gamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-canon-mx340-drivers-on-your-pc-windows-1187-supported/"><u>How to Install Canon MX340 Drivers on Your PC (Windows 11/8/7 Supported)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/insightful-examination-of-wirecast-and-its-peers/"><u>Insightful Examination of WireCast & Its Peers</u></a></li>
+<li><a href="https://win-great.techidaily.com/master-the-art-of-moving-files-on-your-pc-with-windows-expert-advice-by-yl-computing/"><u>Master the Art of Moving Files on Your PC with Windows - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/maximize-your-computers-potential-essential-techniques-to-improve-hardware-and-software-as-recommended-by-yl-software-professionals/"><u>Maximize Your Computer's Potential: Essential Techniques to Improve Hardware & Software, as Recommended by YL Software Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://win-great.techidaily.com/premium-backgrounds-featuring-goku-black-and-zamasu-from-yl-software-download-now/"><u>Premium Backgrounds Featuring Goku Black & Zamasu From YL Software: Download Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solving-your-cs-go-game-wont-start-problems/"><u>Solving Your CS: GO Game Won't Start Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/valorants-finest-voice-modder-accessible-at-no-cost-for-2024/"><u>Valorant's Finest Voice Modder – Accessible at No Cost for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/verifying-system-readiness-for-various-media-types-a-comprehensive-guide-by-yl-computing/"><u>Verifying System Readiness for Various Media Types: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2024-11-24T21:02:01.584Z
-updated: 2024-12-01T05:49:14.826Z
+date: 2024-12-03T18:16:28.183Z
+updated: 2024-12-09T03:17:39.528Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,17 +84,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>[Updated] 2024 Approved Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
-<li><a href="https://win-great.techidaily.com/comprehensive-tutorial-how-to-successfully-upload-windows-10-onto-a-brand-new-solid-state-drive-sans-external-storage/"><u>Comprehensive Tutorial: How To Successfully Upload Windows 10 Onto a Brand-New Solid State Drive, Sans External Storage</u></a></li>
-<li><a href="https://win-great.techidaily.com/efficiently-moving-servers-to-the-cloud-top-3-reliable-strategies-for-a-streamlined-backup-process/"><u>Efficiently Moving Servers to the Cloud: Top 3 Reliable Strategies for a Streamlined Backup Process</u></a></li>
-<li><a href="https://win-great.techidaily.com/hassle-free-windows-7-professionals-guide-to-cost-free-local-area-network-backups/"><u>Hassle-Free Windows 7 Professionals' Guide to Cost-Free Local Area Network Backups</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-nord-n30-se-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Nord N30 SE Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>In 2024, Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-measuring-with-your-android-a-comprehensive-guide/"><u>Mastering Measuring with Your Android: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-challenges-of-iphone-ios-18-upgrade-insights-and-regrets-from-a-community-perspective/"><u>Navigating the Challenges of iPhone iOS 18 Upgrade: Insights and Regrets From a Community Perspective</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-performance-glitches-in-grand-theft-auto-5-gta-v/"><u>Overcoming Performance Glitches in Grand Theft Auto 5 (GTA V)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ior-mics-for-video-blogging-professionals-for-2024/"><u>Superior Mics for Video Blogging Professionals for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-current-login-failed-window-error/"><u>Troubleshooting Current Login Failed Window Error</u></a></li>
-<li><a href="https://win-great.techidaily.com/44k344k544og44og44op44kk44k44o844gm44oq44od44kv44ki44od44ox44gr6kal44gk44gl44kj44gq44geic0g44oi44op44ow44or5a6m5lqg54q25rob5acx5zgk/"><u>システムライターがバックアップに見つからない - トラブル完了状況報告</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategically-showcasing-achievements/"><u>[New] 2024 Approved Strategically Showcasing Achievements</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vmix-mover-for-apple-and-pcs-for-2024/"><u>[New] VMix Mover for Apple and PCs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-antique-cinematography-in-the-digital-realm/"><u>[Updated] Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-digital-image-coloring-upside-down/"><u>[Updated] Digital Image Coloring Upside Down</u></a></li>
+<li><a href="https://win-great.techidaily.com/balance-update-frequency-at-yl-computing-understanding-your-financial-cycle/"><u>Balance Update Frequency at YL Computing: Understanding Your Financial Cycle</u></a></li>
+<li><a href="https://win-great.techidaily.com/detecting-malware-signs-your-pc-might-be-infected-guidance-from-yl-computing/"><u>Detecting Malware: Signs Your PC Might Be Infected - Guidance From YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-remedies-for-stalled-airdrop-functionality-in-apple-ecosystem-for-2024/"><u>Essential Remedies for Stalled Airdrop Functionality in Apple Ecosystem for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-nintendo-switch-profile-handling/"><u>Essential Tips for Nintendo Switch Profile Handling</u></a></li>
+<li><a href="https://win-great.techidaily.com/exploring-the-impact-of-wwiis-conclusion-on-chinas-historical-development-insights-by-yl-computing-and-yl-software/"><u>Exploring the Impact of WWII's Conclusion on China's Historical Development - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-youtube-really-measures-your-contents-popularity/"><u>In 2024, How YouTube Really Measures Your Content's Popularity</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-file-management-simple-techniques-to-clone-documents-or-folders-by-yl-software-experts/"><u>Mastering File Management: Simple Techniques to Clone Documents or Folders by YL Software Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/resolving-your-printers-unresponsiveness-insights-and-solutions-by-yl-software-experts/"><u>Resolving Your Printer's Unresponsiveness: Insights and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/speeding-up-your-computer-key-settings-adjustments-for-enhanced-efficiency-by-yl-computing-experts/"><u>Speeding Up Your Computer: Key Settings Adjustments for Enhanced Efficiency by YL Computing Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-rebuilding-your-system-post-hardware-upgrade-with-microsoft-windows-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Rebuilding Your System Post-Hardware Upgrade with Microsoft Windows - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
 </ul></div>
 

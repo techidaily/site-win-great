@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Loop Management in PCDJ with DEX 3 Walkthrough
-date: 2024-11-25T06:43:46.611Z
-updated: 2024-11-30T19:05:39.880Z
+date: 2024-12-02T04:20:30.202Z
+updated: 2024-12-08T17:11:50.628Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,22 +61,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/problemas-con-mail-merge-en-office-365-aqui-tienes-4-metodos-practicos-para-solucionarlo/"><u>¿Problemas Con Mail Merge en Office 365? Aquí Tienes 4 Métodos Prácticos Para Solucionarlo</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[New] In 2024, Audio Perfection Achieved Expert Tips Without a Microphone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ropel-content-to-prominence-leverage-tubebuddys-power-for-2024/"><u>[New] Propel Content to Prominence Leverage TubeBuddy's Power for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728509460126-panasonic-lumix/"><u>「Panasonic Lumix用の最適な画像回復技術」</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728478452144-samsung/"><u>解決策: Samsungデータ移行を開始できず</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aurora-vs-standard-hd-is-the-premium-worth-it-for-2024/"><u>Aurora vs Standard HD Is the Premium Worth It for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/essential-strategies-for-successful-vmware-data-retrieval-an-in-depth-tutorial/"><u>Essential Strategies for Successful VMware Data Retrieval: An In-Depth Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/guia-paso-a-paso-habilitar-la-funcion-de-reset-en-windows-11-y-recuperar-facilmente-tu-pc/"><u>Guía Paso a Paso: Habilitar La Función De Reset en Windows 11 Y Recuperar Fácilmente Tu PC</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-set-up-a-virtual-disk-on-windows-10-top-3-easy-methods/"><u>How to Set Up a Virtual Disk on Windows 10: Top 3 Easy Methods</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-3-quick-methods-for-crafting-ghost-images-in-windows-11/"><u>How To: 3 Quick Methods for Crafting Ghost Images in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-chaptered-cinema-on-vimeo-cutting-techniques-explained/"><u>In 2024, Chaptered Cinema on Vimeo Cutting Techniques Explained</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-8-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 8 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-k70-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi K70 Pro Through Google Earth?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-video-capture-on-hangouts-for-2024/"><u>Mastering Video Capture on Hangouts for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/solucion-implementada-error-en-la-operacion-de-clonacion-del-cifrado-de-disco-full-disk-bitlocker-durante-el-proceso-migratorio-de-samsung/"><u>Solución Implementada: Error en La Operación De Clonación Del Cifrado De Disco Full-Disk (BitLocker) Durante El Proceso Migratorio De Samsung</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581145000-unlock-the-world-with-a-linguistic-95-off-offer-this-year/"><u>Unlock the World with a Linguistic 95% Off Offer This Year</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv/"><u>[New] 2024 Approved Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-premium-virtual-playstation-simulators-for-modern-computers/"><u>[New] In 2024, Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-photo-fusion-at-home-and-online-synergy-guide-for-2024/"><u>[New] Photo Fusion at Home & Online Synergy Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-best-terraria-map-for-viewers-to-find-treasure/"><u>[Updated] 2024 Approved Top 5 Best Terraria Map for Viewers to Find Treasure</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-p55-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel P55 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-continuous-usb-recognition-failures-on-your-pc/"><u>Effective Solutions for Continuous USB Recognition Failures on Your PC</u></a></li>
+<li><a href="https://win-great.techidaily.com/excluding-apps-from-windows-defender-a-step-by-step-guide-by-yl-computing/"><u>Excluding Apps From Windows Defender: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-can-you-modify-your-windows-pc-settings-via-control-panel-insights-from-yl-computings-guide/"><u>How Can You Modify Your Windows PC Settings via Control Panel – Insights From YL Computing's Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/latest-dj-pro-version-3905-free-download-for-pioneer-deckstation-redah-pcdj-compatible/"><u>Latest DJ Pro Version 3.9.0.5 Free Download for Pioneer DeckStation Re:Dah - PCDJ Compatible</u></a></li>
+<li><a href="https://win-best.techidaily.com/online-mp4-mov-mpe-wmv-movavi/"><u>Online 무료 소요시간을 줄이는 MP4, MOV 등 다양한 형식으로 MPE WMV 통합 - Movavi</u></a></li>
+<li><a href="https://win-great.techidaily.com/recognizing-troubles-key-indicators-of-faulty-drivers-and-what-you-can-do-about-it-advice-by-yl-software-professionals/"><u>Recognizing Troubles: Key Indicators of Faulty Drivers and What You Can Do About It – Advice by YL Software Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/troubleshooting-non-functional-peripherals-guidance-for-broken-mouse-and-keyboard-issues-with-yl-software-insights/"><u>Troubleshooting Non-Functional Peripherals: Guidance for Broken Mouse and Keyboard Issues with YL Software Insights</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-guide-how-to-optimize-your-computers-performance-expert-advice-from-yl-computing/"><u>Ultimate Guide: How to Optimize Your Computer's Performance - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/video-anonymity-tips-for-blurring-private-data/"><u>Video Anonymity Tips for Blurring Private Data</u></a></li>
 </ul></div>
 
