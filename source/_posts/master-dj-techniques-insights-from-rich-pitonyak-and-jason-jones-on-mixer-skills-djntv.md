@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2024-12-03T04:57:34.187Z
-updated: 2024-12-09T08:50:47.113Z
+date: 2024-12-13T18:13:22.011Z
+updated: 2024-12-15T07:16:48.868Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free-for-2024/"><u>[Updated] The Podcaster's Handbook Writing Strategies & Sample Scripts Available Free for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-troubleshooting-website-blockages-insights-from-yl-computings-expertise/"><u>1. Troubleshooting Website Blockages: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-hd-videos-to-3gp-for-free-on-the-web-using-movavis-easy-tool/"><u>Convert HD Videos to 3GP for Free on the Web Using Movavi's Easy Tool</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-wi-fi-coverage-a-detailed-review-of-netgears-ex3700-range-extender-with-ac750-technology/"><u>Enhancing Wi-Fi Coverage: A Detailed Review of Netgear's EX3700 Range Extender with AC750 Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963520307-get-the-new-microsoft-bluetooth-driver-version-compatible-with-win-11-10-8-and-7-free-download/"><u>Get the New Microsoft Bluetooth Driver Version: Compatible with Win 11, 10, 8 & 7 – Free Download</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-rapidly-reach-windows-10s-control-panel-with-ease-insider-secrets-by-yl-software-experts/"><u>How to Rapidly Reach Windows 10'S Control Panel with Ease - Insider Secrets by YL Software Experts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-gionee-f3-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Gionee F3 Pro Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g14-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G14 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-online-video-hubs-picking-between-vimeo-youtube-and-dailymotion/"><u>In 2024, Online Video Hubs Picking Between Vimeo, YouTube & Dailymotion</u></a></li>
-<li><a href="https://win-great.techidaily.com/master-safe-crypto-trading-essential-strategies-and-tools-from-yl-software-for-confident-buying-and-selling/"><u>Master Safe Crypto Trading: Essential Strategies and Tools From YL Software for Confident Buying & Selling</u></a></li>
-<li><a href="https://win-great.techidaily.com/solving-scanner-problems-why-your-device-may-fail-to-detect-objects-insights-by-yl-software/"><u>Solving Scanner Problems: Why Your Device May Fail to Detect Objects, Insights by YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-the-cyberpowerpc-gamer-xtreme-best-value-and-easy-upgradability/"><u>The Ultimate Guide to the CyberPowerPC Gamer Xtreme: Best Value and Easy Upgradability</u></a></li>
-<li><a href="https://win-great.techidaily.com/troubleshooting-steps-when-your-pc-ignores-the-graphics-card-tips-from-yl-computing/"><u>Troubleshooting Steps When Your PC Ignores the Graphics Card - Tips From YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/troubleshooting-tips-fixing-improper-scanner-driver-installations-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: Fixing Improper Scanner Driver Installations - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/turning-bitcoin-and-altcoins-into-banknotes-a-guide-from-yl-software-experts/"><u>Turning Bitcoin and Altcoins Into Banknotes: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/yl-software-tutorial-how-to-deactivate-windows-defender-on-your-pc-easily-and-safely/"><u>YL Software Tutorial: How to Deactivate Windows Defender on Your PC Easily and Safely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-the-transformation-of-amazon-alexa-with-anthropics-advanced-ai-model-claude/"><u>ZDNet Explores the Transformation of Amazon Alexa with Anthropic's Advanced AI Model 'Claude'</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>[New] In 2024, Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-analyzing-active-presenters-advantage-on-screens/"><u>[Updated] Analyzing Active Presenter’s Advantage on Screens</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-configuration-tips-for-your-printer-expert-advice-from-yl-software/"><u>Easy Configuration Tips for Your Printer - Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-lowering-high-system-demands-on-modern-warfare/"><u>Effective Solutions for Lowering High System Demands on Modern Warfare</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-to-turning-onoff-browser-cookies-tips-from-yl-computings-expert-tools/"><u>Guide to Turning On/Off Browser Cookies: Tips From YL Computing's Expert Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>In 2024, Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-the-shift-to-macos-11-big-sur/"><u>In 2024, Mastering the Shift to macOS 11 Big Sur</u></a></li>
+<li><a href="https://win-great.techidaily.com/professional-samsung-themed-hd-background-graphics-and-photographs-premium-quality-images-for-pcs-from-yl-software-solutions/"><u>Professional Samsung Themed HD Background Graphics and Photographs - Premium Quality Images for PCs From YL Software Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-common-bluetooth-drivers-glitches-in-windows-10-made-easy/"><u>Resolving Common Bluetooth Drivers Glitches in Windows 10 Made Easy</u></a></li>
+<li><a href="https://win-great.techidaily.com/to-uninstall-and-reinstall-or-not-to-uninstall-reviving-slow-network-drivers-effectively/"><u>To Uninstall & Reinstall, or Not to Uninstall - Reviving Slow Network Drivers Effectively.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-causes-of-non-responsive-iphone-touch-screens-troubleshooting-tips/"><u>Top 7 Causes of Non-Responsive iPhone Touch Screens: Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-potential-mastering-the-art-of-youtube-edits-for-2024/"><u>Unlock Your Potential Mastering the Art of YouTube Edits for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/yl-softwares-comprehensive-guide-to-transforming-files-into-new-formats-in-windows-systems/"><u>YL Software's Comprehensive Guide to Transforming Files Into New Formats in Windows Systems</u></a></li>
 </ul></div>
 

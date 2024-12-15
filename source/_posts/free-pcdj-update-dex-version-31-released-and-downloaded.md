@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2024-12-03T18:16:28.183Z
-updated: 2024-12-09T03:17:39.528Z
+date: 2024-12-09T03:12:34.500Z
+updated: 2024-12-15T05:48:57.941Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,21 +84,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategically-showcasing-achievements/"><u>[New] 2024 Approved Strategically Showcasing Achievements</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-vmix-mover-for-apple-and-pcs-for-2024/"><u>[New] VMix Mover for Apple and PCs for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-antique-cinematography-in-the-digital-realm/"><u>[Updated] Antique Cinematography in the Digital Realm</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-digital-image-coloring-upside-down/"><u>[Updated] Digital Image Coloring Upside Down</u></a></li>
-<li><a href="https://win-great.techidaily.com/balance-update-frequency-at-yl-computing-understanding-your-financial-cycle/"><u>Balance Update Frequency at YL Computing: Understanding Your Financial Cycle</u></a></li>
-<li><a href="https://win-great.techidaily.com/detecting-malware-signs-your-pc-might-be-infected-guidance-from-yl-computing/"><u>Detecting Malware: Signs Your PC Might Be Infected - Guidance From YL Computing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-remedies-for-stalled-airdrop-functionality-in-apple-ecosystem-for-2024/"><u>Essential Remedies for Stalled Airdrop Functionality in Apple Ecosystem for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-nintendo-switch-profile-handling/"><u>Essential Tips for Nintendo Switch Profile Handling</u></a></li>
-<li><a href="https://win-great.techidaily.com/exploring-the-impact-of-wwiis-conclusion-on-chinas-historical-development-insights-by-yl-computing-and-yl-software/"><u>Exploring the Impact of WWII's Conclusion on China's Historical Development - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-youtube-really-measures-your-contents-popularity/"><u>In 2024, How YouTube Really Measures Your Content's Popularity</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-file-management-simple-techniques-to-clone-documents-or-folders-by-yl-software-experts/"><u>Mastering File Management: Simple Techniques to Clone Documents or Folders by YL Software Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/resolving-your-printers-unresponsiveness-insights-and-solutions-by-yl-software-experts/"><u>Resolving Your Printer's Unresponsiveness: Insights and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/speeding-up-your-computer-key-settings-adjustments-for-enhanced-efficiency-by-yl-computing-experts/"><u>Speeding Up Your Computer: Key Settings Adjustments for Enhanced Efficiency by YL Computing Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-rebuilding-your-system-post-hardware-upgrade-with-microsoft-windows-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Rebuilding Your System Post-Hardware Upgrade with Microsoft Windows - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-igtv-content-expansion-direct-sharing-on-facebook-platform-for-2024/"><u>[New] IGTV Content Expansion Direct Sharing on Facebook Platform for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience/"><u>[Updated] The Game Plan for Getting Your Product in Front of a Youtuber's Audience</u></a></li>
+<li><a href="https://win-great.techidaily.com/1-easy-steps-to-convert-and-save-documents-as-pdf-on-windows-yl-computing-guide/"><u>1. Easy Steps to Convert and Save Documents as PDF on Windows - YL Computing Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/exploring-advantages-how-crypto-technology-enhances-financial-security-and-freedom-with-yl-computing/"><u>Exploring Advantages: How Crypto Technology Enhances Financial Security & Freedom with YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-installing-the-brother-hl-l2340dw-monochrome-laser-printer-driver-in-windows/"><u>Guide to Installing the Brother HL-L2340DW Monochrome Laser Printer Driver in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-8-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 8 Plus iCloud Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tunemaster-pro-how-to-download-and-assess/"><u>In 2024, TuneMaster Pro How to Download & Assess</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-memories-accept-invitations-for-shared-albums-on-iphones-made-simple/"><u>Mastering Mobile Memories: Accept Invitations for Shared Albums on iPhones Made Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-with-an-older-version-of-ios-on-your-apple-device-here-are-9-solutions/"><u>Stuck with an Older Version of iOS on Your Apple Device? Here Are 9 Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-smart-8-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Smart 8 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-the-causes-of-screen-warping-insights-from-yl-computings-perspective/"><u>Understanding the Causes of Screen Warping - Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-the-motivations-of-chinas-great-leap-forward-campaign-insights-from-yl-digital-innovations/"><u>Understanding the Motivations of China's Great Leap Forward Campaign – Insights From YL Digital Innovations</u></a></li>
 </ul></div>
 

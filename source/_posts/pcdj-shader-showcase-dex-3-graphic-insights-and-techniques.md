@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Shader Showcase: DEX 3 Graphic Insights & Techniques"
-date: 2024-12-06T23:12:26.412Z
-updated: 2024-12-09T02:57:50.678Z
+date: 2024-12-09T09:42:52.401Z
+updated: 2024-12-14T18:09:46.613Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for On-Screen Beat-Aware Visualizations (Copy/Paste link “Add Shader” Menu)
@@ -68,13 +68,13 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** for on-screen **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -96,24 +96,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/shaders-from-shadertoy.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>[New] Archiving Your Favorites The Complete List of 9 Podcast Recording Steps</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/backup-des-fichiers-changes-uniquement-sur-windows-cuillere-7-guide-detaille/"><u>Backup Des Fichiers Changés Uniquement Sur Windows Cuillère 7 : Guide Détaillé</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/boost-your-videos-impact-with-top-ranking-software-solutions/"><u>Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/decoding-blue-screen-issues-expert-analysis-by-yl-computing-and-yl-software/"><u>Decoding Blue Screen Issues: Expert Analysis by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/detect-and-restore-corrupted-data-on-your-pc-with-simple-techniques-by-yl-software/"><u>Detect and Restore Corrupted Data on Your PC with Simple Techniques by YL Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/discovering-cost-distortion-expert-insights-from-yl-computings-analysis-of-pricing-manipulation/"><u>Discovering Cost Distortion: Expert Insights From YL Computing's Analysis of Pricing Manipulation</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-update-procedure-for-windows-systems-using-the-control-panel-explained-by-yl-software-experts/"><u>Easy Update Procedure for Windows Systems Using the Control Panel Explained by YL Software Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/elegant-catwoman-themed-screen-savers-and-digital-artwork-premium-image-collections-from-yl-software/"><u>Elegant Catwoman Themed Screen Savers and Digital Artwork - Premium Image Collections From YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experiencing-a-blank-league-of-legends-screen-solutions-for-gamers/"><u>Experiencing a Blank League of Legends Screen? Solutions for Gamers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-canon-mx340-drivers-on-your-pc-windows-1187-supported/"><u>How to Install Canon MX340 Drivers on Your PC (Windows 11/8/7 Supported)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/insightful-examination-of-wirecast-and-its-peers/"><u>Insightful Examination of WireCast & Its Peers</u></a></li>
-<li><a href="https://win-great.techidaily.com/master-the-art-of-moving-files-on-your-pc-with-windows-expert-advice-by-yl-computing/"><u>Master the Art of Moving Files on Your PC with Windows - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/maximize-your-computers-potential-essential-techniques-to-improve-hardware-and-software-as-recommended-by-yl-software-professionals/"><u>Maximize Your Computer's Potential: Essential Techniques to Improve Hardware & Software, as Recommended by YL Software Professionals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/premium-backgrounds-featuring-goku-black-and-zamasu-from-yl-software-download-now/"><u>Premium Backgrounds Featuring Goku Black & Zamasu From YL Software: Download Now!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solving-your-cs-go-game-wont-start-problems/"><u>Solving Your CS: GO Game Won't Start Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/valorants-finest-voice-modder-accessible-at-no-cost-for-2024/"><u>Valorant's Finest Voice Modder – Accessible at No Cost for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/verifying-system-readiness-for-various-media-types-a-comprehensive-guide-by-yl-computing/"><u>Verifying System Readiness for Various Media Types: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-virtualvista-viewers-verdict-for-2024/"><u>[Updated] VirtualVista Viewer's Verdict for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asus-aura-desktop-themes-and-skins-for-windows-1011-download-now/"><u>ASUS AURA Desktop Themes & Skins for Windows 10/11: Download Now</u></a></li>
+<li><a href="https://win-great.techidaily.com/deng-xiaopings-transformative-strategies-for-china-exploring-his-political-social-and-economic-reforms-of-the-1980s/"><u>Deng Xiaoping's Transformative Strategies for China: Exploring His Political, Social and Economic Reforms of the 1980S</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-modify-your-pcs-hardware-configuration-on-windows-a-guide-by-yl-computing/"><u>How to Modify Your PC's Hardware Configuration on Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insider-tips-the-best-instagram-strategies-for-profit/"><u>Insider Tips The Best Instagram Strategies for Profit</u></a></li>
+<li><a href="https://win-great.techidaily.com/is-it-possible-that-your-audio-card-has-sustained-damage-insights-from-yl-computing/"><u>Is It Possible That Your Audio Card Has Sustained Damage? Insights From YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-network-setup-changing-lan-options-in-windows-via-control-panel-explained-by-yl-software/"><u>Mastering Network Setup: Changing LAN Options in Windows via Control Panel Explained by YL Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-circle-of-connectivity-spotlighting-instas-top-25-influencers-for-2024/"><u>The Circle of Connectivity Spotlighting Insta's Top 25 Influencers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essentials-of-sharing-music-compilations-online-for-2024/"><u>The Essentials of Sharing Music Compilations Online for 2024</u></a></li>
 </ul></div>
 
