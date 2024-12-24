@@ -1,7 +1,7 @@
 ---
 title: Spooky Shader Sets Ideal for Playing Scares with DEX Evolver and Lyrx | DJ Mixes
-date: 2024-12-08T09:28:38.581Z
-updated: 2024-12-14T17:27:10.178Z
+date: 2024-12-22T17:02:32.190Z
+updated: 2024-12-23T16:38:30.541Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Click a button below to review search results as described on each button. The v
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Shaders to DEX 3 or LYRX) ([CLICK HERE FOR DETAILED INSTRUCTIONS](https://tools.techidaily.com/pcdj/products/))
@@ -45,13 +45,13 @@ Click a button below to review search results as described on each button. The v
 ![](https://i0.wp.com/www.pcdj.com/vidupload/SHADER-demo.gif?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about how to add Shaders to our **DJ Mixing Software** for **Karaoke Software** products? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/10/shaders-2019-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-closer-look-at-earnings-comparing-dailymotion-and-youtube-revenues/"><u>[New] 2024 Approved A Closer Look at Earnings Comparing Dailymotion and YouTube Revenues</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-sharper-stars-in-iphone-nocturne-photos/"><u>[Updated] Sharper Stars in iPhone Nocturne Photos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-monetization-metrics-viewers-contribution-to-earnings/"><u>2024 Approved Monetization Metrics Viewers' Contribution to Earnings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-workings-of-youtube-after-a-video-is-published/"><u>2024 Approved The Workings of YouTube After a Video Is Published</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boost-your-gaming-presence-with-these-top-14-video-ideas/"><u>Boost Your Gaming Presence with These Top 14 Video Ideas</u></a></li>
-<li><a href="https://win-great.techidaily.com/changing-your-default-printer-preferences-with-yl-computings-guidance-detailed-tutorial/"><u>Changing Your Default Printer Preferences with YL Computing's Guidance - Detailed Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortlessly-change-your-mxf-videos-to-mp4-for-universal-playback-cost-free-methods-revealed/"><u>Effortlessly Change Your MXF Videos to MP4 for Universal Playback - Cost-Free Methods Revealed</u></a></li>
-<li><a href="https://win-great.techidaily.com/electrifying-halloween-hits-the-ultimate-spooky-spin-playlist-every-dj-must-include/"><u>Electrifying Halloween Hits: The Ultimate Spooky Spin-Playlist Every DJ Must Include</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-tweaking-your-network-configuration-via-the-control-panel-insights-from-yl-computing/"><u>Guide: Tweaking Your Network Configuration via the Control Panel - Insights From YL Computing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-proven-practice-for-preserving-playthroughs-tips-and-tricks-for-recording-roblox-gameplay-on-a-mac/"><u>In 2024, Proven Practice for Preserving Playthroughs Tips & Tricks for Recording Roblox Gameplay on a Mac</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-crypto-trades-selecting-the-best-exchange-with-insights-from-yl-software-experts/"><u>Mastering Crypto Trades: Selecting the Best Exchange with Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/secure-your-data-a-step-by-step-guide-to-password-protecting-folders-on-windows-tips-from-yl-software/"><u>Secure Your Data: A Step-by-Step Guide to Password-Protecting Folders on Windows - Tips From YL Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-efficacy-of-vlcs-screen-recording-for-2024/"><u>The Efficacy of VLC's Screen Recording for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-ultimate-list-of-debunked-wedding-djmyths-insights-for-your-big-day-soundtrack/"><u>The Ultimate List of Debunked Wedding DJmyths: Insights for Your Big Day Soundtrack</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-karaoke-programs-spotlight-on-pcdjs-exclusive-member/"><u>Top Karaoke Programs: Spotlight on PCDJ's Exclusive Member</u></a></li>
-<li><a href="https://win-great.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-printer-insights-from-yl-computing-experts/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Printer - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[New] 2024 Approved From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-captivate-and-conquer-with-customized-content-shorts-for-2024/"><u>[Updated] Captivate and Conquer with Customized Content Shorts for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>2024 Approved Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c32-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C32</u></a></li>
+<li><a href="https://win-great.techidaily.com/decoding-crypto-trends-expert-techniques-for-interpreting-candlestick-charts-using-yl-solutions/"><u>Decoding Crypto Trends: Expert Techniques for Interpreting Candlestick Charts Using YL Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-narzo-60-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme Narzo 60 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/level-up-gameplay-get-ready-for-a-seamless-experience-with-improved-fps-on-the-division-2/"><u>Level Up Gameplay: Get Ready for a Seamless Experience with Improved FPS on 'The Division 2'</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-the-art-of-crypto-trading-a-comprehensive-guide-by-yl-computing/"><u>Mastering the Art of Crypto Trading: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/recover-deleted-or-corrupted-windows-system-files-with-ease-expert-advice-from-yl-software/"><u>Recover Deleted or Corrupted Windows System Files with Ease - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/solved-why-wont-my-computer-detect-the-printer-after-connecting-comprehensive-steps-from-yl-software/"><u>Solved! Why Won't My Computer Detect the Printer After Connecting? Comprehensive Steps From YL Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/solving-common-issues-expert-tips-on-getting-your-unresponsive-printer-up-and-running-yl-solutions/"><u>Solving Common Issues: Expert Tips on Getting Your Unresponsive Printer Up & Running - YL Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-utilizing-windows-defender-for-enhanced-security-yl-software-insights/"><u>Step-by-Step Tutorial on Utilizing Windows Defender for Enhanced Security - YL Software Insights</u></a></li>
 </ul></div>
 

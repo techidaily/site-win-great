@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2024-12-13T18:13:22.011Z
-updated: 2024-12-15T07:16:48.868Z
+date: 2024-12-19T00:33:02.819Z
+updated: 2024-12-24T07:07:13.346Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,19 +42,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>[New] In 2024, Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-analyzing-active-presenters-advantage-on-screens/"><u>[Updated] Analyzing Active Presenter’s Advantage on Screens</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-configuration-tips-for-your-printer-expert-advice-from-yl-software/"><u>Easy Configuration Tips for Your Printer - Expert Advice From YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-lowering-high-system-demands-on-modern-warfare/"><u>Effective Solutions for Lowering High System Demands on Modern Warfare</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-to-turning-onoff-browser-cookies-tips-from-yl-computings-expert-tools/"><u>Guide to Turning On/Off Browser Cookies: Tips From YL Computing's Expert Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>In 2024, Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-the-shift-to-macos-11-big-sur/"><u>In 2024, Mastering the Shift to macOS 11 Big Sur</u></a></li>
-<li><a href="https://win-great.techidaily.com/professional-samsung-themed-hd-background-graphics-and-photographs-premium-quality-images-for-pcs-from-yl-software-solutions/"><u>Professional Samsung Themed HD Background Graphics and Photographs - Premium Quality Images for PCs From YL Software Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolving-common-bluetooth-drivers-glitches-in-windows-10-made-easy/"><u>Resolving Common Bluetooth Drivers Glitches in Windows 10 Made Easy</u></a></li>
-<li><a href="https://win-great.techidaily.com/to-uninstall-and-reinstall-or-not-to-uninstall-reviving-slow-network-drivers-effectively/"><u>To Uninstall & Reinstall, or Not to Uninstall - Reviving Slow Network Drivers Effectively.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-causes-of-non-responsive-iphone-touch-screens-troubleshooting-tips/"><u>Top 7 Causes of Non-Responsive iPhone Touch Screens: Troubleshooting Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-potential-mastering-the-art-of-youtube-edits-for-2024/"><u>Unlock Your Potential Mastering the Art of YouTube Edits for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/yl-softwares-comprehensive-guide-to-transforming-files-into-new-formats-in-windows-systems/"><u>YL Software's Comprehensive Guide to Transforming Files Into New Formats in Windows Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-prime-20-laugh-inducing-prison-jail-memes-to-elevate-social-media-experience/"><u>[Updated] 2024 Approved Prime 20 Laugh-Inducing Prison Jail Memes to Elevate Social Media Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[Updated] In 2024, Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>2024 Approved Implementing LUTs in Photoshop CS6/CC An In-Depth Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-zoom-edge-advantage-essential-insights-for-format-alteration/"><u>2024 Approved Zoom Edge Advantage Essential Insights for Format Alteration</u></a></li>
+<li><a href="https://win-great.techidaily.com/altering-your-scanners-scanning-parameters-a-step-by-step-guide-by-yl-computing/"><u>Altering Your Scanner's Scanning Parameters: A Step-by-Step Guide - By YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-overview-of-windows-operating-processes-with-yl-computing-solutions/"><u>Effortless Overview of Window's Operating Processes with YL Computing Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/exploring-real-world-applications-unveiling-cryptocurrencys-potential-with-yl-computing/"><u>Exploring Real-World Applications: Unveiling Cryptocurrency's Potential with YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-10-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 10 Pro Phones</u></a></li>
+<li><a href="https://win-great.techidaily.com/monitoring-digital-asset-values-effective-strategies-by-yl-computing/"><u>Monitoring Digital Asset Values: Effective Strategies by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/navigating-the-complex-world-of-commercial-karaoke-laws-a-deep-dive-into-the-264-million-kamu-ultra-karaoke-legal-battle/"><u>Navigating the Complex World of Commercial Karaoke Laws: A Deep Dive Into the $264 Million Kamu Ultra Karaoke Legal Battle</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/quick-pics-windows-11s-fast-photo-viewer-for-2024/"><u>Quick Pics Windows 11'S Fast Photo Viewer for 2024</u></a></li>
 </ul></div>
 

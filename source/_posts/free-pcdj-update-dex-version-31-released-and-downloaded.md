@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2024-12-09T03:12:34.500Z
-updated: 2024-12-15T05:48:57.941Z
+date: 2024-12-16T17:54:56.045Z
+updated: 2024-12-24T02:03:10.120Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,18 +84,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-igtv-content-expansion-direct-sharing-on-facebook-platform-for-2024/"><u>[New] IGTV Content Expansion Direct Sharing on Facebook Platform for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience/"><u>[Updated] The Game Plan for Getting Your Product in Front of a Youtuber's Audience</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-easy-steps-to-convert-and-save-documents-as-pdf-on-windows-yl-computing-guide/"><u>1. Easy Steps to Convert and Save Documents as PDF on Windows - YL Computing Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/exploring-advantages-how-crypto-technology-enhances-financial-security-and-freedom-with-yl-computing/"><u>Exploring Advantages: How Crypto Technology Enhances Financial Security & Freedom with YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-installing-the-brother-hl-l2340dw-monochrome-laser-printer-driver-in-windows/"><u>Guide to Installing the Brother HL-L2340DW Monochrome Laser Printer Driver in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-8-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 8 Plus iCloud Lock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tunemaster-pro-how-to-download-and-assess/"><u>In 2024, TuneMaster Pro How to Download & Assess</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-memories-accept-invitations-for-shared-albums-on-iphones-made-simple/"><u>Mastering Mobile Memories: Accept Invitations for Shared Albums on iPhones Made Simple</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stuck-with-an-older-version-of-ios-on-your-apple-device-here-are-9-solutions/"><u>Stuck with an Older Version of iOS on Your Apple Device? Here Are 9 Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-smart-8-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Smart 8 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/understanding-the-causes-of-screen-warping-insights-from-yl-computings-perspective/"><u>Understanding the Causes of Screen Warping - Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://win-great.techidaily.com/understanding-the-motivations-of-chinas-great-leap-forward-campaign-insights-from-yl-digital-innovations/"><u>Understanding the Motivations of China's Great Leap Forward Campaign – Insights From YL Digital Innovations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-next-gen-recording-iphoneipad-screens/"><u>[New] In 2024, Next-Gen Recording IPhone/iPad Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-essential-steps-for-forming-a-facebook-profile/"><u>[Updated] The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-dangers-of-using-ai-as-your-free-therapist-or-psychiatrist/"><u>9 Dangers of Using AI as Your Free Therapist or Psychiatrist</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-steps-to-reach-windows-administration-utilities-via-control-panel-insights-by-yl-computing/"><u>Guide: Steps to Reach Windows Administration Utilities via Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/high-cpu-usage-on-windows-10-solved/"><u>High CPU Usage on Windows 10 [Solved]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-shoot-igtv-videos-with-smartphonedlsr-cameras-for-2024/"><u>How to Shoot IGTV Videos With Smartphone/DLSR Cameras for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cheerful-media-extractor-analysis/"><u>In 2024, Cheerful Media Extractor Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-8t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Reno 8T Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-step-into-the-realm-of-textual-magic-with-14-examples/"><u>In 2024, Step Into the Realm of Textual Magic with 14 Examples</u></a></li>
+<li><a href="https://win-great.techidaily.com/personalizing-your-safety-parameters-a-step-by-step-guide-with-yl-computings-software/"><u>Personalizing Your Safety Parameters: A Step-by-Step Guide with YL Computing's Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/solving-sync-problems-detecting-hardware-conflicts-between-audio-devices-and-motherboards-tips-by-yl-systems/"><u>Solving Sync Problems: Detecting Hardware Conflicts Between Audio Devices and Motherboards – Tips by YL Systems</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-to-fixing-hardware-glitches-in-windows-yl-tech-solutions/"><u>Step-by-Step Guide to Fixing Hardware Glitches in Windows - YL Tech Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-guide-to-dust-free-technology-best-practices-by-yl-software-professionals/"><u>Ultimate Guide to Dust-Free Technology: Best Practices by YL Software Professionals</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/victorious-china-womens-visually-impaired-team-triumph-in-world-cup-qualifying-for-the-2023-paris-paralympics-insights-from-yl-software-experts/"><u>Victorious China Women’s Visually Impaired Team Triumph in World Cup, Qualifying for the 2023 Paris Paralympics – Insights From YL Software Experts</u></a></li>
 </ul></div>
 
