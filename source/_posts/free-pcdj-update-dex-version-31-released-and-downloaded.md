@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2024-12-16T17:54:56.045Z
-updated: 2024-12-24T02:03:10.120Z
+date: 2024-12-28T23:12:08.313Z
+updated: 2024-12-30T02:01:55.559Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,20 +84,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-next-gen-recording-iphoneipad-screens/"><u>[New] In 2024, Next-Gen Recording IPhone/iPad Screens</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-essential-steps-for-forming-a-facebook-profile/"><u>[Updated] The Essential Steps for Forming a Facebook Profile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-dangers-of-using-ai-as-your-free-therapist-or-psychiatrist/"><u>9 Dangers of Using AI as Your Free Therapist or Psychiatrist</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-steps-to-reach-windows-administration-utilities-via-control-panel-insights-by-yl-computing/"><u>Guide: Steps to Reach Windows Administration Utilities via Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/high-cpu-usage-on-windows-10-solved/"><u>High CPU Usage on Windows 10 [Solved]</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-shoot-igtv-videos-with-smartphonedlsr-cameras-for-2024/"><u>How to Shoot IGTV Videos With Smartphone/DLSR Cameras for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cheerful-media-extractor-analysis/"><u>In 2024, Cheerful Media Extractor Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-8t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Reno 8T Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-step-into-the-realm-of-textual-magic-with-14-examples/"><u>In 2024, Step Into the Realm of Textual Magic with 14 Examples</u></a></li>
-<li><a href="https://win-great.techidaily.com/personalizing-your-safety-parameters-a-step-by-step-guide-with-yl-computings-software/"><u>Personalizing Your Safety Parameters: A Step-by-Step Guide with YL Computing's Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/solving-sync-problems-detecting-hardware-conflicts-between-audio-devices-and-motherboards-tips-by-yl-systems/"><u>Solving Sync Problems: Detecting Hardware Conflicts Between Audio Devices and Motherboards – Tips by YL Systems</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-to-fixing-hardware-glitches-in-windows-yl-tech-solutions/"><u>Step-by-Step Guide to Fixing Hardware Glitches in Windows - YL Tech Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-guide-to-dust-free-technology-best-practices-by-yl-software-professionals/"><u>Ultimate Guide to Dust-Free Technology: Best Practices by YL Software Professionals</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/victorious-china-womens-visually-impaired-team-triumph-in-world-cup-qualifying-for-the-2023-paris-paralympics-insights-from-yl-software-experts/"><u>Victorious China Women’s Visually Impaired Team Triumph in World Cup, Qualifying for the 2023 Paris Paralympics – Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-advanced-lighting-strategies-for-superior-iphone-photos/"><u>[New] 2024 Approved Advanced Lighting Strategies for Superior iPhone Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-high-ranking-mac-tools-to-replace-standard-bandicam-for-2024/"><u>[Updated] High-Ranking Mac Tools to Replace Standard Bandicam for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-listing-from-the-tail-reordering-videos-in-a-reverse-sequence/"><u>[Updated] In 2024, Listing From the Tail Reordering Videos in a Reverse Sequence</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/cyberspace-authority-in-china-launches-innovation-drive-encouraging-pioneering-blockchain-solutions-for-socio-economic-growth/"><u>Cyberspace Authority in China Launches Innovation Drive, Encouraging Pioneering Blockchain Solutions for Socio-Economic Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-selection-of-nintendo-switch-fighting-games-max-156-for-2024/"><u>Elite Selection of Nintendo Switch Fighting Games (Max 156) for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/exploring-advantages-how-crypto-technology-enhances-financial-security-and-freedom-with-yl-computing/"><u>Exploring Advantages: How Crypto Technology Enhances Financial Security & Freedom with YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/file-transfer-methods-moving-files-between-folders-on-windows-tips-from-yl-computing/"><u>File Transfer Methods: Moving Files Between Folders on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-magic-mouse-controls-on-a-windows-system-seamlessly/"><u>How to Install Magic Mouse Controls on a Windows System Seamlessly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-reactivate-an-idle-brothers-printer-networkly/"><u>How to Reactivate an Idle Brothers Printer Networkly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo FRP?</u></a></li>
+<li><a href="https://win-great.techidaily.com/quick-guide-creating-desktop-shortcuts-on-windows-tips-from-yl-computing/"><u>Quick Guide: Creating Desktop Shortcuts on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-rule-book-on-digital-assets-how-yl-software-defines-cryptocurrency-compliance-and-rules/"><u>The Rule Book on Digital Assets: How YL Software Defines Cryptocurrency Compliance and Rules</u></a></li>
+<li><a href="https://win-great.techidaily.com/uninstalling-apps-through-windows-control-panel-a-simple-guide-by-yl-computing/"><u>Uninstalling Apps Through Windows' Control Panel: A Simple Guide by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/unlocking-windows-secrets-a-comprehensive-walkthrough-of-accessing-system-settings-with-expert-advice-from-yl-software/"><u>Unlocking Windows Secrets: A Comprehensive Walkthrough of Accessing System Settings with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

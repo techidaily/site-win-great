@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Loop Management in PCDJ with DEX 3 Walkthrough
-date: 2024-12-22T20:40:56.305Z
-updated: 2024-12-23T18:23:11.921Z
+date: 2024-12-23T20:47:56.552Z
+updated: 2024-12-29T21:35:37.563Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-art-of-perfection-in-depth-tutorial-on-utilizing-photoshops-background-eraser-tool/"><u>[New] 2024 Approved The Art of Perfection In-Depth Tutorial on Utilizing Photoshop's Background Eraser Tool</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-graphics-selection-for-high-definition-videography-for-2024/"><u>[New] Top Graphics Selection for High-Definition Videography for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-8-top-notch-free-editors-to-enhance-your-youtube-content-efficiency/"><u>[Updated] In 2024, 8 Top-Notch Free Editors to Enhance Your YouTube Content Efficiency</u></a></li>
-<li><a href="https://win-great.techidaily.com/debugging-your-system-methods-for-detecting-app-induced-computer-crashes-by-yl-computing-expertise/"><u>Debugging Your System: Methods for Detecting App-Induced Computer Crashes by YL Computing Expertise</u></a></li>
-<li><a href="https://win-great.techidaily.com/high-definition-walls-of-grandeur-the-201/"><u>High-Definition Walls of Grandeur: The 201</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-masterpieces-top-meme-templates/"><u>In 2024, Crafting Masterpieces Top Meme Templates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g73-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G73 5G Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>In 2024, Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-optimize-your-instagram-media-flow-desktopmobile/"><u>In 2024, Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-connection-fixes-in-terraria-top-n-proven-strategies/"><u>Mastering Connection Fixes in Terraria - Top N Proven Strategies</u></a></li>
-<li><a href="https://win-great.techidaily.com/sharing-files-and-printers-successfully-on-your-windows-10-pc-a-step-by-step-guide-by-yl-software/"><u>Sharing Files & Printers Successfully on Your Windows 10 PC: A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/update-dex-v31601-instantly-access-new-features-and-download-from-official-site/"><u>Update DEX v3.16.0.1 - Instantly Access New Features & Download From Official Site!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-2021s-best-screen-capture-tools-roundup/"><u>[New] In 2024, The 2021'S Best Screen Capture Tools Roundup</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>[Updated] In 2024, Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-overview-what-is-openai/"><u>An Overview: What Is OpenAI?</u></a></li>
+<li><a href="https://win-great.techidaily.com/check-if-your-graphics-card-works-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Check If Your Graphics Card Works With Windows: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/deciphering-digital-wealths-impact-how-bitcoin-and-peers-shape-global-financial-systems-a-yl-software-perspective/"><u>Deciphering Digital Wealth's Impact: How Bitcoin and Peers Shape Global Financial Systems – A YL Software Perspective</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-resolve-your-broken-huion-stylus-problem-in-just-five-steps/"><u>Expert Tips: Resolve Your Broken Huion Stylus Problem in Just Five Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-v29e-by-drfone-android/"><u>How to Bypass FRP from Vivo V29e?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-5-filters-boosting-oceanic-imaging/"><u>In 2024, Premium 5 Filters Boosting Oceanic Imaging</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-soundtrack-your-youtube-videos-7-free-audio-selections/"><u>In 2024, Soundtrack Your YouTube Videos 7 Free Audio Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-srt-files-accessing-on-windowsmac/"><u>In 2024, Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
+<li><a href="https://win-great.techidaily.com/optimal-frequency-running-full-system-scans-on-windows-defender-yl-computing-expert-tips/"><u>Optimal Frequency: Running Full System Scans on Windows Defender - YL Computing Expert Tips</u></a></li>
+<li><a href="https://win-great.techidaily.com/quick-tips-for-speeding-up-your-pc-a-guide-to-deleting-junk-files-yl-tech-solutions/"><u>Quick Tips for Speeding Up Your PC: A Guide to Deleting Junk Files - YL Tech Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/solving-hard-drive-malfunctions-on-your-computer-a-step-by-step-guide-by-yl-software/"><u>Solving Hard Drive Malfunctions on Your Computer: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/solving-the-issue-why-wont-your-pc-detect-the-graphics-card-expert-advice-by-yl-computing/"><u>Solving the Issue: Why Won't Your PC Detect the Graphics Card? Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-changing-your-pcs-screen-resolution-and-aspect-ratio-with-yl-software-solutions/"><u>Step-by-Step Guide: Changing Your PC's Screen Resolution & Aspect Ratio with YL Software Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/summer-vibes-with-pro-dj-services-elevate-your-karaoke-experience-now/"><u>Summer Vibes with Pro DJ Services – Elevate Your Karaoke Experience Now!</u></a></li>
+<li><a href="https://win-great.techidaily.com/temporary-deactivation-of-windows-defender-explained-cyberguardianpros/"><u>Temporary Deactivation of Windows Defender Explained - CyberGuardianPros</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-screen-size-oversized/"><u>Windows 11 Screen Size: Oversized?</u></a></li>
 </ul></div>
 

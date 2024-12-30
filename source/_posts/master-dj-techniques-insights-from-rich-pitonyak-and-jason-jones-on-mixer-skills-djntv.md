@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2024-12-19T00:33:02.819Z
-updated: 2024-12-24T07:07:13.346Z
+date: 2024-12-24T01:19:18.250Z
+updated: 2024-12-29T16:39:39.319Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,16 +42,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-prime-20-laugh-inducing-prison-jail-memes-to-elevate-social-media-experience/"><u>[Updated] 2024 Approved Prime 20 Laugh-Inducing Prison Jail Memes to Elevate Social Media Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[Updated] In 2024, Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>2024 Approved Implementing LUTs in Photoshop CS6/CC An In-Depth Analysis</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-zoom-edge-advantage-essential-insights-for-format-alteration/"><u>2024 Approved Zoom Edge Advantage Essential Insights for Format Alteration</u></a></li>
-<li><a href="https://win-great.techidaily.com/altering-your-scanners-scanning-parameters-a-step-by-step-guide-by-yl-computing/"><u>Altering Your Scanner's Scanning Parameters: A Step-by-Step Guide - By YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/effortless-overview-of-windows-operating-processes-with-yl-computing-solutions/"><u>Effortless Overview of Window's Operating Processes with YL Computing Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/exploring-real-world-applications-unveiling-cryptocurrencys-potential-with-yl-computing/"><u>Exploring Real-World Applications: Unveiling Cryptocurrency's Potential with YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-10-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 10 Pro Phones</u></a></li>
-<li><a href="https://win-great.techidaily.com/monitoring-digital-asset-values-effective-strategies-by-yl-computing/"><u>Monitoring Digital Asset Values: Effective Strategies by YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/navigating-the-complex-world-of-commercial-karaoke-laws-a-deep-dive-into-the-264-million-kamu-ultra-karaoke-legal-battle/"><u>Navigating the Complex World of Commercial Karaoke Laws: A Deep Dive Into the $264 Million Kamu Ultra Karaoke Legal Battle</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/quick-pics-windows-11s-fast-photo-viewer-for-2024/"><u>Quick Pics Windows 11'S Fast Photo Viewer for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-yt-storytellers-for-enthralling-viewing-experience/"><u>[New] Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dynamic-duo-shots-perfecting-youtube-video-splitting-for-2024/"><u>[New] Dynamic Duo Shots Perfecting YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-guide-to-recording-films-on-windowsmac-and-phones/"><u>[Updated] 2024 Approved Essential Guide to Recording Films on Windows/Mac & Phones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-your-photos-tips-and-apps-on-android-for-2024/"><u>[Updated] Elevate Your Photos Tips & Apps on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sculpting-waterway-content-with-flair/"><u>[Updated] Sculpting Waterway Content with Flair</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-swaying-symbols-dynamic-animation-for-text-effects-for-2024/"><u>[Updated] Swaying Symbols Dynamic Animation for Text Effects for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/detect-and-restore-corrupted-data-on-your-pc-with-simple-techniques-by-yl-software/"><u>Detect and Restore Corrupted Data on Your PC with Simple Techniques by YL Software</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-update-procedure-for-windows-systems-using-the-control-panel-explained-by-yl-software-experts/"><u>Easy Update Procedure for Windows Systems Using the Control Panel Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/ensuring-perfect-fit-yl-softwares-tips-for-checking-hardware-compatibility/"><u>Ensuring Perfect Fit: YL Software's Tips for Checking Hardware Compatibility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/hassle-free-audio-format-change-transform-caf-to-mp3-for-free-via-movavis-user-friendly-website/"><u>Hassle-Free Audio Format Change: Transform CAF to MP3 for Free via Movavi's User-Friendly Website</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-maintain-optimal-computer-speed-and-prevent-sluggishness-over-time-with-yls-insights/"><u>How to Maintain Optimal Computer Speed and Prevent Sluggishness Over Time with YL's Insights</u></a></li>
+<li><a href="https://win-great.techidaily.com/premium-backgrounds-featuring-goku-black-and-zamasu-from-yl-software-download-now/"><u>Premium Backgrounds Featuring Goku Black & Zamasu From YL Software: Download Now!</u></a></li>
+<li><a href="https://win-great.techidaily.com/protecting-your-virtual-coins-expert-tips-on-enhancing-cryptocurrency-security-with-yl-software-solutions/"><u>Protecting Your Virtual Coins: Expert Tips on Enhancing Cryptocurrency Security with YL Software Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/verifying-system-readiness-for-various-media-types-a-comprehensive-guide-by-yl-computing/"><u>Verifying System Readiness for Various Media Types: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

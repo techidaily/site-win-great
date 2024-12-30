@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Shader Showcase: DEX 3 Graphic Insights & Techniques"
-date: 2024-12-20T19:37:05.720Z
-updated: 2024-12-23T20:08:04.615Z
+date: 2024-12-25T17:39:48.393Z
+updated: 2024-12-29T20:39:35.231Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for On-Screen Beat-Aware Visualizations (Copy/Paste link “Add Shader” Menu)
@@ -68,13 +68,13 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** for on-screen **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -96,21 +96,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/shaders-from-shadertoy.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[Updated] 2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-quintessential-ten-hexa-flights/"><u>[Updated] 2024 Approved The Quintessential Ten Hexa-Flights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expert-advice-on-lighting-your-youtube-content-perfectly/"><u>[Updated] Expert Advice on Lighting Your YouTube Content Perfectly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-exploring-youtubes-financial-blueprint-for-short-form-video-success/"><u>[Updated] In 2024, Exploring YouTube's Financial Blueprint for Short-Form Video Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>2024 Approved How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-guide-to-record-google-meet-in-your-browser/"><u>2024 Approved Quick Guide to Record Google Meet in Your Browser</u></a></li>
-<li><a href="https://win-great.techidaily.com/app-ylyl/"><u>初学者入门：了解构建原生移动APP的重要前期准备 - YL技术与YL开发</u></a></li>
-<li><a href="https://win-great.techidaily.com/boost-your-wi-fi-performance-expert-tips-from-yl-computings-tech-experts/"><u>Boost Your Wi-Fi Performance: Expert Tips From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/hidden-gem-techniques-in-beatmatching-exclusive-tips-to-elevate-your-pcdj-game/"><u>Hidden Gem Techniques in Beatmatching: Exclusive Tips to Elevate Your PCDJ Game</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-defy-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a1-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo A1 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster/"><u>In 2024, Step-by-Step Journey Mastering the Art of GS with KineMaster</u></a></li>
-<li><a href="https://win-great.techidaily.com/navigating-to-network-and-sharing-settings-in-the-control-panel-expert-advice-by-yl-software/"><u>Navigating to Network and Sharing Settings in the Control Panel – Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/one-child-policy-outcomes-impactful-shifts-explored-by-yl-computing-and-yl-software/"><u>One-Child Policy Outcomes: Impactful Shifts Explored by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/stunning-purple-aesthetic-wallpaper-designs-and-images-yl-computings-exclusive-collection/"><u>Stunning Purple Aesthetic Wallpaper Designs & Images - YL Computing's Exclusive Collection</u></a></li>
-<li><a href="https://win-great.techidaily.com/yl-softwares-high-definition-loopable-slow-motion-waterfall-hd-wallpaper-with-audio-track/"><u>YL Software's High Definition, Loopable Slow Motion Waterfall HD Wallpaper With Audio Track</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essentials-of-using-azures-voice-recognition-for-2024/"><u>[New] The Essentials of Using Azure's Voice Recognition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-gaming-monitors-for-xbox-series-x-a-buyers-guide/"><u>[New] Top Gaming Monitors for Xbox Series X - A Buyer's Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-your-ultimate-ps4-screen-recorder-inside-the-obs-studio-guide/"><u>[Updated] In 2024, Your Ultimate PS4 Screen Recorder Inside the OBS Studio Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-fps-fantasies-mechanical-marvels/"><u>Exposing FPS Fantasies, Mechanical Marvels</u></a></li>
+<li><a href="https://win-great.techidaily.com/ford-bronco-desktop-backgrounds-and-screensaver-pack-by-yl-computing-innovative-imagery-collection/"><u>Ford Bronco Desktop Backgrounds & Screensaver Pack by YL Computing: Innovative Imagery Collection</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-modify-your-pcs-hardware-configuration-on-windows-a-guide-by-yl-computing/"><u>How to Modify Your PC's Hardware Configuration on Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reduce-windows-surrounders-feature/"><u>How To Reduce Windows Surrounders Feature</u></a></li>
+<li><a href="https://win-great.techidaily.com/is-it-possible-that-your-audio-card-has-sustained-damage-insights-from-yl-computing/"><u>Is It Possible That Your Audio Card Has Sustained Damage? Insights From YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/mastering-network-setup-changing-lan-options-in-windows-via-control-panel-explained-by-yl-software/"><u>Mastering Network Setup: Changing LAN Options in Windows via Control Panel Explained by YL Software</u></a></li>
+<li><a href="https://solve-help.techidaily.com/romantic-laughter-chronicles-a-ranking-of-the-finest-love-and-humor-movies-in-cinema-history/"><u>Romantic Laughter Chronicles: A Ranking of the Finest Love & Humor Movies in Cinema History</u></a></li>
+<li><a href="https://win-great.techidaily.com/troubleshooting-tips-fixing-problems-with-windows-defender-insights-from-yl-computing/"><u>Troubleshooting Tips: Fixing Problems with Windows Defender - Insights From YL Computing</u></a></li>
 </ul></div>
 
