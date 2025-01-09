@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complex World of Commercial Karaoke Laws: A Deep Dive Into the $264 Million Kamu Ultra Karaoke Legal Battle"
-date: 2024-12-25T00:26:17.219Z
-updated: 2024-12-29T20:32:25.530Z
+date: 2025-01-08T10:34:52.382Z
+updated: 2025-01-09T01:25:28.886Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-lecture-capture-with-macos/"><u>[New] In 2024, Efficient Lecture Capture with MacOS</u></a></li>
-<li><a href="https://win-great.techidaily.com/cyberspace-authority-in-china-launches-innovation-drive-encouraging-pioneering-blockchain-solutions-for-socio-economic-growth/"><u>Cyberspace Authority in China Launches Innovation Drive, Encouraging Pioneering Blockchain Solutions for Socio-Economic Growth</u></a></li>
-<li><a href="https://win-great.techidaily.com/exploring-advantages-how-crypto-technology-enhances-financial-security-and-freedom-with-yl-computing/"><u>Exploring Advantages: How Crypto Technology Enhances Financial Security & Freedom with YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/file-transfer-methods-moving-files-between-folders-on-windows-tips-from-yl-computing/"><u>File Transfer Methods: Moving Files Between Folders on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/high-definition-bentley-continental-gt-walls-and-desktops-download-premium-hd-backgrounds/"><u>High-Definition Bentley Continental GT Walls & Desktops - Download Premium HD Backgrounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-emotional-perception-via-chatgpt/"><u>Improving Emotional Perception via ChatGPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-pinpointing-a-list-video-creators/"><u>In 2024, A Guide to Pinpointing A-List Video Creators</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-direct-youtube-video-capture-guide/"><u>In 2024, Direct YouTube Video Capture Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-non-retweeting-video-tweets-from-your-phone/"><u>In 2024, Non-Retweeting Video Tweets From Your Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-rule-book-on-digital-assets-how-yl-software-defines-cryptocurrency-compliance-and-rules/"><u>The Rule Book on Digital Assets: How YL Software Defines Cryptocurrency Compliance and Rules</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-youtube-broadcast-handbook-for-2024/"><u>The Ultimate YouTube Broadcast Handbook for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-that-you-should-know-about-youtube-keyword-research/"><u>Things That You Should Know About YouTube Keyword Research</u></a></li>
-<li><a href="https://win-great.techidaily.com/uninstalling-apps-through-windows-control-panel-a-simple-guide-by-yl-computing/"><u>Uninstalling Apps Through Windows' Control Panel: A Simple Guide by YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-screen-capture-google-meet-quick-mobile-guide/"><u>[New] 2024 Approved How to Screen Capture Google Meet Quick Mobile Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-educational-gaming-content-on-youtube-for-2024/"><u>[New] Educational Gaming Content on YouTube for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/5yig5pwj44k344k544og44og44gn44gu6ieq5yuv44oh44o844k5zcm5pyf5oim55wl44go5a6f6le1/"><u>分散システムでの自動データ同期戦略と実践</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-server-aomei-backupper/"><u>最合适的 Windows Server 数据备份解决方案: AOMEI Backupper专业版</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/highest-rated-20-public-domain-pubg-combos/"><u>Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-restore-missing-or-erased-partitions-on-windows-1011-systems/"><u>How to Restore Missing or Erased Partitions on Windows 10/11 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/my-experience-with-opera-gx-returning-to-chrome-reasons-unveiled/"><u>My Experience with Opera GX: Returning to Chrome - Reasons Unveiled</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-java-launchers-a-guide-to-property-files-on-macos-systems/"><u>Optimizing Java Launchers: A Guide to Property Files on macOS Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/selecting-the-right-tech-stack-a-comparison-between-docker-containers-and-virtual-machines/"><u>Selecting the Right Tech Stack: A Comparison Between Docker Containers and Virtual Machines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-prime-day-savings-alert-find-the-best-deals-on-autonomous-vacuums-from-leading-brands-like-roomba-and-roborock-techsavvyguru/"><u>Ultimate Prime Day Savings Alert: Find the Best Deals on Autonomous Vacuums From Leading Brands Like Roomba and Roborock | TechSavvyGuru</u></a></li>
 </ul></div>
 
