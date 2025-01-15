@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Loop Management in PCDJ with DEX 3 Walkthrough
-date: 2025-01-08T05:59:04.596Z
-updated: 2025-01-08T20:24:02.305Z
+date: 2025-01-12T16:22:40.190Z
+updated: 2025-01-15T01:12:17.632Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,22 +61,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-11-best-bridge-cameras-ultimate-review/"><u>[New] 11 Best Bridge Cameras [Ultimate Review]</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-iphone-techniques-for-seamless-image-to-pdf-conversion/"><u>[Updated] 2024 Approved IPhone Techniques for Seamless Image-to-PDF Conversion</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-innovative-techniques-for-recording-instagram-story-highlights-for-2024/"><u>[Updated] Innovative Techniques for Recording Instagram Story Highlights for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-luxury-makeup-techniques-unveiled-for-2024/"><u>[Updated] Luxury Makeup Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-dialogue-dilemma-top-8-issues-in-openais-gpt/"><u>AI Dialogue Dilemma: Top 8 Issues in OpenAI's GPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-wireless-network-card-drivers-fast-get-set-up-instantly/"><u>Download Wireless Network Card Drivers Fast - Get Set Up Instantly</u></a></li>
-<li><a href="https://win-great.techidaily.com/ensuring-perfect-hardware-and-operating-system-sync-a-windows-compatibility-check-with-yls-expert-advice/"><u>Ensuring Perfect Hardware and Operating System Sync: A Window's Compatibility Check with YL's Expert Advice</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-activating-windows-parental-control-features-via-the-control-panel-yl-computing-solutions/"><u>Guide: Activating Windows Parental Control Features via the Control Panel - YL Computing Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hear-the-buzz-of-affordability-beetalk-headset/"><u>Hear the Buzz of Affordability: BeeTalk Headset</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>In 2024, Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-x50i-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor X50i Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/integrating-sound-into-your-site-a-guide-to-adding-audio-files-yl-software-solutions/"><u>Integrating Sound Into Your Site: A Guide to Adding Audio Files - YL Software Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-windows-tenth-upkeep-proven-methods-by-professionals-at-yl-software-for-optimal-performance/"><u>Mastering Windows Tenth Upkeep: Proven Methods by Professionals at YL Software for Optimal Performance</u></a></li>
-<li><a href="https://win-great.techidaily.com/pcdj-dex-iii-v31001-latest-dj-software-upgrade-for-producers/"><u>PCDJ DEX III v3.10.0.1 - Latest DJ Software Upgrade for Producers</u></a></li>
-<li><a href="https://win-great.techidaily.com/resolution-and-aftermath-of-chinas-historic-internal-conflict-explored-by-yl-tech/"><u>Resolution and Aftermath of China's Historic Internal Conflict - Explored by YL Tech</u></a></li>
-<li><a href="https://win-great.techidaily.com/upcoming-launch-explore-the-latest-features-of-dex-djs-brand-new-mobile-app-on-ios-and-android/"><u>Upcoming Launch: Explore the Latest Features of DEX DJ's Brand-New Mobile App on iOS and Android</u></a></li>
-<li><a href="https://win-great.techidaily.com/verifying-your-pcs-compatibility-with-a-new-gpu-a-comprehensive-guide/"><u>Verifying Your PC's Compatibility With a New GPU: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-experts-at-work-swift-professional-thumbnails-for-valorant-highlights/"><u>[Updated] 2024 Approved Experts at Work Swift, Professional Thumbnails for Valorant Highlights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-gain-listener-traffic-advanced-techniques-in-podcast-seo/"><u>[Updated] 2024 Approved Gain Listener Traffic Advanced Techniques in Podcast SEO</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live/"><u>[Updated] 2024 Approved Masterclass Splitting Your Screen for Maximum Impact on Facebook Live</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-scripts-to-screen-making-youtube-splits/"><u>[Updated] In 2024, From Scripts to Screen Making YouTube Splits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-next-gen-game-viewing-top-5-hdmi-21-infinity-refresh-rates/"><u>[Updated] In 2024, Next-Gen Game Viewing Top 5 HDMI 2.1 Infinity Refresh Rates</u></a></li>
+<li><a href="https://win-great.techidaily.com/easily-reset-your-windows-to-default-settings-using-cmd-two-simple-techniques/"><u>Easily Reset Your Windows # to Default Settings Using CMD - Two Simple Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-compilation-exceptional-8k-cameras-ranked/"><u>In 2024, Ultimate Compilation Exceptional 8K Cameras Ranked</u></a></li>
+<li><a href="https://win-great.techidaily.com/outlook-mail-sichern-mit-aomei-backupper-eine-schritt-fur-schritt-anleitung/"><u>Outlook-Mail Sichern Mit AOMEI Backupper - Eine Schritt-Für-Schritt-Anleitung!</u></a></li>
+<li><a href="https://win-great.techidaily.com/verfahren-zur-wiederherstellung-geloschter-dateien-in-windows-10-eine-schritt-fur-schritt-anleitung/"><u>Verfahren Zur Wiederherstellung Gelöschter Dateien in Windows 10 – Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-11113/"><u>Windows 11/11下移动本地硬盘信息指南：3个有效方法解析</u></a></li>
 </ul></div>
 

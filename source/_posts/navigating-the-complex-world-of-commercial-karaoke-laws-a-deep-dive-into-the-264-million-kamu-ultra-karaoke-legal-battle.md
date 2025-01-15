@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complex World of Commercial Karaoke Laws: A Deep Dive Into the $264 Million Kamu Ultra Karaoke Legal Battle"
-date: 2025-01-08T10:34:52.382Z
-updated: 2025-01-09T01:25:28.886Z
+date: 2025-01-08T03:18:35.989Z
+updated: 2025-01-14T20:55:41.411Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-screen-capture-google-meet-quick-mobile-guide/"><u>[New] 2024 Approved How to Screen Capture Google Meet Quick Mobile Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-educational-gaming-content-on-youtube-for-2024/"><u>[New] Educational Gaming Content on YouTube for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/5yig5pwj44k344k544og44og44gn44gu6ieq5yuv44oh44o844k5zcm5pyf5oim55wl44go5a6f6le1/"><u>分散システムでの自動データ同期戦略と実践</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows-server-aomei-backupper/"><u>最合适的 Windows Server 数据备份解决方案: AOMEI Backupper专业版</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/highest-rated-20-public-domain-pubg-combos/"><u>Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-restore-missing-or-erased-partitions-on-windows-1011-systems/"><u>How to Restore Missing or Erased Partitions on Windows 10/11 Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/my-experience-with-opera-gx-returning-to-chrome-reasons-unveiled/"><u>My Experience with Opera GX: Returning to Chrome - Reasons Unveiled</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-java-launchers-a-guide-to-property-files-on-macos-systems/"><u>Optimizing Java Launchers: A Guide to Property Files on macOS Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/selecting-the-right-tech-stack-a-comparison-between-docker-containers-and-virtual-machines/"><u>Selecting the Right Tech Stack: A Comparison Between Docker Containers and Virtual Machines</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-prime-day-savings-alert-find-the-best-deals-on-autonomous-vacuums-from-leading-brands-like-roomba-and-roborock-techsavvyguru/"><u>Ultimate Prime Day Savings Alert: Find the Best Deals on Autonomous Vacuums From Leading Brands Like Roomba and Roborock | TechSavvyGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[New] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles/"><u>[Updated] Enhancing User Experience A Quick How-To for YouTube CC & Subtitles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights/"><u>[Updated] Metaverse Vs. Multimetaverse Distinguishing Characteristics (Comprehensive Insights)</u></a></li>
+<li><a href="https://win-great.techidaily.com/iuoajoocquodsplusodqeocpoodsplusobruw5uplusw9strlrzjlnkjjgzfjgarjgytjg5rjg7zjgrjjgbjjgqljgqjgrvjgrnjgi0i/"><u>「オンラインの幻影:存在しないページへアクセス」</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-key-audio-changer-software-for-content-creators/"><u>2024 Approved Key Audio Changer Software for Content Creators</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-aomei-central-backup-solutions-insights-and-qanda/"><u>Comprehensive AOMEI Central Backup Solutions: Insights and Q&A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-winning-webp-image-viewers-4plus/"><u>Explore Winning WebP Image Viewers: #4+</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/must-know-definition-of-digital-storytelling/"><u>Must-Know Definition of Digital Storytelling</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-steps-downloading-elgato-drivers-with-ease/"><u>Quick and Simple Steps: Downloading Elgato Drivers with Ease</u></a></li>
+<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-leitfaden-zum-klonen-eines-m2-ssd-auf-eine-sata-ssd-mit-aktiviertem-sicheren-startvorgang/"><u>Schritt-Für-Schritt-Leitfaden Zum Klonen Eines M.2 SSD Auf Eine SATA SSD Mit Aktiviertem Sicheren Startvorgang</u></a></li>
+<li><a href="https://win-great.techidaily.com/uefi-secure-bootwindows-11/"><u>UEFI Secure Bootを使って、システムを安全にWindows 11更新する方法</u></a></li>
 </ul></div>
 
