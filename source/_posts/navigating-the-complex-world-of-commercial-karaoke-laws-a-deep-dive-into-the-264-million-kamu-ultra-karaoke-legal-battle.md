@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complex World of Commercial Karaoke Laws: A Deep Dive Into the $264 Million Kamu Ultra Karaoke Legal Battle"
-date: 2025-01-08T03:18:35.989Z
-updated: 2025-01-14T20:55:41.411Z
+date: 2025-01-14T01:10:11.036Z
+updated: 2025-01-21T08:43:38.373Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[New] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles/"><u>[Updated] Enhancing User Experience A Quick How-To for YouTube CC & Subtitles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights/"><u>[Updated] Metaverse Vs. Multimetaverse Distinguishing Characteristics (Comprehensive Insights)</u></a></li>
-<li><a href="https://win-great.techidaily.com/iuoajoocquodsplusodqeocpoodsplusobruw5uplusw9strlrzjlnkjjgzfjgarjgytjg5rjg7zjgrjjgbjjgqljgqjgrvjgrnjgi0i/"><u>「オンラインの幻影:存在しないページへアクセス」</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-key-audio-changer-software-for-content-creators/"><u>2024 Approved Key Audio Changer Software for Content Creators</u></a></li>
-<li><a href="https://win-great.techidaily.com/comprehensive-aomei-central-backup-solutions-insights-and-qanda/"><u>Comprehensive AOMEI Central Backup Solutions: Insights and Q&A</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-winning-webp-image-viewers-4plus/"><u>Explore Winning WebP Image Viewers: #4+</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/must-know-definition-of-digital-storytelling/"><u>Must-Know Definition of Digital Storytelling</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-steps-downloading-elgato-drivers-with-ease/"><u>Quick and Simple Steps: Downloading Elgato Drivers with Ease</u></a></li>
-<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-leitfaden-zum-klonen-eines-m2-ssd-auf-eine-sata-ssd-mit-aktiviertem-sicheren-startvorgang/"><u>Schritt-Für-Schritt-Leitfaden Zum Klonen Eines M.2 SSD Auf Eine SATA SSD Mit Aktiviertem Sicheren Startvorgang</u></a></li>
-<li><a href="https://win-great.techidaily.com/uefi-secure-bootwindows-11/"><u>UEFI Secure Bootを使って、システムを安全にWindows 11更新する方法</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-flexible-fm-transmitter-with-bluetooth-from-sumind-bt70b-a-driving-companion/"><u>Comprehensive Review of the Flexible FM Transmitter with Bluetooth From Sumind BT70B - A Driving Companion</u></a></li>
+<li><a href="https://win-great.techidaily.com/ensure-the-safety-of-your-bitcoin-and-altcoins-with-yl-softwares-top-strategies-for-investment-protection/"><u>Ensure the Safety of Your Bitcoin and Altcoins with YL Software's Top Strategies for Investment Protection</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-itel-p55t-by-drfone-android/"><u>How to Bypass FRP on Itel P55T?</u></a></li>
+<li><a href="https://win-great.techidaily.com/master-dj-techniques-insights-from-rich-pitonyak-and-jason-jones-on-mixer-skills-djntv/"><u>Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV</u></a></li>
+<li><a href="https://win-great.techidaily.com/solving-sync-problems-detecting-hardware-conflicts-between-audio-devices-and-motherboards-tips-by-yl-systems/"><u>Solving Sync Problems: Detecting Hardware Conflicts Between Audio Devices and Motherboards – Tips by YL Systems</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-to-fixing-hardware-glitches-in-windows-yl-tech-solutions/"><u>Step-by-Step Guide to Fixing Hardware Glitches in Windows - YL Tech Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-quickest-ways-to-isolate-and-save-audio-from-online-videos/"><u>The Quickest Ways to Isolate and Save Audio From Online Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-cellphone-promotions-and-discounts-for-independence-day-insights-from-zdnet/"><u>Top Cellphone Promotions & Discounts for Independence Day - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-in-depth-comparison-of-leading-brands-like-apple-and-dell-zdnet/"><u>Top Tech Picks : In-Depth Comparison of Leading Brands Like Apple & Dell | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-resolving-chatgpt-communication-issues/"><u>Troubleshooting Guide: Resolving ChatGPT Communication Issues</u></a></li>
+<li><a href="https://win-great.techidaily.com/victorious-china-womens-visually-impaired-team-triumph-in-world-cup-qualifying-for-the-2023-paris-paralympics-insights-from-yl-software-experts/"><u>Victorious China Women’s Visually Impaired Team Triumph in World Cup, Qualifying for the 2023 Paris Paralympics – Insights From YL Software Experts</u></a></li>
 </ul></div>
 

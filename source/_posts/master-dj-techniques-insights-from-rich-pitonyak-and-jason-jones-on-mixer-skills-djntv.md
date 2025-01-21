@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2025-01-08T22:52:29.159Z
-updated: 2025-01-14T23:39:48.688Z
+date: 2025-01-18T16:59:56.820Z
+updated: 2025-01-21T04:09:10.232Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-close-up-cinematography-secrets-with-kinemaster/"><u>[New] Close-Up Cinematography Secrets with Kinemaster</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>[New] In 2024, IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality/"><u>[Updated] 2024 Approved Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bringing-your-lenovo-mouse-pad-back-to-life-comprehensive-solutions-for-windows-10-8-and-7/"><u>Bringing Your Lenovo Mouse Pad Back to Life – Comprehensive Solutions for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ehensive-guide-to-youtube-content-moderation-rules/"><u>Comprehensive Guide to YouTube Content Moderation Rules</u></a></li>
-<li><a href="https://win-great.techidaily.com/creating-sql-server-backups-using-the-backup-database-to-disk-t-sql-statement/"><u>Creating SQL Server Backups Using the 'BACKUP DATABASE TO DISK' T-SQL Statement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-convert-your-ogvs-to-mp3-at-no-cost-using-our-simple-tools/"><u>Download and Convert Your OGVs to MP3 at No Cost Using Our Simple Tools!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-steady-solutions-improving-your-utorrents-downloading-speeds/"><u>Fixing Steady Solutions: Improving Your uTorrent's Downloading Speeds</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-facile-a-lutilisation-pour-changer-le-stockage-defaut-dans-windows-11-sans-suppression/"><u>Guide Facile À L'Utilisation Pour Changer Le Stockage Défaut Dans Windows 11 Sans Suppression</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-ensure-imessage-is-active-essential-steps-for-seamless-iphone-communication/"><u>How to Ensure iMessage Is Active: Essential Steps for Seamless iPhone Communication</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c67-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C67 4G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/losung-fur-das-synchronisierungsproblem-von-goodnotes-mit-einem-mac-3-einfache-methoden/"><u>Lösung Für Das Synchronisierungsproblem Von GoodNotes Mit Einem Mac – 3 Einfache Methoden</u></a></li>
-<li><a href="https://win-great.techidaily.com/revamp-your-experience-top-9-solutions-for-unseen-icloud-music-library-on-your-iphone/"><u>Revamp Your Experience: Top 9 Solutions for Unseen iCloud Music Library on Your iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranking-wet-proof-smart-timepieces-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Wet-Proof Smart Timepieces : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-troubleshooting-tips-overcoming-windows-10-installation-hang-up-issues/"><u>Ultimate Troubleshooting Tips: Overcoming Windows 10 Installation Hang-Up Issues</u></a></li>
-<li><a href="https://win-great.techidaily.com/uncover-the-mystery-behind-your-full-c-drive-on-windows-11-and-how-to-reclaim-precious-storage/"><u>Uncover the Mystery Behind Your Full C: Drive on Windows 11 & How to Reclaim Precious Storage!</u></a></li>
-<li><a href="https://win-great.techidaily.com/althol-althory-kyfya-iaaada-tshghyl-windows-server-2012/"><u>التحول الثوري: كيفية إعادة تشغيل Windows Server 2012 ^@#@%@</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-top-3ip-apps-for-clear-audio-recordings/"><u>[New] Ideal Top 3iP Apps for Clear Audio Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-photo-care-essentials-scanning-and-securing-vintage-prints-for-2024/"><u>[New] Photo Care Essentials Scanning & Securing Vintage Prints for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>[New] The Ultimate Guide to Android Photo Enhancement 5 Top Apps</u></a></li>
+<li><a href="https://win-great.techidaily.com/des-astuces-pour-surmonter-le-blocage-lors-de-lapplication-de-acronis-true-image-wd-edition-ne-clone-pas/"><u>Des Astuces Pour Surmonter Le Blocage Lors De L'application De Acronis True Image WD Edition Ne Clone Pas</u></a></li>
+<li><a href="https://win-great.techidaily.com/download-now-cost-free-substitute-for-qnap-netbackup-system/"><u>Download Now: Cost-Free Substitute for QNAP Netbackup System!</u></a></li>
+<li><a href="https://win-great.techidaily.com/expertenrat-klonieren-sie-eine-multi-partitions-festplatte-effizient-und-sicher/"><u>Expertenrat: Klonieren Sie Eine Multi-Partitions-Festplatte Effizient Und Sicher</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n53-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme Narzo N53 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11-10-7-systems/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11 / 10 / 7 Systems</u></a></li>
+<li><a href="https://win-great.techidaily.com/locating-your-league-match-replays-storage-and-retrieval-guidelines/"><u>Locating Your League Match Replays: Storage and Retrieval Guidelines</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-timers-fixing-scheduler-errors/"><u>Master Your Timers: Fixing Scheduler Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-ecosystems-role-in-stopping-the-pandemic-pretenses/"><u>Online Ecosystems' Role in Stopping the Pandemic Pretenses</u></a></li>
+<li><a href="https://win-great.techidaily.com/schnelle-abhilfe-gegen-ihre-geratesteckprobleme-entdecken-sie-die-effizientesten-losungsmethoden/"><u>Schnelle Abhilfe Gegen Ihre Gerätesteckprobleme: Entdecken Sie Die Effizientesten Lösungsmethoden</u></a></li>
+<li><a href="https://win-great.techidaily.com/trois-strategies-efficaces-pour-debloquer-le-processus-de-restauration-du-sysytem-et-reinitialiser-le-registre/"><u>Trois Stratégies Efficaces Pour Débloquer Le Processus De Restauration Du Sysytem Et Réinitialiser Le Registre</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2025-01-09T20:05:17.377Z
-updated: 2025-01-15T02:15:07.122Z
+date: 2025-01-15T17:38:09.140Z
+updated: 2025-01-21T01:34:38.004Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,18 +84,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-comprehensive-guide-to-concealed-snap-stories/"><u>[New] 2024 Approved The Comprehensive Guide to Concealed Snap Stories</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-meme-creation-at-its-peak-10-templates-unveiled/"><u>[New] Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-editors-edge-secrets-to-professional-photo-refining/"><u>[Updated] In 2024, The Editor's Edge Secrets to Professional Photo Refining</u></a></li>
-<li><a href="https://win-great.techidaily.com/activating-imap-functionality-for-gmail-expert-advice-by-yl-software-solutions/"><u>Activating IMAP Functionality for Gmail: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/auditioning-audio-excellence-try-these-complimentary-behringer-driver-packs/"><u>Auditioning Audio Excellence? Try These Complimentary Behringer Driver Packs</u></a></li>
-<li><a href="https://win-great.techidaily.com/detecting-malware-signs-your-pc-might-be-infected-guidance-from-yl-computing/"><u>Detecting Malware: Signs Your PC Might Be Infected - Guidance From YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-steps-to-create-and-manage-zip-archives-a-guide-by-yl-computing/"><u>Easy Steps to Create and Manage ZIP Archives: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-rapide-a-la-copie-du-message-demarrage-dun-serveur-windows-server-versions-2003-2008-et-2012-sans-reinstaller/"><u>Guide Rapide À La Copie Du Message Démarrage D’un Serveur Windows Server (Versions 2003, 2008 Et 2012) Sans Réinstaller</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/investor-confidence-soars-as-china-implements-new-stimulus-measures-and-the-federal-reserve-eases-policies-resulting-in-a-rise-of-straits-times-index-to-32118/"><u>Investor Confidence Soars as China Implements New Stimulus Measures & the Federal Reserve Eases Policies, Resulting in a Rise of Straits Times Index to 3213.n8 Points; Asian Markets on an Upward Trend - YL Computing's Analysis</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-startech-printer-driver-complications-on-windows-10-8-and-7/"><u>Resolving StarTech Printer Driver Complications on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-great.techidaily.com/yl-computing-guide-easily-monitor-your-usdt-funds-on-macos-with-our-step-by-step-tutorial/"><u>YL Computing Guide: Easily Monitor Your USDT Funds on MacOS with Our Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/yl-softwares-ultimate-tips-for-spotting-and-deleting-viruses-from-your-computer-system/"><u>YL Software's Ultimate Tips for Spotting and Deleting Viruses From Your Computer System</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-studios-comprehensive-guide-to-video-post-production/"><u>[Updated] In 2024, YouTube Studio's Comprehensive Guide to Video Post Production</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/pro/"><u>「超簡単」:プレミアPro動画容量軽減のコツとテクニック</u></a></li>
+<li><a href="https://win-great.techidaily.com/etapes-pour-sauvegarde-de-windows-server-201/"><u>Etapes Pour Sauvegarde De Windows Server 201</u></a></li>
+<li><a href="https://win-great.techidaily.com/guida-passo-passo-spostare-i-file-tra-ssd-e-hdd-in-qualsiasi-versione-di-windows/"><u>Guida Passo-Passo: Spostare I File Tra SSD E HDD in Qualsiasi Versione Di Windows</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-de-sauvegarde-dun-disque-en-utilisant-gpt-a-un-ssd-pour-les-systemes-dexploitation-windows-x11-x10-et-plus-anciens/"><u>Guide De Sauvegarde D'un Disque en Utilisant GPT À Un SSD Pour Les Systèmes D’exploitation Windows : X11, X10 Et Plus Anciens.</u></a></li>
+<li><a href="https://win-great.techidaily.com/gute-vorsichtsmassnahmen-treffen-wie-man-ein-backup-fur-windows-10-vor-dem-upgrade-zu-windows-11-erstellt/"><u>Gute Vorsichtsmaßnahmen Treffen: Wie Man Ein Backup Für Windows 10 Vor Dem Upgrade Zu Windows 11 Erstellt</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/herramientas-esenciales-para-reemplazar-windows-easy-transfer-y-pasar-archivos-mediante-el-sistema-de-linea-de-comandos/"><u>Herramientas Esenciales Para Reemplazar Windows Easy Transfer Y Pasar Archivos Mediante El Sistema De Línea De Comandos</u></a></li>
+<li><a href="https://win-great.techidaily.com/jawaban-untung-bagi-kendua-ketika-partisi-datanya-disaatnya-hilang-di-disk-ekster/"><u>Jawaban Untung Bagi Kendua Ketika Partisi Datanya Disaatnya Hilang Di Disk Ekster</u></a></li>
+<li><a href="https://win-great.techidaily.com/navigating-the-void-understanding-and-fixing-error-404-pages/"><u>Navigating the Void: Understanding and Fixing 'Error 404' Pages</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-animated-photo-makers-easy-and-effortless/"><u>New 2024 Approved Top 10 Animated Photo Makers Easy and Effortless</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pros-and-tips-building-realistic-3d-text-in-photos-for-2024/"><u>Pros and Tips Building Realistic 3D Text in PHOTOS for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/seamless-file-sharing-tips-how-to-connect-your-local-folders-to-dropbox-from-various-locations-3-proven-strategies/"><u>Seamless File Sharing Tips: How to Connect Your Local Folders to Dropbox From Various Locations (3 Proven Strategies)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-softwares-de-edicao-de-audio-mais-eficientes-para-windows-e-mac-facil-acesso-publico/"><u>Top 15 Softwares De Edição De Áudio Mais Eficientes Para Windows E Mac - Fácil Acesso Público</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-rated-tools-for-fixing-damaged-images-and-restoring-lost-data/"><u>Top Rated Tools for Fixing Damaged Images & Restoring Lost Data</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-snapchat-camera-problem-no-input-detected-solution/"><u>Troubleshooting Snapchat Camera Problem: No Input Detected Solution</u></a></li>
 </ul></div>
 
