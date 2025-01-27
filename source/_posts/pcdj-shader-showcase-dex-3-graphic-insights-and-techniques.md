@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Shader Showcase: DEX 3 Graphic Insights & Techniques"
-date: 2025-01-18T22:22:45.750Z
-updated: 2025-01-21T07:54:48.895Z
+date: 2025-01-21T07:41:25.855Z
+updated: 2025-01-26T21:17:05.870Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for On-Screen Beat-Aware Visualizations (Copy/Paste link “Add Shader” Menu)
@@ -68,13 +68,13 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** for on-screen **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -96,14 +96,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/shaders-from-shadertoy.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/iuoajoocquodsplusodqeocpoodsplusobruw5uplusw9strlrzjlnkjjgzfjgarjgytjg5rjg7zjgrjjgbjjgqljgqjgrvjgrnjgi0i/"><u>「オンラインの幻影:存在しないページへアクセス」</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-top-freeware-versionshadowing-software-best-free-alternatives-to-aomei-backupper-in-2/"><u>1. Top Freeware Versionshadowing Software: Best Free Alternatives to AOMEI Backupper in 2</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y78plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y78+ Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/activate-or-deactivate-pc-visibility-in-your-local-network-using-windows-11/"><u>Activate or Deactivate PC Visibility in Your Local Network Using Windows 11</u></a></li>
-<li><a href="https://win-great.techidaily.com/controlar-acceso-a-archivos-vistos-ultimamente-en-windows-11-trampas-para-activardesactivar-la-funcion/"><u>Controlar Acceso a Archivos Vistos Últimamente en Windows 11 | Trampas Para Activar/Desactivar La Función</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-secure-stylish-discover-the-top-10-premium-feeling-video-call-apps-for-smartphones/"><u>In 2024, Free, Secure, Stylish Discover the Top 10 Premium-Feeling Video Call Apps for Smartphones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>In 2024, The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snowdrift-scribes-celebrating-beijings-olympic-spotlight-for-2024/"><u>Snowdrift Scribes Celebrating Beijing's Olympic Spotlight for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/uefi-secure-bootwindows-11/"><u>UEFI Secure Bootを使って、システムを安全にWindows 11更新する方法</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-piecing-together-an-epic-tiktok-conclusion/"><u>[New] In 2024, Piecing Together an Epic TikTok Conclusion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/evenue-rationale-calculating-your-average-earning-from-adsense-per-k-views/"><u>[New] Revenue Rationale Calculating Your Average Earning From AdSense per K Views</u></a></li>
+<li><a href="https://win-great.techidaily.com/toute-linformation-necessaire-comment-migrer-efficacement-vos-donnees-du-disque-dur-vers-un-ssd-via-usb-le-guide-detaille/"><u>[Toute L'information Nécessaire !] Comment Migrer Efficacement Vos Données Du Disque Dur Vers Un SSD via USB : Le Guide Détaillé.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-compiled-list-of-top-3ip-ipad-voice-recorders/"><u>[Updated] 2024 Approved Compiled List of Top 3iP iPad Voice Recorders</u></a></li>
+<li><a href="https://win-great.techidaily.com/budget-friendly-hassle-free-windows-network-backup-tools-your-comprehensive-list/"><u>Budget-Friendly, Hassle-Free Windows Network Backup Tools – Your Comprehensive List!</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-restore-missing-or-erased-partitions-on-windows-1011-systems/"><u>How to Restore Missing or Erased Partitions on Windows 10/11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/maximizing-efficiency-streamlined-methods-to-download-vimeo-videos/"><u>Maximizing Efficiency Streamlined Methods to Download Vimeo Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/selecting-the-right-tech-stack-a-comparison-between-docker-containers-and-virtual-machines/"><u>Selecting the Right Tech Stack: A Comparison Between Docker Containers and Virtual Machines</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-5-tunefab-screen-recording-tips-and-tricks/"><u>Top 5 Tunefab Screen Recording Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformacion-gratis-y-rapida-de-formatos-convierte-mp4-en-wmv-online-con-movavi/"><u>Transformación Gratis Y Rápida De Formatos: Convierte MP4 en WMV Online Con Movavi</u></a></li>
+<li><a href="https://win-great.techidaily.com/bezuprechnyj-sposob-klonirovaniya-ssd-v-windows-11-rukovodstvo-po-kopirovaniyu-na-bolshoj-ssd/"><u>Безупречный Способ Клонирования SSD В Windows 11: Руководство По Копированию На Большой SSD</u></a></li>
 </ul></div>
 

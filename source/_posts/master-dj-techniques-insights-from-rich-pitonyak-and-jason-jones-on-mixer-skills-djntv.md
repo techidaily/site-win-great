@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2025-01-18T16:59:56.820Z
-updated: 2025-01-21T04:09:10.232Z
+date: 2025-01-22T16:23:09.695Z
+updated: 2025-01-26T21:03:14.725Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,19 +42,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-top-3ip-apps-for-clear-audio-recordings/"><u>[New] Ideal Top 3iP Apps for Clear Audio Recordings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-photo-care-essentials-scanning-and-securing-vintage-prints-for-2024/"><u>[New] Photo Care Essentials Scanning & Securing Vintage Prints for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>[New] The Ultimate Guide to Android Photo Enhancement 5 Top Apps</u></a></li>
-<li><a href="https://win-great.techidaily.com/des-astuces-pour-surmonter-le-blocage-lors-de-lapplication-de-acronis-true-image-wd-edition-ne-clone-pas/"><u>Des Astuces Pour Surmonter Le Blocage Lors De L'application De Acronis True Image WD Edition Ne Clone Pas</u></a></li>
-<li><a href="https://win-great.techidaily.com/download-now-cost-free-substitute-for-qnap-netbackup-system/"><u>Download Now: Cost-Free Substitute for QNAP Netbackup System!</u></a></li>
-<li><a href="https://win-great.techidaily.com/expertenrat-klonieren-sie-eine-multi-partitions-festplatte-effizient-und-sicher/"><u>Expertenrat: Klonieren Sie Eine Multi-Partitions-Festplatte Effizient Und Sicher</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n53-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme Narzo N53 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11-10-7-systems/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11 / 10 / 7 Systems</u></a></li>
-<li><a href="https://win-great.techidaily.com/locating-your-league-match-replays-storage-and-retrieval-guidelines/"><u>Locating Your League Match Replays: Storage and Retrieval Guidelines</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-your-timers-fixing-scheduler-errors/"><u>Master Your Timers: Fixing Scheduler Errors</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-ecosystems-role-in-stopping-the-pandemic-pretenses/"><u>Online Ecosystems' Role in Stopping the Pandemic Pretenses</u></a></li>
-<li><a href="https://win-great.techidaily.com/schnelle-abhilfe-gegen-ihre-geratesteckprobleme-entdecken-sie-die-effizientesten-losungsmethoden/"><u>Schnelle Abhilfe Gegen Ihre Gerätesteckprobleme: Entdecken Sie Die Effizientesten Lösungsmethoden</u></a></li>
-<li><a href="https://win-great.techidaily.com/trois-strategies-efficaces-pour-debloquer-le-processus-de-restauration-du-sysytem-et-reinitialiser-le-registre/"><u>Trois Stratégies Efficaces Pour Débloquer Le Processus De Restauration Du Sysytem Et Réinitialiser Le Registre</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-art-of-antiquated-visuals-for-modern-audienciplines/"><u>[New] In 2024, The Art of Antiquated Visuals for Modern Audienciplines</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-youtubes-algorithm-a-comprehensive-guide-to-seo/"><u>[New] Leveraging YouTube's Algorithm A Comprehensive Guide to SEO</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-visuals-what-sets-360-apart-in-2024/"><u>[Updated] Comprehensive Visuals What Sets 360° Apart, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-guide-uploading-subtitles-via-social-networks/"><u>2024 Approved Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728468876751-usb/"><u>迅速回复：如何创造无USB驱动的系统图形化界面</u></a></li>
+<li><a href="https://win-great.techidaily.com/decouvrez-les-diverses-methodes-pour-refactoriser-windows-nous-passant-outre-la-fonction-point-de-restauration/"><u>Découvrez Les Diverses Méthodes Pour Refactoriser Windows Nous Passant Outre La Fonction Point De Restauration</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-activate-dell-apex-data-protection-exploring-other-viable-choices/"><u>How to Activate Dell Apex Data Protection: Exploring Other Viable Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immerse-yourself-in-social-media-vision-pros-new-tiktok-compatibility-boosts-scrolling-fun-zdnet/"><u>Immerse Yourself in Social Media: Vision Pro's New TikTok Compatibility Boosts Scrolling Fun - ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/iphone-tips-for-time-dilation-in-videography/"><u>IPhone Tips for Time-Dilation in Videography</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-download-edit-and-share-the-complete-online-video-guide-for-2024/"><u>New Download, Edit, and Share The Complete Online Video Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-of-ai-chatgpt-for-your-android-device/"><u>The New Frontier of AI: ChatGPT for Your Android Device</u></a></li>
+<li><a href="https://win-great.techidaily.com/verfahren-zur-wiederherstellung-geloschter-ordner-und-dokumente-auf-microsofts-onedrive/"><u>Verfahren Zur Wiederherstellung Gelöschter Ordner Und Dokumente Auf Microsofts OneDrive</u></a></li>
+<li><a href="https://win-great.techidaily.com/wd-naswd-my-cloudwindows-pc/"><u>WD NASやWD My CloudシリーズでWindows PCを確実にセーフガードする方法</u></a></li>
+<li><a href="https://win-great.techidaily.com/weld-sequence/"><u>Weld Sequence</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-server-201-disk-copying-techniques-two-effective-approaches/"><u>Windows Server 201# Disk Copying Techniques: Two Effective Approaches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2025-01-15T17:38:09.140Z
-updated: 2025-01-21T01:34:38.004Z
+date: 2025-01-19T22:39:20.936Z
+updated: 2025-01-26T16:25:59.637Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,22 +84,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-studios-comprehensive-guide-to-video-post-production/"><u>[Updated] In 2024, YouTube Studio's Comprehensive Guide to Video Post Production</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/pro/"><u>「超簡単」:プレミアPro動画容量軽減のコツとテクニック</u></a></li>
-<li><a href="https://win-great.techidaily.com/etapes-pour-sauvegarde-de-windows-server-201/"><u>Etapes Pour Sauvegarde De Windows Server 201</u></a></li>
-<li><a href="https://win-great.techidaily.com/guida-passo-passo-spostare-i-file-tra-ssd-e-hdd-in-qualsiasi-versione-di-windows/"><u>Guida Passo-Passo: Spostare I File Tra SSD E HDD in Qualsiasi Versione Di Windows</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-de-sauvegarde-dun-disque-en-utilisant-gpt-a-un-ssd-pour-les-systemes-dexploitation-windows-x11-x10-et-plus-anciens/"><u>Guide De Sauvegarde D'un Disque en Utilisant GPT À Un SSD Pour Les Systèmes D’exploitation Windows : X11, X10 Et Plus Anciens.</u></a></li>
-<li><a href="https://win-great.techidaily.com/gute-vorsichtsmassnahmen-treffen-wie-man-ein-backup-fur-windows-10-vor-dem-upgrade-zu-windows-11-erstellt/"><u>Gute Vorsichtsmaßnahmen Treffen: Wie Man Ein Backup Für Windows 10 Vor Dem Upgrade Zu Windows 11 Erstellt</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/herramientas-esenciales-para-reemplazar-windows-easy-transfer-y-pasar-archivos-mediante-el-sistema-de-linea-de-comandos/"><u>Herramientas Esenciales Para Reemplazar Windows Easy Transfer Y Pasar Archivos Mediante El Sistema De Línea De Comandos</u></a></li>
-<li><a href="https://win-great.techidaily.com/jawaban-untung-bagi-kendua-ketika-partisi-datanya-disaatnya-hilang-di-disk-ekster/"><u>Jawaban Untung Bagi Kendua Ketika Partisi Datanya Disaatnya Hilang Di Disk Ekster</u></a></li>
-<li><a href="https://win-great.techidaily.com/navigating-the-void-understanding-and-fixing-error-404-pages/"><u>Navigating the Void: Understanding and Fixing 'Error 404' Pages</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-animated-photo-makers-easy-and-effortless/"><u>New 2024 Approved Top 10 Animated Photo Makers Easy and Effortless</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-and-tips-building-realistic-3d-text-in-photos-for-2024/"><u>Pros and Tips Building Realistic 3D Text in PHOTOS for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/seamless-file-sharing-tips-how-to-connect-your-local-folders-to-dropbox-from-various-locations-3-proven-strategies/"><u>Seamless File Sharing Tips: How to Connect Your Local Folders to Dropbox From Various Locations (3 Proven Strategies)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-softwares-de-edicao-de-audio-mais-eficientes-para-windows-e-mac-facil-acesso-publico/"><u>Top 15 Softwares De Edição De Áudio Mais Eficientes Para Windows E Mac - Fácil Acesso Público</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-rated-tools-for-fixing-damaged-images-and-restoring-lost-data/"><u>Top Rated Tools for Fixing Damaged Images & Restoring Lost Data</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-snapchat-camera-problem-no-input-detected-solution/"><u>Troubleshooting Snapchat Camera Problem: No Input Detected Solution</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-discover-hidden-gems-top-7-under-the-radar-tiktok-emojis/"><u>[New] Discover Hidden Gems Top 7 Under-the-Radar TikTok Emojis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-learn-efficient-techniques-for-clearing-backdrop-in-figma/"><u>[Updated] Learn Efficient Techniques for Clearing Backdrop In Figma</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-resetting-your-stream-reverse-your-video-order-now/"><u>[Updated] Resetting Your Stream Reverse Your Video Order Now</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728477762942-windows-sd/"><u>跨越不同版本——在 Windows 操作系统中如何设置 SD 卡镜像</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-with-intova-edge-x/"><u>Behind the Scenes with Intova Edge X</u></a></li>
+<li><a href="https://win-great.techidaily.com/como-hacer-una-copia-de-seguridad-facil-y-restaurar-el-sistema-windows-7-correctamente/"><u>Cómo Hacer Una Copia De Seguridad Fácil Y Restaurar El Sistema Windows 7 Correctamente</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-optimizing-your-website-with-advanced-tracking-technology/"><u>Cookiebot - Optimizing Your Website with Advanced Tracking Technology</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-restore-factory-settings-on-your-business-laptop-effortless-techniques-excluding-full-os-reinstall/"><u>How to Restore Factory Settings on Your Business Laptop - Effortless Techniques Excluding Full OS Reinstall</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-use-an-external-hdd-for-booting-in-windows-11-top-3-techniques/"><u>How to Use an External HDD for Booting in Windows 11 - Top 3 Techniques</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-use-emojis-on-windows/"><u>How to Use Emojis on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/professional-fb-ad-videos-made-simple-free-kit-included-for-2024/"><u>Professional FB Ad Videos Made Simple – Free Kit Included for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/sicherung-von-vmware-virtual-machines-die-effektivsten-strategien-fur-externe-speichersysteme-verstehen-und-umsetzen/"><u>Sicherung Von VMware Virtual Machines: Die Effektivsten Strategien Für Externe Speichersysteme Verstehen Und Umsetzen</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-10-warning-indicators-of-a-failing-hard-disk-essential-knowledge-and-restoration-strategies/"><u>Top 10 Warning Indicators of a Failing Hard Disk: Essential Knowledge & Restoration Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Loop Management in PCDJ with DEX 3 Walkthrough
-date: 2025-01-17T19:32:21.742Z
-updated: 2025-01-21T00:29:17.733Z
+date: 2025-01-26T01:59:01.424Z
+updated: 2025-01-26T19:02:08.207Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-filmmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>[New] 2024 Approved A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-gopro-editing-straightening-fisheye-lens/"><u>[New] Advanced GoPro Editing Straightening Fisheye Lens</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-screen-snaps-for-mac-users-max-156-chars/"><u>[New] In 2024, Ultimate Screen Snaps for Mac Users (Max 156 Chars)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-sharexs-competitors-unveiled-for-2024/"><u>[New] ShareX's Competitors Unveiled for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-troubleshooting-website-blockages-insights-from-yl-computings-expertise/"><u>1. Troubleshooting Website Blockages: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-guide-setting-up-openwizard-in-kodi-for-ultimate-system-care-and-smart-data-management/"><u>Effortless Guide: Setting Up OpenWizard in Kodi for Ultimate System Care & Smart Data Management</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-forge-an-impeccable-vr-self-representation/"><u>How to Forge an Impeccable VR Self-Representation</u></a></li>
-<li><a href="https://win-great.techidaily.com/master-safe-crypto-trading-essential-strategies-and-tools-from-yl-software-for-confident-buying-and-selling/"><u>Master Safe Crypto Trading: Essential Strategies and Tools From YL Software for Confident Buying & Selling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-cannot-locate-regedit-exe-in-windows/"><u>Overcoming Cannot Locate Regedit Exe in Windows</u></a></li>
-<li><a href="https://win-great.techidaily.com/troubleshooting-steps-when-your-pc-ignores-the-graphics-card-tips-from-yl-computing/"><u>Troubleshooting Steps When Your PC Ignores the Graphics Card - Tips From YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/troubleshooting-tips-fixing-improper-scanner-driver-installations-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: Fixing Improper Scanner Driver Installations - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/turning-bitcoin-and-altcoins-into-banknotes-a-guide-from-yl-software-experts/"><u>Turning Bitcoin and Altcoins Into Banknotes: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://win-great.techidaily.com/understanding-virtual-memory-a-comprehensive-guide-by-yl-computing/"><u>Understanding Virtual Memory: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-journey-through-ingenious-animated-texts-top-14-snapshots-for-2024/"><u>[Updated] Journey Through Ingenious Animated Texts Top 14 Snapshots for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-messenger-and-instagram-direct-chats-wont-be-encrypted-until-2022/"><u>Facebook Messenger and Instagram Direct Chats Won't Be Encrypted Until 2022</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-facile-a-lutilisation-pour-changer-le-stockage-defaut-dans-windows-11-sans-suppression/"><u>Guide Facile À L'Utilisation Pour Changer Le Stockage Défaut Dans Windows 11 Sans Suppression</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nokia-c22-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nokia C22 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-twitter-vids-to-mp3-easy-extraction-techniques/"><u>In 2024, Twitter Vids to MP3 Easy Extraction Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-job-quests-6-chatgpt-techniques-explored/"><u>Innovating Job Quests: 6 ChatGPT Techniques Explored</u></a></li>
+<li><a href="https://win-great.techidaily.com/revamp-your-experience-top-9-solutions-for-unseen-icloud-music-library-on-your-iphone/"><u>Revamp Your Experience: Top 9 Solutions for Unseen iCloud Music Library on Your iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-pc-that-wont-proceed-past-the-windows-preparation-stage/"><u>Step-by-Step Guide to Fixing a PC That Won't Proceed Past the Windows Preparation Stage</u></a></li>
+<li><a href="https://win-great.techidaily.com/uncover-the-mystery-behind-your-full-c-drive-on-windows-11-and-how-to-reclaim-precious-storage/"><u>Uncover the Mystery Behind Your Full C: Drive on Windows 11 & How to Reclaim Precious Storage!</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-11-systemwiederherstellung-bei-festplattenfehlern-erfolgreich-durchfuhren-mit-5-tipps/"><u>Windows 11 Systemwiederherstellung Bei Festplattenfehlern - Erfolgreich Durchführen Mit 5 Tipps</u></a></li>
+<li><a href="https://win-great.techidaily.com/althol-althory-kyfya-iaaada-tshghyl-windows-server-2012/"><u>التحول الثوري: كيفية إعادة تشغيل Windows Server 2012 ^@#@%@</u></a></li>
 </ul></div>
 
