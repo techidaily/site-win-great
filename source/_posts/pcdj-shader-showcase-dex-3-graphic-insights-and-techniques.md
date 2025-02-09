@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Shader Showcase: DEX 3 Graphic Insights & Techniques"
-date: 2025-01-21T07:41:25.855Z
-updated: 2025-01-26T21:17:05.870Z
+date: 2025-02-06T03:13:52.504Z
+updated: 2025-02-09T01:37:51.126Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for On-Screen Beat-Aware Visualizations (Copy/Paste link “Add Shader” Menu)
@@ -68,13 +68,13 @@ Please find a few Shaders below that work great with DEX 3\. Keep in mind that S
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** for on-screen **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -96,17 +96,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/shaders-from-shadertoy.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-piecing-together-an-epic-tiktok-conclusion/"><u>[New] In 2024, Piecing Together an Epic TikTok Conclusion</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/evenue-rationale-calculating-your-average-earning-from-adsense-per-k-views/"><u>[New] Revenue Rationale Calculating Your Average Earning From AdSense per K Views</u></a></li>
-<li><a href="https://win-great.techidaily.com/toute-linformation-necessaire-comment-migrer-efficacement-vos-donnees-du-disque-dur-vers-un-ssd-via-usb-le-guide-detaille/"><u>[Toute L'information Nécessaire !] Comment Migrer Efficacement Vos Données Du Disque Dur Vers Un SSD via USB : Le Guide Détaillé.</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-compiled-list-of-top-3ip-ipad-voice-recorders/"><u>[Updated] 2024 Approved Compiled List of Top 3iP iPad Voice Recorders</u></a></li>
-<li><a href="https://win-great.techidaily.com/budget-friendly-hassle-free-windows-network-backup-tools-your-comprehensive-list/"><u>Budget-Friendly, Hassle-Free Windows Network Backup Tools – Your Comprehensive List!</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-restore-missing-or-erased-partitions-on-windows-1011-systems/"><u>How to Restore Missing or Erased Partitions on Windows 10/11 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/maximizing-efficiency-streamlined-methods-to-download-vimeo-videos/"><u>Maximizing Efficiency Streamlined Methods to Download Vimeo Videos</u></a></li>
-<li><a href="https://win-great.techidaily.com/selecting-the-right-tech-stack-a-comparison-between-docker-containers-and-virtual-machines/"><u>Selecting the Right Tech Stack: A Comparison Between Docker Containers and Virtual Machines</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-5-tunefab-screen-recording-tips-and-tricks/"><u>Top 5 Tunefab Screen Recording Tips & Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformacion-gratis-y-rapida-de-formatos-convierte-mp4-en-wmv-online-con-movavi/"><u>Transformación Gratis Y Rápida De Formatos: Convierte MP4 en WMV Online Con Movavi</u></a></li>
-<li><a href="https://win-great.techidaily.com/bezuprechnyj-sposob-klonirovaniya-ssd-v-windows-11-rukovodstvo-po-kopirovaniyu-na-bolshoj-ssd/"><u>Безупречный Способ Клонирования SSD В Windows 11: Руководство По Копированию На Большой SSD</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-firefox-screen-recorders-and-add-ons/"><u>[New] Firefox Screen Recorders and Add-Ons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>[New] In 2024, Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube/"><u>Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ngs-update-navigating-youtube-monetization/"><u>Earnings Update Navigating YouTube Monetization</u></a></li>
+<li><a href="https://win-great.techidaily.com/guida-rapida-alla-creazione-di-icone-di-sistema-personalizzate-per-windows-1011/"><u>Guida Rapida Alla Creazione Di Icone Di Sistema Personalizzate per Windows 10/11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-perfect-spelling-on-your-iphone-fixing-6-common-autocorrect-faults/"><u>Master the Art of Perfect Spelling on Your iPhone – Fixing 6 Common Autocorrect Faults!</u></a></li>
+<li><a href="https://win-great.techidaily.com/sabrent-datentransfer-und-systemmigration-mit-sichererem-bios-start/"><u>Sabrent Datentransfer Und Systemmigration Mit Sichererem BIOS-Start</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-simplified-factory-restoration-of-ssd-hardware-for-enhanced-security/"><u>Step-by-Step Guide: Simplified Factory Restoration of SSD Hardware for Enhanced Security</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-successfully-moving-your-esim-from-older-iphones-to-iphone-1514/"><u>Step-by-Step Guide: Successfully Moving Your eSIM From Older iPhones to iPhone 15/14</u></a></li>
+<li><a href="https://win-great.techidaily.com/wie-sie-mit-powershell-daten-nahtlos-verschieben-und-neu-anordnen/"><u>Wie Sie Mit PowerShell Daten Nahtlos Verschieben Und Neu Anordnen</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-software-reveals-top-picks-for-efficiently-tracking-your-cryptocurrency-investments/"><u>YL Software Reveals Top Picks for Efficiently Tracking Your Cryptocurrency Investments</u></a></li>
 </ul></div>
 

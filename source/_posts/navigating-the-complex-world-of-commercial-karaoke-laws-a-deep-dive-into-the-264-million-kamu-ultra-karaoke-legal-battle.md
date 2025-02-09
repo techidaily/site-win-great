@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complex World of Commercial Karaoke Laws: A Deep Dive Into the $264 Million Kamu Ultra Karaoke Legal Battle"
-date: 2025-01-21T07:44:11.399Z
-updated: 2025-01-26T16:21:59.547Z
+date: 2025-02-06T03:43:29.091Z
+updated: 2025-02-08T21:29:45.718Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-navigating-picture-in-picture-settings-for-iphone-and-ipad/"><u>[Updated] Navigating Picture-in-Picture Settings for iPhone & iPad</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-fb-instream-ad-strategies-from-configuration-to-evaluation-for-2024/"><u>[Updated] Unveiling FB Instream Ad Strategies From Configuration to Evaluation for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728498719391-windows-11/"><u>効率的にWindows 11リカバリーパーティションを作成・使用するための手引き - ２つの方法</u></a></li>
-<li><a href="https://win-great.techidaily.com/boost-your-wi-fi-performance-expert-tips-from-yl-computings-tech-experts/"><u>Boost Your Wi-Fi Performance: Expert Tips From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effective-solutions-to-tackle-your-hp-officejet-pro-6978s-driver-issues/"><u>Effective Solutions to Tackle Your HP Officejet Pro 6978'S Driver Issues</u></a></li>
-<li><a href="https://win-great.techidaily.com/effective-techniques-to-maintain-your-scanner-and-avoid-breakdowns-tips-from-yl-computing/"><u>Effective Techniques to Maintain Your Scanner and Avoid Breakdowns: Tips From YL Computing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-your-visual-storytelling-ios-and-androids-best-image-stickers-for-2024/"><u>Elevate Your Visual Storytelling IOS & Android's Best Image Stickers for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/exploring-typical-challenges-of-connectivity-adapters-a-guide-by-yl-software/"><u>Exploring Typical Challenges of Connectivity Adapters: A Guide by YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-15-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 15 iOS System? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s24-ultra-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S24 Ultra for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-finest-5-android-image-boosters/"><u>In 2024, The Finest 5 Android Image Boosters</u></a></li>
-<li><a href="https://win-great.techidaily.com/one-child-policy-outcomes-impactful-shifts-explored-by-yl-computing-and-yl-software/"><u>One-Child Policy Outcomes: Impactful Shifts Explored by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-great.techidaily.com/sing-your-heart-out-with-the-latest-additions-to-our-karaoke-library-special-early-access-for-subscribers-of-karaoke-cloud-pro/"><u>Sing Your Heart Out with the Latest Additions to Our Karaoke Library - Special Early Access for Subscribers of Karaoke Cloud Pro!</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-utilizing-windows-defender-for-enhanced-security-yl-software-insights/"><u>Step-by-Step Tutorial on Utilizing Windows Defender for Enhanced Security - YL Software Insights</u></a></li>
-<li><a href="https://win-great.techidaily.com/stunning-purple-aesthetic-wallpaper-designs-and-images-yl-computings-exclusive-collection/"><u>Stunning Purple Aesthetic Wallpaper Designs & Images - YL Computing's Exclusive Collection</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-disconnections-in-fallout-76-for-a-smoother-gaming-experience/"><u>Troubleshoot Disconnections in Fallout 76 for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-great.techidaily.com/try-the-latest-karaoke-pro-software-free-demo-of-karaoki-v097978-by-pioneer-dj/"><u>Try the Latest Karaoke Pro Software - Free Demo of Karaoki v0.9.7978 by Pioneer DJ</u></a></li>
-<li><a href="https://win-great.techidaily.com/yl-softwares-high-definition-loopable-slow-motion-waterfall-hd-wallpaper-with-audio-track/"><u>YL Software's High Definition, Loopable Slow Motion Waterfall HD Wallpaper With Audio Track</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-economical-drones-reviewed-best-under-a-hundred-bucks/"><u>[New] Economical Drones Reviewed Best Under a Hundred Bucks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-advanced-techniques-for-trimming-youtube-footage/"><u>[New] In 2024, Advanced Techniques for Trimming YouTube Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>[Updated] The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transforming-scenes-with-ease-your-gopro-time-lapse-guide-for-2024/"><u>[Updated] Transforming Scenes with Ease Your GoPro Time-Lapse Guide for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/1-top-freeware-versionshadowing-software-best-free-alternatives-to-aomei-backupper-in-2/"><u>1. Top Freeware Versionshadowing Software: Best Free Alternatives to AOMEI Backupper in 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-error-0x8000ffff-in-windows-based-printers/"><u>Conquering Error 0X8000FFFF in Windows-Based Printers</u></a></li>
+<li><a href="https://win-great.techidaily.com/controlar-acceso-a-archivos-vistos-ultimamente-en-windows-11-trampas-para-activardesactivar-la-funcion/"><u>Controlar Acceso a Archivos Vistos Últimamente en Windows 11 | Trampas Para Activar/Desactivar La Función</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-leading-portable-screening-devices-cnet-insights/"><u>Expert Picks: Leading Portable Screening Devices | CNET Insights</u></a></li>
+<li><a href="https://win-great.techidaily.com/expert-tips-for-fixing-windows-error-0xc0000221-comprehensive-guide/"><u>Expert Tips for Fixing Windows Error 0xC0000221 - Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/from-windows-11-32-bit-to-a-64-bit-operating-system/"><u>From Windows 11 (32-Bit) to a 64-Bit Operating System</u></a></li>
+<li><a href="https://win-great.techidaily.com/iphone-picture-retrieval-masterclass-effectively-recovering-permanently-erased-photos-effortlessly/"><u>IPhone Picture Retrieval Masterclass: Effectively Recovering Permanently Erased Photos Effortlessly</u></a></li>
+<li><a href="https://win-great.techidaily.com/metodo-tecnico-effettivo-per-il-backup-dei-tuoi-contatti-di-gmail-su-sistemi-operativi-windows/"><u>Metodo Tecnico Effettivo per Il Backup Dei Tuoi Contatti Di Gmail Su Sistemi Operativi Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-130-music-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia 130 Music</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-music-storage-location-in-apples-itunes-across-windowsmacos-computers/"><u>Understanding Music Storage Location in Apple's iTunes Across Windows/macOS Computers</u></a></li>
 </ul></div>
 

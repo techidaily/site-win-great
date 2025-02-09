@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Loop Management in PCDJ with DEX 3 Walkthrough
-date: 2025-01-26T01:59:01.424Z
-updated: 2025-01-26T19:02:08.207Z
+date: 2025-02-05T17:14:39.902Z
+updated: 2025-02-08T23:19:19.042Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,16 +61,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-journey-through-ingenious-animated-texts-top-14-snapshots-for-2024/"><u>[Updated] Journey Through Ingenious Animated Texts Top 14 Snapshots for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-messenger-and-instagram-direct-chats-wont-be-encrypted-until-2022/"><u>Facebook Messenger and Instagram Direct Chats Won't Be Encrypted Until 2022</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-facile-a-lutilisation-pour-changer-le-stockage-defaut-dans-windows-11-sans-suppression/"><u>Guide Facile À L'Utilisation Pour Changer Le Stockage Défaut Dans Windows 11 Sans Suppression</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nokia-c22-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nokia C22 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-twitter-vids-to-mp3-easy-extraction-techniques/"><u>In 2024, Twitter Vids to MP3 Easy Extraction Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-job-quests-6-chatgpt-techniques-explored/"><u>Innovating Job Quests: 6 ChatGPT Techniques Explored</u></a></li>
-<li><a href="https://win-great.techidaily.com/revamp-your-experience-top-9-solutions-for-unseen-icloud-music-library-on-your-iphone/"><u>Revamp Your Experience: Top 9 Solutions for Unseen iCloud Music Library on Your iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-pc-that-wont-proceed-past-the-windows-preparation-stage/"><u>Step-by-Step Guide to Fixing a PC That Won't Proceed Past the Windows Preparation Stage</u></a></li>
-<li><a href="https://win-great.techidaily.com/uncover-the-mystery-behind-your-full-c-drive-on-windows-11-and-how-to-reclaim-precious-storage/"><u>Uncover the Mystery Behind Your Full C: Drive on Windows 11 & How to Reclaim Precious Storage!</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows-11-systemwiederherstellung-bei-festplattenfehlern-erfolgreich-durchfuhren-mit-5-tipps/"><u>Windows 11 Systemwiederherstellung Bei Festplattenfehlern - Erfolgreich Durchführen Mit 5 Tipps</u></a></li>
-<li><a href="https://win-great.techidaily.com/althol-althory-kyfya-iaaada-tshghyl-windows-server-2012/"><u>التحول الثوري: كيفية إعادة تشغيل Windows Server 2012 ^@#@%@</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-bland-to-breathtaking-add-flare-with-stunning-icon-graphics-on-instagram/"><u>[Updated] From Bland to Breathtaking Add Flare with Stunning Icon Graphics on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-engage-audiences-flawlessly-with-live-screenshares/"><u>[Updated] In 2024, Engage Audiences Flawlessly with Live Screenshares</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>[Updated] In 2024, Quick Launch Checklist Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-memes-for-free-meme-creator-kit/"><u>2024 Approved Generate Memes for Free - Meme Creator Kit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-ts3322-driver-upgrade-free-downloads-and-installation-guide/"><u>Canon PIXMA TS3322 Driver Upgrade: Free Downloads and Installation Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-overview-of-crypto-assets-insights-from-yl-softwares-perspective/"><u>Comprehensive Overview of Crypto Assets: Insights From YL Software's Perspective</u></a></li>
+<li><a href="https://win-great.techidaily.com/explore-hidden-corners-of-windows-file-system-uncover-and-access-covert-folders-and-files-with-ease-yl-computing/"><u>Explore Hidden Corners of Windows File System: Uncover and Access Covert Folders & Files with Ease (YL Computing)</u></a></li>
+<li><a href="https://win-great.techidaily.com/is-it-possible-to-predict-futures-prices-with-the-resurgence-pattern-of-israeli-palestinian-conflict-resolution-expert-analysis-from-yl-tech-solutions/"><u>Is It Possible to Predict Futures Prices with the Resurgence Pattern of Israeli-Palestinian Conflict Resolution? | Expert Analysis From YL Tech Solutions</u></a></li>
+<li><a href="https://solve-info.techidaily.com/problembehebung-fur-hangengebliebene-apple-macs-beim-booten-schnelllosung-finden/"><u>Problembehebung Für Hängengebliebene Apple-Macs Beim Booten - Schnelllösung Finden</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-rippern-von-blu-ray-mit-handbrake-effiziente-filmkonvertierung-fur-alle-plattformen/"><u>Schritt-Für-Schritt-Anleitung Zum Rippern Von Blu-Ray Mit HandBrake: Effiziente Filmkonvertierung Für Alle Plattformen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/streamline-your-audio-content-with-googles-tools-for-2024/"><u>Streamline Your Audio Content with Google’s Tools for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/troubleshooting-tips-fixing-problems-with-windows-defender-insights-from-yl-computing/"><u>Troubleshooting Tips: Fixing Problems with Windows Defender - Insights From YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/unveiling-the-beginnings-how-did-the-chinese-civilization-emerge-a-deep-dive-with-yl-software/"><u>Unveiling the Beginnings: How Did the Chinese Civilization Emerge? - A Deep Dive with YL Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Updated Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
 </ul></div>
 

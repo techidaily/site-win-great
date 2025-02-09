@@ -1,7 +1,7 @@
 ---
 title: "Free PCDJ Update: DeX Version 3.1 Released and Downloaded"
-date: 2025-01-19T22:39:20.936Z
-updated: 2025-01-26T16:25:59.637Z
+date: 2025-02-06T04:35:28.923Z
+updated: 2025-02-08T18:30:48.678Z
 tags:
   - product
 categories:
@@ -62,7 +62,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,19 +84,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex31update-blogcoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-discover-hidden-gems-top-7-under-the-radar-tiktok-emojis/"><u>[New] Discover Hidden Gems Top 7 Under-the-Radar TikTok Emojis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-learn-efficient-techniques-for-clearing-backdrop-in-figma/"><u>[Updated] Learn Efficient Techniques for Clearing Backdrop In Figma</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-resetting-your-stream-reverse-your-video-order-now/"><u>[Updated] Resetting Your Stream Reverse Your Video Order Now</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728477762942-windows-sd/"><u>跨越不同版本——在 Windows 操作系统中如何设置 SD 卡镜像</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-with-intova-edge-x/"><u>Behind the Scenes with Intova Edge X</u></a></li>
-<li><a href="https://win-great.techidaily.com/como-hacer-una-copia-de-seguridad-facil-y-restaurar-el-sistema-windows-7-correctamente/"><u>Cómo Hacer Una Copia De Seguridad Fácil Y Restaurar El Sistema Windows 7 Correctamente</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-optimizing-your-website-with-advanced-tracking-technology/"><u>Cookiebot - Optimizing Your Website with Advanced Tracking Technology</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-restore-factory-settings-on-your-business-laptop-effortless-techniques-excluding-full-os-reinstall/"><u>How to Restore Factory Settings on Your Business Laptop - Effortless Techniques Excluding Full OS Reinstall</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-use-an-external-hdd-for-booting-in-windows-11-top-3-techniques/"><u>How to Use an External HDD for Booting in Windows 11 - Top 3 Techniques</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-use-emojis-on-windows/"><u>How to Use Emojis on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/professional-fb-ad-videos-made-simple-free-kit-included-for-2024/"><u>Professional FB Ad Videos Made Simple – Free Kit Included for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/sicherung-von-vmware-virtual-machines-die-effektivsten-strategien-fur-externe-speichersysteme-verstehen-und-umsetzen/"><u>Sicherung Von VMware Virtual Machines: Die Effektivsten Strategien Für Externe Speichersysteme Verstehen Und Umsetzen</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-10-warning-indicators-of-a-failing-hard-disk-essential-knowledge-and-restoration-strategies/"><u>Top 10 Warning Indicators of a Failing Hard Disk: Essential Knowledge & Restoration Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ideal-plot-crafting-platform/"><u>[Updated] 2024 Approved Ideal Plot Crafting Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[Updated] Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-gratuita-online-da-flv-a-swf-con-movavi-trasforma-il-tuo-video-senza-costi/"><u>Conversione Gratuita Online Da FLV a SWF Con Movavi - Trasforma Il Tuo Video Senza Costi</u></a></li>
+<li><a href="https://win-great.techidaily.com/einleitung-in-die-medientragersicherstellung-ein-umfassender-leitfaden-fur-den-effektiven-datenspeichervorgang/"><u>Einleitung in Die Medienträgersicherstellung: Ein Umfassender Leitfaden Für Den Effektiven Datenspeichervorgang</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-direct3d-hurdle-gain-full-acceleration-access/"><u>End Direct3D Hurdle - Gain Full Acceleration Access</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-overcome-stuck-in-paragon-software-while-upgrading-to-solid-state-drives/"><u>How to Overcome 'Stuck' In Paragon Software While Upgrading to Solid-State Drives</u></a></li>
+<li><a href="https://win-great.techidaily.com/solusi-respons-timbalan-untuk-kesulitan-mcafee-ini-menghindari-status-hapus-file-anda/"><u>Solusi Respons Timbalan Untuk Kesulitan McAfee Ini: Menghindari Status 'Hapus File Anda'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-in-call-of-duty-vanguard/"><u>Troubleshooting Voice Communication in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-it-loop-10-best-free-online-video-looping-platforms/"><u>Updated In 2024, Make It Loop 10 Best Free Online Video Looping Platforms</u></a></li>
+<li><a href="https://win-great.techidaily.com/44k144og44k544oz44oh44o844k44oe44kk44kw44os44o844k344on44oz44gr44ki44kl44k344k544og44og44kv44ot44o844ol44oz44kw5pa55rov44go5luj5pu562w/"><u>サムスンデータマイグレーションによるシステムクローニング方法と代替策</u></a></li>
 </ul></div>
 
