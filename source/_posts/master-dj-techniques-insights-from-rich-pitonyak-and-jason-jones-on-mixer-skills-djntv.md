@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2025-02-06T17:49:43.254Z
-updated: 2025-02-09T05:18:59.833Z
+date: 2025-02-15T01:37:47.098Z
+updated: 2025-02-18T21:59:57.423Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,20 +42,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ranch-raiders-best-friendly-farmers-game-roster/"><u>[Updated] 2024 Approved Ranch Raiders Best Friendly Farmer's Game Roster</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vidma-screen-recorder-unveiled-in-depth-review-insights/"><u>[Updated] In 2024, Vidma Screen Recorder Unveiled In-Depth Review Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>[Updated] The Art of Memes 9 Essential Elements for GIF Perfection</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728502458965-vs/"><u>完全ガイド：クイックフォーマットVSフルフォーマット - 差異を解明する</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-graphics-driver-update-instructions-with-yl-software-support/"><u>Easy Graphics Driver Update Instructions with YL Software Support</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-boost-pc-speed-efficiently-proven-strategies-by-yl-software-experts/"><u>How to Boost PC Speed Efficiently: Proven Strategies by YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-reinstall-dell-inspiron-15-device-drivers-in-windows-10/"><u>How to Update or Reinstall Dell Inspiron 15 Device Drivers in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-programs-transforming-pictures-to-movies/"><u>In 2024, Prime Programs Transforming Pictures to Movies</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-your-drive-space-a-disc-usage-command-breakdown/"><u>Navigating Through Your Drive Space: A Disc Usage Command Breakdown</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-f25-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/proceder-a-une-sauvegarde-efficace-de-son-pc-vers-nas-qnap-astuces-detaillees-pour-loptimisation-sous-windows-11/"><u>Procéder À Une Sauvegarde Efficace De Son PC Vers NAS QNAP : Astuces Détaillées Pour L'optimisation Sous Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-routine-discover-how-chatgpt-can-help-you-thrive/"><u>Revolutionize Your Routine: Discover How ChatGPT Can Help You Thrive</u></a></li>
-<li><a href="https://win-great.techidaily.com/spotting-and-disabling-superfluous-run-time-programs-with-yl-software-solutions/"><u>Spotting & Disabling Superfluous Run-Time Programs with YL Software Solutions</u></a></li>
-<li><a href="https://win-great.techidaily.com/wiederherstellung-verlorener-dateien-auf-windows-1011-entdecken-sie-diese-sechs-bewahrten-losungen/"><u>Wiederherstellung Verlorener Dateien Auf Windows 10/11 - Entdecken Sie Diese Sechs Bewährten Lösungen</u></a></li>
-<li><a href="https://win-great.techidaily.com/wiederholung-geloschter-bootpartitionen-unter-windows-7-8-10-11-fahigkeiten-zur-datenwiedergewinnung-und-partitionsreparatur/"><u>Wiederholung Gelöschter Bootpartitionen Unter Windows 7, 8, 10, 11 - Fähigkeiten Zur Datenwiedergewinnung Und Partitionsreparatur</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-ace-your-tiktok-videos-pick-the-right-editor-for-2024/"><u>[New] Ace Your TikTok Videos Pick the Right Editor for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/1-zwei-methoden-zum-erstellen-eines-bootfahigen-windows-11-usb-flash-drives/"><u>1. Zwei Methoden Zum Erstellen Eines Bootfähigen Windows 11 USB Flash Drives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pixel-perfect-portfolits-the-leading-websites-for-photo-framing/"><u>2024 Approved Pixel-Perfect Portfolits The Leading Websites for Photo Framing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-top-6-hubs-where-you-can-watch-any-music-video-for-free/"><u>Explore These Top 6 Hubs Where You Can Watch Any Music Video For Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-connecting-your-logitech-mouse-using-a-various-usb-receiver/"><u>Guide: Connecting Your Logitech Mouse Using a Various USB Receiver</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-review-of-tcl-32s325-roku-smart-led-television-a-comprehensive-guide-for-2019/"><u>In-Depth Analysis and Review of TCL 32S325 Roku Smart LED Television - A Comprehensive Guide for 2019</u></a></li>
+<li><a href="https://win-great.techidaily.com/probleme-mit-fehlenden-pdfs-erkunde-diese-drei-bewahrten-methoden-fur-eine-schnelle-behebung/"><u>Probleme Mit Fehlenden PDFs: Erkunde Diese Drei Bewährten Methoden Für Eine Schnelle Behebung</u></a></li>
+<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-anleitung-zum-herstellen-einer-systemweiten-datensicherung-vor-dem-migrationsprozess-zu-windows-11/"><u>Schritt-Für-Schritt Anleitung Zum Herstellen Einer Systemweiten Datensicherung Vor Dem Migrationsprozess Zu Windows 11.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-snatching-solution-for-2024/"><u>Screen Snatching Solution for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-restoring-old-versions-of-your-spreadsheet-in-microsoft-excel-via-sharepoint/"><u>Step-by-Step Guide: Restoring Old Versions of Your Spreadsheet in Microsoft Excel via SharePoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-xc0f1103f-with-geforce-now/"><u>Troubleshooting Error Code Xc0f1103f with GeForce Now</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-list-of-top-20-iphones-apps-to-retrieve-lost-files-on-your-desktop-pc-expert-ratings-and-insights/"><u>Ultimate List of Top 20 iPhones Apps to Retrieve Lost Files on Your Desktop PC - Expert Ratings and Insights</u></a></li>
 </ul></div>
 
