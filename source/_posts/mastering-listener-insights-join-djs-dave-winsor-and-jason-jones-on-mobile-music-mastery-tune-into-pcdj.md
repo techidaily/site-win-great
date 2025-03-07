@@ -1,7 +1,7 @@
 ---
 title: "Mastering Listener Insights: Join DJs Dave Winsor & Jason Jones on 'Mobile Music Mastery' - Tune Into #PCDJ"
-date: 2025-02-15T16:04:13.187Z
-updated: 2025-02-18T21:00:08.207Z
+date: 2025-03-02T16:11:31.522Z
+updated: 2025-03-07T20:31:41.325Z
 tags:
   - product
 categories:
@@ -20,10 +20,6 @@ In this segment Dave Winsor explains how to ask your client the right questions 
 Dave takes queues from “_cocktail hour_” to get a feel for what the nights vibe will be like, and applies that to his song selection. Knowing your audience is paramount and Dave provides tips on how to properly read the crowd, and takes musical risks other DJs wouldn’t consider – with a great deal of success.
 
 ##### Check out the entire video below, this is one of the most information and DJ Tips drenched Mobile Music Thursday video segments yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -44,18 +40,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/11/knowingyouraudience.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-pro-tip-speedy-like-video-strategies/"><u>[New] 2024 Approved Instagram Pro Tip Speedy Like-Video Strategies</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-nostalgia-uploading-past-photos-as-snaps/"><u>[Updated] In 2024, Capture Nostalgia - Uploading Past Photos as Snaps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-lens-distortion-a-practical-guide-for-gopro-editors/"><u>[Updated] In 2024, Navigating Lens Distortion A Practical Guide for GoPro Editors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-scripted-time-warps-a-cinematic-approach/"><u>2024 Approved Scripted Time Warps A Cinematic Approach</u></a></li>
-<li><a href="https://win-great.techidaily.com/check-if-your-graphics-card-works-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Check If Your Graphics Card Works With Windows: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/connect-your-pc-to-the-web-a-simple-guide-from-yl-computing-essential-steps-explained/"><u>Connect Your PC to the Web: A Simple Guide From YL Computing - Essential Steps Explained</u></a></li>
-<li><a href="https://win-great.techidaily.com/get-started-with-mining-pools-a-comprehensive-guide-by-yl-computing/"><u>Get Started with Mining Pools: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-adjusting-your-pcs-network-settings-through-windows-control-panel-by-the-team-at-yl-solutions/"><u>Guide: Adjusting Your PC's Network Settings Through Windows Control Panel by the Team at YL Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-audio-notes-essential-tips/"><u>In 2024, Mastering Audio Notes Essential Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>In 2024, The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211840975-solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds!</u></a></li>
-<li><a href="https://win-great.techidaily.com/unlocking-faster-performance-a-step-by-step-guide-to-activating-hardware-acceleration-in-windows-tips-from-yl-computing/"><u>Unlocking Faster Performance: A Step-by-Step Guide to Activating Hardware Acceleration in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-to-converting-and-saving-market-motive-tutorials-in-various-formats-like-mp4-mov-mp3-avi/"><u>Guide to Converting and Saving Market Motive Tutorials in Various Formats Like MP4, MOV, MP3, AVI</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-successfully-saving-your-favorite-nbc-series-and-episodes-for-offline-viewing/"><u>Guide: Successfully Saving Your Favorite NBC Series and Episodes for Offline Viewing</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-capture-and-download-videos-from-disclosetv-in-mp4-format-for-offline-viewing-a-step-by-step-guide/"><u>How to Capture and Download Videos From Disclose.tv in MP4 Format for Offline Viewing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-6-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-save-mylifetime-tv-series-in-high-quality-mp4-format-for-offline-viewing/"><u>How to Save MyLifetime TV Series in High-Quality MP4 Format for Offline Viewing</u></a></li>
+<li><a href="https://win-great.techidaily.com/mass-downloading-coursera-educational-videos-and-closed-captions-for-desktop-users/"><u>Mass-Downloading Coursera Educational Videos & Closed Captions for Desktop Users</u></a></li>
+<li><a href="https://win-community.techidaily.com/master-the-art-of-pricing-your-mobile-dj-business-with-tips-from-john-youngs-pcdj-guide/"><u>Master the Art of Pricing Your Mobile DJ Business with Tips From John Young's PCDJ Guide</u></a></li>
+<li><a href="https://win-great.techidaily.com/master-the-art-of-video-harvesting-on-56com-at-no-charge/"><u>Master the Art of Video Harvesting on 56.com at No Charge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-horizons-a-look-at-movavi-video-editor-plus-2024/"><u>New Horizons A Look at Movavi Video Editor Plus 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/quick-and-easy-system-backups-with-onekey-securely-transferring-data-to-recovery-partitions/"><u>Quick and Easy System Backups with OneKey: Securely Transferring Data to Recovery Partitions</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-transforming-babytv-streams-to-popular-file-types-such-as-mp3-mp4-and-more/"><u>Step-by-Step Tutorial on Transforming BabyTV Streams to Popular File Types Such as MP3, MP4, and More</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55t-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Itel P55T Device</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211066455-9789359043517-the-candle-of-vision/"><u>The Candle of Vision | Free Book</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-viral-trend-you-need-to-try-here-it-is/"><u>The Viral Trend You Need to Try - Here It Is</u></a></li>
 </ul></div>
 

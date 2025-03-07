@@ -1,7 +1,7 @@
 ---
 title: Master DJ Techniques - Insights From Rich Pitonyak & Jason Jones on Mixer Skills | #DJNTV
-date: 2025-02-15T01:37:47.098Z
-updated: 2025-02-18T21:59:57.423Z
+date: 2025-02-28T16:27:08.915Z
+updated: 2025-03-07T18:31:42.067Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ DJNTV’s (_Disc Jockey News TV_) Mobile Music Thursday with DJ Jason Jones feat
 In this new video segment Richard explains how he _‘reads the room’_ during cocktail hour and/or dinner to make music selection decisions for the remainder of the event. One of his more unique tips is to scan the room and look for who’s lip-syncing (_or tapping their toes_) and to what song. Richard also almost always starts with a slow dance track after spotlight dances, mainly because he finds guests are more apt to hit the dance floor immediately vs when he play’s an upbeat tune.
 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,18 +38,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-ace-your-tiktok-videos-pick-the-right-editor-for-2024/"><u>[New] Ace Your TikTok Videos Pick the Right Editor for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/1-zwei-methoden-zum-erstellen-eines-bootfahigen-windows-11-usb-flash-drives/"><u>1. Zwei Methoden Zum Erstellen Eines Bootfähigen Windows 11 USB Flash Drives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pixel-perfect-portfolits-the-leading-websites-for-photo-framing/"><u>2024 Approved Pixel-Perfect Portfolits The Leading Websites for Photo Framing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-top-6-hubs-where-you-can-watch-any-music-video-for-free/"><u>Explore These Top 6 Hubs Where You Can Watch Any Music Video For Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-connecting-your-logitech-mouse-using-a-various-usb-receiver/"><u>Guide: Connecting Your Logitech Mouse Using a Various USB Receiver</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 13 Pro Max</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-review-of-tcl-32s325-roku-smart-led-television-a-comprehensive-guide-for-2019/"><u>In-Depth Analysis and Review of TCL 32S325 Roku Smart LED Television - A Comprehensive Guide for 2019</u></a></li>
-<li><a href="https://win-great.techidaily.com/probleme-mit-fehlenden-pdfs-erkunde-diese-drei-bewahrten-methoden-fur-eine-schnelle-behebung/"><u>Probleme Mit Fehlenden PDFs: Erkunde Diese Drei Bewährten Methoden Für Eine Schnelle Behebung</u></a></li>
-<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-anleitung-zum-herstellen-einer-systemweiten-datensicherung-vor-dem-migrationsprozess-zu-windows-11/"><u>Schritt-Für-Schritt Anleitung Zum Herstellen Einer Systemweiten Datensicherung Vor Dem Migrationsprozess Zu Windows 11.</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/screen-snatching-solution-for-2024/"><u>Screen Snatching Solution for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-guide-restoring-old-versions-of-your-spreadsheet-in-microsoft-excel-via-sharepoint/"><u>Step-by-Step Guide: Restoring Old Versions of Your Spreadsheet in Microsoft Excel via SharePoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-xc0f1103f-with-geforce-now/"><u>Troubleshooting Error Code Xc0f1103f with GeForce Now</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-list-of-top-20-iphones-apps-to-retrieve-lost-files-on-your-desktop-pc-expert-ratings-and-insights/"><u>Ultimate List of Top 20 iPhones Apps to Retrieve Lost Files on Your Desktop PC - Expert Ratings and Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-film-producers-essential-guide-to-color-grading-with-standardized-luts/"><u>[New] 2024 Approved A Film Producer's Essential Guide to Color Grading with Standardized LUTs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>[New] FB's Top Songs on Screen A Step-by-Step Vlog Series</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-secrets-of-success-converting-ipv-video-files-with-flair/"><u>[Updated] 2024 Approved Secrets of Success Converting IPV Video Files with Flair</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>[Updated] Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-14-pro-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 14 Pro screen turns black? | Stellar</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-loop-management-in-pcdj-with-dex-3-walkthrough/"><u>Comprehensive Loop Management in PCDJ with DEX 3 Walkthrough</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-the-variants-in-windows-movie-maker-suite/"><u>Decoding the Variants in Windows Movie Maker Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-clear-communication-overcoming-squad-microphone-glitches/"><u>Ensuring Clear Communication: Overcoming Squad Microphone Glitches</u></a></li>
+<li><a href="https://win-great.techidaily.com/get-the-latest-lyrx-karaoke-application-version-141-new-features-and-improvements-start-your-download-today/"><u>Get the Latest LYRX Karaoke Application, Version 1.4.1: New Features and Improvements – Start Your Download Today!</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-personalize-your-pc-screenwall-navigating-windows-settings-expert-guide-from-yl-software/"><u>How to Personalize Your PC Screenwall: Navigating Windows Settings - Expert Guide From YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-windows-11-search-essential-tips-for-quick-recovery/"><u>Revive Your Windows 11 Search: Essential Tips for Quick Recovery</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-guide-setting-up-system-restore-points-with-yl-computings-tech-solutions/"><u>Step-by-Step Guide: Setting Up System Restore Points with YL Computing's Tech Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-reliable-and-quick-video-converters-for-windows-11-and-10-users/"><u>Top 10 Reliable and Quick Video Converters for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-reasons-behind-hardware-failures-on-windows-systems-insights-from-yl-computing/"><u>Top Reasons Behind Hardware Failures on Windows Systems: Insights From YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-virtual-memory-a-comprehensive-guide-by-yl-computing/"><u>Understanding Virtual Memory: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/yl-computings-tips-for-spotting-reputable-digital-asset-platforms/"><u>YL Computing's Tips for Spotting Reputable Digital Asset Platforms</u></a></li>
 </ul></div>
 
